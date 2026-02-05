@@ -136,12 +136,7 @@ export default function About() {
                         {engineer.education}
                       </span>
                     </div>
-                    <div className="flex items-start gap-3">
-                      <Briefcase className="w-5 h-5 text-gray-400 mt-0.5 flex-shrink-0" aria-hidden="true" />
-                      <span className="text-sm text-gray-600">
-                        {engineer.experience}
-                      </span>
-                    </div>
+                  
                   </div>
 
                   {/* Contact */}
