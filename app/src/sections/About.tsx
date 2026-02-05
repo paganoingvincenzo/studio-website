@@ -14,6 +14,7 @@ const engineers = [
       'Consulenza Tecnica Legale',
     ],
     education: 'Laurea in Ingegneria Elettronica - Seconda Università di Napoli',
+        experience: '',
     email: 'giovannicostanzo@libero.it',
     phone: '331 928 4991',
     color: 'from-blue-500 to-blue-700',
@@ -31,6 +32,7 @@ const engineers = [
       'Impianti Elettrici',
     ],
     education: 'Laurea in Ingegneria Elettronica - Seconda Università di Napoli',
+        experience: '',
   
     email: 'vpagano@libero.it',
     phone: '338 892 0421',
