@@ -14,7 +14,6 @@ const engineers = [
       'Consulenza Tecnica Legale',
     ],
     education: 'Laurea in Ingegneria Elettronica - Seconda Università di Napoli',
-    experience: 'Responsabile Tecnico H2 Power S.r.l.',
     email: 'giovannicostanzo@libero.it',
     phone: '331 928 4991',
     color: 'from-blue-500 to-blue-700',
@@ -32,7 +31,7 @@ const engineers = [
       'Impianti Elettrici',
     ],
     education: 'Laurea in Ingegneria Elettronica - Seconda Università di Napoli',
-    experience: 'Progettista presso Mari Ingegneria Project S.r.l.',
+  
     email: 'vpagano@libero.it',
     phone: '338 892 0421',
     color: 'from-amber-500 to-orange-600',
