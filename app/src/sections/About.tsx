@@ -1,4 +1,4 @@
-import { Award, GraduationCap, Briefcase, Mail, Phone } from 'lucide-react';
+import { Award, GraduationCap,  Mail, Phone } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 
 const engineers = [
