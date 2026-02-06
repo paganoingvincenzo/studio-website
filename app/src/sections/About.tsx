@@ -5,7 +5,7 @@ const engineers = [
   {
     name: 'Ing. Giovanni Costanzo',
     role: 'Co-fondatore',
-    image: ''/team/giovanni-costanzo.jpg'',
+    image: ''/team/Foto Giovanni Costanzo.jpeg'',
     albo: 'N. 3919 - Sez. A Albo Ingegneri Caserta',
     ctu: 'Consulente Tecnico d\'Ufficio - Tribunale Napoli Nord',
     specialization: [
@@ -22,7 +22,7 @@ const engineers = [
   {
     name: 'Ing. Vincenzo Pagano',
     role: 'Co-fondatore',
-    image: ''/team/vincenzo-pagano.jpg'',
+    image: ''/team/Vincenzo Pagano.jpg'',
     albo: 'Sez. A Albo Ingegneri di Caserta',
     ctu: 'Esperto in Gestione dell\'Energia (E.G.E.) certificato',
     specialization: [
