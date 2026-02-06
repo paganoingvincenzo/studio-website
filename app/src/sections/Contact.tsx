@@ -31,8 +31,7 @@ const contactInfo = [
     icon: Phone,
     title: 'Telefono',
     content: '331 928 4991 · 338 892 0421',
-    subContent: '331 928 4991 (Costanzo) · 338 892 0421 (Pagano)',
-
+    
   },
   {
     icon: Mail,
