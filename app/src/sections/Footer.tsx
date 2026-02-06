@@ -93,22 +93,27 @@ export default function Footer() {
                 >
                   <MapPin className="w-5 h-5 mt-0.5 flex-shrink-0" aria-hidden="true" />
                   <span className="text-sm">
-                    Via Vittorio Emanuele III n. 95
-                    <br />
-                    81031 Aversa (CE)
-                  </span>
+                Via IV Novembre 137                    <br />
+                81038 Trentola-Ducenta (CE)                </a>
+              </li>
+              <li>
+                <a
+                  href="tel:+393319284991"
+                  className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
+                >
+                  <Phone className="w-5 h-5 flex-shrink-0" aria-hidden="true" />
+                  <span className="text-sm">331 928 4991 (Costanzo)</span>
                 </a>
               </li>
               <li>
                 <a
-                  href="tel:+390818113194"
+                  href="tel:+393388920421"
                   className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
                 >
                   <Phone className="w-5 h-5 flex-shrink-0" aria-hidden="true" />
-                  <span className="text-sm">081 811 3194</span>
+                  <span className="text-sm">338 892 0421 (Pagano)</span>
                 </a>
-              </li>
-              <li>
+<li>
                 <a
                   href="mailto:giovannicostanzo@libero.it"
                   className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
