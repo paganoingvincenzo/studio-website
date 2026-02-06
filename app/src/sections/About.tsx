@@ -5,7 +5,7 @@ const engineers = [
   {
     name: 'Ing. Giovanni Costanzo',
     role: 'Co-fondatore',
-    image: '/team/Foto Giovanni Costanzo.jpeg',
+    image: '/team/Giovanni Costanzo.jpg',
     albo: 'N. 3919 - Sez. A Albo Ingegneri Caserta',
     ctu: 'Consulente Tecnico d\'Ufficio - Tribunale Napoli Nord',
     specialization: [
