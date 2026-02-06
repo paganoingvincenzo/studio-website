@@ -145,7 +145,7 @@ export default function Contact() {
 
             {/* WhatsApp Button */}
             <a
-              href=https://chat.whatsapp.com/BSFyvZPGS3I4ox0RXNmWK9"
+              href="https://chat.whatsapp.com/BSFyvZPGS3I4ox0RXNmWK9"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 p-5 bg-green-50 rounded-xl hover:bg-green-100 transition-colors group"
