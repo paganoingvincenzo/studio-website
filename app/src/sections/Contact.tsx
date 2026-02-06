@@ -30,7 +30,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'Telefono',
-    content: '331 928 4991 · 338 892 0421',
+    content: '331 928 4991 (Ing. Costanzo) · 338 892 0421 (Ing. Pagano)',
     
   },
   {
