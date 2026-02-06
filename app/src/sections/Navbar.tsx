@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { scrollToSection } from '@/lib/scrollTo';
-import logoImg from '../assets/logo.png'; // o .svg
+import logoImg from '../assets/logo-new.png'; // o .svg
 
 const navLinks = [
   { name: 'Home', href: '#home' },
