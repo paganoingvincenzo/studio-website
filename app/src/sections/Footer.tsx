@@ -85,7 +85,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="https://maps.google.com/?q=Via+Vittorio+Emanuele+III+95+Aversa+CE"
+                  href="https://maps.google.com/?q=Via+IV+Novembre+137%2C+81038+Trentola-Ducenta+CE"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start gap-3 text-blue-100 hover:text-white transition-colors"
@@ -98,7 +98,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="tel:+393319284991"
+                  href="tel:+3935192849921"
                   className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
                 >
                   <Phone className="w-5 h-5 flex-shrink-0" aria-hidden="true" />
