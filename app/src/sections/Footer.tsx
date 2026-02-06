@@ -83,28 +83,31 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold text-lg mb-6">Contatti</h4>
             <ul className="space-y-4">
-              <li>
-                <a
-                  href="https://maps.google.com/?q=Via+IV+Novembre+137%2C+81038+Trentola-Ducenta+CE"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-start gap-3 text-blue-100 hover:text-white transition-colors"
-                  aria-label="Apri indirizzo su Google Maps"
-                >
-                  <MapPin className="w-5 h-5 mt-0.5 flex-shrink-0" aria-hidden="true" />
-                  <span className="text-sm">
-                Via IV Novembre 137                    <br />
-                81038 Trentola-Ducenta (CE)                </a>
-              </li>
-              <li>
-                <a
-                  href="tel:+393319284991"
-                  className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
-                >
-                  <Phone className="w-5 h-5 flex-shrink-0" aria-hidden="true" />
-                  <span className="text-sm">331 928 4991 (Costanzo)</span>
-                </a>
-              </li>
+  <li>
+    <a
+      href="https://maps.google.com/?q=Via+IV+Novembre+137%2C+81038+Trentola-Ducenta+CE"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="flex items-start gap-3 text-blue-100 hover:text-white transition-colors"
+      aria-label="Apri indirizzo su Google Maps"
+    >
+      <MapPin className="w-5 h-5 mt-0.5 flex-shrink-0" aria-hidden="true" />
+      <span className="text-sm">
+        Via IV Novembre 137
+        <br />
+        81038 Trentola-Ducenta (CE)
+      </span>
+    </a>
+  </li>
+  <li>
+    <a
+      href="tel:+393319284991"
+      className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
+    >
+      <Phone className="w-5 h-5 flex-shrink-0" aria-hidden="true" />
+      <span className="text-sm">331 928 4991 (Costanzo)</span>
+    </a>
+  </li>
               <li>
                 <a
                   href="tel:+393388920421"
