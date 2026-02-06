@@ -145,7 +145,7 @@ export default function Contact() {
 
             {/* WhatsApp Button */}
             <a
-              href="https://wa.me/393319284991?text=Buongiorno%2C%20vorrei%20informazioni%20sui%20vostri%20servizi."
+              href=https://chat.whatsapp.com/BSFyvZPGS3I4ox0RXNmWK9"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 p-5 bg-green-50 rounded-xl hover:bg-green-100 transition-colors group"
