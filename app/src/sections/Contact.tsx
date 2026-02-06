@@ -24,15 +24,15 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Indirizzo',
-    content: 'Via Vittorio Emanuele III n. 95',
-    subContent: '81031 Aversa (CE)',
+    content: 'Via IV Novembre 137',
+    subContent: 'Trentola-Ducenta (CE)',
   },
   {
     icon: Phone,
     title: 'Telefono',
-    content: '081 811 3194',
+    content: '331 928 4991 · 338 892 0421',
     subContent: '331 928 4991 (Costanzo) · 338 892 0421 (Pagano)',
-    href: 'tel:+390818113194',
+
   },
   {
     icon: Mail,
