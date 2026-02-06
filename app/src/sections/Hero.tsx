@@ -170,7 +170,7 @@ export default function Hero() {
               </div>
 
               {/* Floating Badge */}
-              <div className="absolute -bottom-6 -left-6 bg-gradient-to-br from-[#1e3a5f] to-[#2d5a8a] text-white p-4 rounded-xl shadow-xl">
+              <div className="absolute -bottom-16 -left-6 bg-gradient-to-br from-[#1e3a5f] to-[#2d5a8a] text-white p-4 rounded-xl shadow-xl">
                 <p className="text-3xl font-bold">15+</p>
                 <p className="text-sm text-blue-100">Anni di Esperienza</p>
               </div>
