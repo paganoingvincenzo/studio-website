@@ -1,11 +1,13 @@
 import { Award, GraduationCap,  Mail, Phone } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
+import costanzoImg from '../assets/Costanzo.jpg';
+import paganoImg from '../assets/Pagano.jpg';
 
 const engineers = [
   {
     name: 'Ing. Giovanni Costanzo',
     role: 'Co-fondatore',
-    image: '/team/Costanzo.jpg',
+    image: costanzoImg,
     albo: 'N. 3919 - Sez. A Albo Ingegneri Caserta',
     ctu: 'Consulente Tecnico d\'Ufficio - Tribunale Napoli Nord',
     specialization: [
@@ -22,7 +24,7 @@ const engineers = [
   {
     name: 'Ing. Vincenzo Pagano',
     role: 'Co-fondatore',
-    image: '/team/Pagano.jpg',
+    image: paganoImg,
     albo: 'Sez. A Albo Ingegneri di Caserta',
     ctu: 'Esperto in Gestione dell\'Energia (E.G.E.) certificato',
     specialization: [
