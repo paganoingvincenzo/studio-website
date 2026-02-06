@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { scrollToSection } from '@/lib/scrollTo';
+import logoImg from '../assets/logo.png'; // o .svg
 
 const navLinks = [
   { name: 'Home', href: '#home' },
@@ -59,9 +60,12 @@ export default function Navbar() {
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <div className="flex items-center gap-2">
-              <div className="w-10 h-10 bg-gradient-to-br from-[#1e3a5f] to-[#2d5a8a] rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg" aria-hidden="true">CP</span>
-              </div>
+              <img
+   src={logoImg}
+   alt="Logo Studio Costanzo-Pagano"
+   className="w-10 h-10 rounded-lg object-contain" // 'object-contain' evita che il logo venga tagliato
+/>
+
               <div className="hidden sm:block">
                 <p className="text-lg font-bold text-[#1e3a5f] leading-tight">
                   Studio Costanzo-Pagano
