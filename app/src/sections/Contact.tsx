@@ -25,7 +25,7 @@ const contactInfo = [
     icon: MapPin,
     title: 'Indirizzo',
     content: 'Via IV Novembre 137',
-    subContent: 'Trentola-Ducenta (CE)',
+        subContent: '81038 Trentola-Ducenta (CE)',
   },
   {
     icon: Phone,
