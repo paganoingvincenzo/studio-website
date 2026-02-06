@@ -25,7 +25,7 @@ const engineers = [
     name: 'Ing. Vincenzo Pagano',
     role: 'Co-fondatore',
     image: paganoImg,
-    albo: 'Sez. A Albo Ingegneri di Caserta',
+    albo: 'N. 3449 - Sez. A Albo Ingegneri di Caserta',
     ctu: 'Esperto in Gestione dell\'Energia (E.G.E.) certificato',
     specialization: [
       'Efficienza Energetica',
