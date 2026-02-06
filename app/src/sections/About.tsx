@@ -5,7 +5,7 @@ const engineers = [
   {
     name: 'Ing. Giovanni Costanzo',
     role: 'Co-fondatore',
-    image: 'GC',
+    image: ''/team/giovanni-costanzo.jpg'',
     albo: 'N. 3919 - Sez. A Albo Ingegneri Caserta',
     ctu: 'Consulente Tecnico d\'Ufficio - Tribunale Napoli Nord',
     specialization: [
@@ -22,7 +22,7 @@ const engineers = [
   {
     name: 'Ing. Vincenzo Pagano',
     role: 'Co-fondatore',
-    image: 'VP',
+    image: ''/team/vincenzo-pagano.jpg'',
     albo: 'Sez. A Albo Ingegneri di Caserta',
     ctu: 'Esperto in Gestione dell\'Energia (E.G.E.) certificato',
     specialization: [
@@ -87,12 +87,11 @@ export default function About() {
                 <div className="px-8 pb-8 -mt-12 relative">
                   {/* Avatar */}
                   <div className="w-24 h-24 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-6 border-4 border-white">
-                    <span
-                      className={`text-3xl font-bold bg-gradient-to-br ${engineer.color} bg-clip-text text-transparent`}
-                      aria-hidden="true"
-                    >
-                      {engineer.image}
-                    </span>
+                <img
+                  src={engineer.image}
+                  alt={engineer.name}
+                  className="w-full h-full object-cover rounded-2xl"
+                />
                   </div>
 
                   {/* Info */}
