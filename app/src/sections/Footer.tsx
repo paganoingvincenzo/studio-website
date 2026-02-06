@@ -97,7 +97,7 @@ export default function Footer() {
         <br />
         81038 Trentola-Ducenta (CE)
       </span>
-    </a>
+        </a>
   </li>
   <li>
     <a
@@ -108,15 +108,16 @@ export default function Footer() {
       <span className="text-sm">331 928 4991 (Costanzo)</span>
     </a>
   </li>
-              <li>
-                <a
-                  href="tel:+393388920421"
-                  className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
-                >
-                  <Phone className="w-5 h-5 flex-shrink-0" aria-hidden="true" />
-                  <span className="text-sm">338 892 0421 (Pagano)</span>
-                </a>
-<li>
+  <li>
+    <a
+      href="tel:+393388920421"
+      className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
+    >
+      <Phone className="w-5 h-5 flex-shrink-0" aria-hidden="true" />
+      <span className="text-sm">338 892 0421 (Pagano)</span>
+    </a>
+  </li>
+
                 <a
                   href="mailto:giovannicostanzo@libero.it"
                   className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors"
