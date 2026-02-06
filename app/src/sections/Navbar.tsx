@@ -63,7 +63,7 @@ export default function Navbar() {
               <img
    src={logoImg}
    alt="Logo Studio Costanzo-Pagano"
-   className="w-10 h-10 rounded-lg object-contain" // 'object-contain' evita che il logo venga tagliato
+   className="w-auto h-16 rounded-lg object-contain" // 'object-contain' evita che il logo venga tagliato
 />
 
               <div className="hidden sm:block">
