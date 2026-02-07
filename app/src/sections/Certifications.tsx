@@ -81,11 +81,11 @@ export default function Certifications() {
               onClick={() => setSelectedImage(img)}
             >
               <CardContent className="p-0">
-                <div className="relative aspect-[3/4] bg-gray-200">
+                <div className="relative bg-gray-200">
                   <img
                     src={img}
                     alt={`Certificato ${i + 1}`}
-                    className="w-full h-full object-cover"
+                    className="w-full h-auto object-contain"
                   />
                   <div className="absolute inset-0 bg-black/0 hover:bg-black/30 flex items-center justify-center transition">
                     <ZoomIn className="text-white opacity-0 hover:opacity-100" />
