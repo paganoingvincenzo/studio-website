@@ -1,13 +1,18 @@
-import { projects } from "../data/projects";
+import lavori from "../data/lavori.json";
 
 export default function Projects() {
-  const sorted = [...projects].sort((a, b) => {
+  // Ordina per data decrescente
+  const sorted = [...lavori].sort((a, b) => {
     if (a.date > b.date) return -1;
     if (a.date < b.date) return 1;
     return 0;
   });
 
-  const formatDate = (date: string, precision: "day" | "month" | "year" = "day") => {
+  // Formattazione data
+  const formatDate = (
+    date: string,
+    precision: "day" | "month" | "year" = "day"
+  ) => {
     const y = date.slice(0, 4);
     const m = date.slice(5, 7);
     const d = date.slice(8, 10);
@@ -70,6 +75,18 @@ export default function Projects() {
 
             {p.description && (
               <div style={{ marginTop: 8 }}>{p.description}</div>
+            )}
+
+            {p.tags && (
+              <div
+                style={{
+                  marginTop: 8,
+                  opacity: 0.7,
+                  fontSize: "0.85rem",
+                }}
+              >
+                {p.tags}
+              </div>
             )}
           </div>
         ))}
