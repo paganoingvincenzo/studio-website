@@ -15,7 +15,6 @@ function CookieBanner() {
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
-    // Mostra il banner solo se non è già stato accettato
     const consent = localStorage.getItem('cookie-consent');
     if (!consent) {
       setVisible(true);
@@ -106,13 +105,14 @@ function WhatsAppButton() {
     </div>
   );
 }
+
 function HomePage() {
   return (
     <main id="main-content">
       <Hero />
       <About />
       <Services />
-            <Certifications />
+      <Certifications />
       <Tools />
       <Contact />
     </main>
@@ -126,25 +126,31 @@ function ProjectsPage() {
     </main>
   );
 }
+
+function CertificationsPage() {
+  return (
+    <main id="main-content">
+      <Certifications />
+    </main>
+  );
+}
+
 function App() {
   return (
     <BrowserRouter>
-
       <div className="min-h-screen bg-white">
-
         <Navbar />
 
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/lavori" element={<ProjectsPage />} />
+          <Route path="/attestati" element={<CertificationsPage />} />
         </Routes>
 
         <Footer />
         <WhatsAppButton />
         <CookieBanner />
-
       </div>
-
     </BrowserRouter>
   );
 }
