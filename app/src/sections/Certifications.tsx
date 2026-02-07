@@ -29,7 +29,7 @@ import pdf21 from '../assets/certifications/pdf21_page1.webp';
 import pdf22 from '../assets/certifications/pdf22_page1.webp';
 import pdf23 from '../assets/certifications/pdf23_page1.webp';
 
-/* Nuovi certificati caricati */
+/* Nuovi certificati */
 import apdf1 from '../assets/certifications/apdf1_page1.webp';
 import apdf2 from '../assets/certifications/apdf2_page1.webp';
 import apdf3 from '../assets/certifications/apdf3_page1.webp';
@@ -50,137 +50,15 @@ import apdf18 from '../assets/certifications/apdf18_page1.webp';
 import apdf19 from '../assets/certifications/apdf19_page1.webp';
 import apdf20 from '../assets/certifications/apdf20_page1.webp';
 
-/* Elenco attestati */
+/* Array SOLO IMMAGINI */
 const certifications = [
-  {
-    title: 'RSPP – Modulo B Macrosettore 7 (60 ore)',
-    image: pdf21,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2009',
-    description: 'CLAAI Caserta – D.Lgs. 81/08 – 23/10/2009',
-  },
-  {
-    title: 'RSPP – Modulo B Macrosettore Ateco 9 (8 ore)',
-    image: pdf22,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2009',
-    description: 'CLAAI Caserta – Ateco 9 – 23/10/2009',
-  },
-  {
-    title: 'RSPP – Modulo C (24 ore)',
-    image: pdf23,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2009',
-    description: 'CLAAI Caserta – D.Lgs. 195/2003 – 30/10/2009',
-  },
-
-  {
-    title: 'Energy Manager – Esperto in Gestione dell’Energia',
-    image: pdf4,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2016',
-    description: 'ISO 17024 – 30 ore – Crediti CNI',
-  },
-  {
-    title: 'Academy Tour – Fotovoltaico (Fronius / Q-Cells / Delpaso)',
-    image: pdf1,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2019',
-    description: 'Energia Italia – Nola',
-  },
-  {
-    title: 'Academy Tour – Fotovoltaico (SolarEdge / Winaico)',
-    image: pdf2,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2019',
-    description: 'Energia Italia – Mercato San Severino',
-  },
-
-  {
-    title: 'Legge di Bilancio 2022 – Bonus Edilizi',
-    image: pdf9,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2022',
-    description: 'Beta Formazione',
-  },
-
-  {
-    title: 'Aggiornamento RSPP – Tutti i Macrosettori',
-    image: pdf3,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2023',
-    description: '40 ore – D.Lgs. 81/08',
-  },
-  {
-    title: 'Bonus Fiscali – Sicurezza in Cantiere',
-    image: pdf8,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2023',
-    description: 'Beta Formazione',
-  },
-  {
-    title: 'Consulente Tecnico d’Ufficio (CTU)',
-    image: pdf10,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2023',
-    description: 'Tribunale – 12 ore',
-  },
-
-  {
-    title: 'Gestione Gruppi di Lavoro',
-    image: pdf7,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2024',
-    description: 'Problem Solving',
-  },
-  {
-    title: 'Aggiornamento Operatori FER',
-    image: pdf5,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2024',
-    description: 'D.Lgs. 28/2011',
-  },
-
-  {
-    title: 'Excel 365 – Livello Base',
-    image: pdf6,
-    holder: 'Ing. Giovanni Costanzo',
-    date: '2025',
-    description: 'Beta Formazione',
-  },
-
-  /* Attestati generici */
-  { title: 'Attestato Professionale', image: pdf11, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf12, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf13, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf14, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf15, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf16, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf17, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf18, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf19, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: pdf20, holder: 'Ing. Giovanni Costanzo', date: '—' },
-
-  /* Nuovi attestati */
-  { title: 'Attestato Professionale', image: apdf1, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf2, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf3, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf5, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf6, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf7, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf8, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf9, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf10, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf11, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf12, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf13, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf14, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf15, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf16, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf17, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf18, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf19, holder: 'Ing. Giovanni Costanzo', date: '—' },
-  { title: 'Attestato Professionale', image: apdf20, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  pdf21, pdf22, pdf23,
+  pdf4, pdf1, pdf2,
+  pdf9, pdf3, pdf8, pdf10,
+  pdf7, pdf5, pdf6,
+  pdf11, pdf12, pdf13, pdf14, pdf15, pdf16, pdf17, pdf18, pdf19, pdf20,
+  apdf1, apdf2, apdf3, apdf5, apdf6, apdf7, apdf8, apdf9, apdf10,
+  apdf11, apdf12, apdf13, apdf14, apdf15, apdf16, apdf17, apdf18, apdf19, apdf20
 ];
 
 export default function Certifications() {
@@ -192,41 +70,26 @@ export default function Certifications() {
 
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">Attestati Professionali</h2>
-          <p className="text-gray-600">
-            Certificazioni e qualifiche professionali
-          </p>
+          <p className="text-gray-600">Galleria certificati</p>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {certifications.map((cert, i) => (
+          {certifications.map((img, i) => (
             <Card
               key={i}
               className="cursor-pointer shadow-lg hover:shadow-xl"
-              onClick={() => setSelectedImage(cert.image)}
+              onClick={() => setSelectedImage(img)}
             >
               <CardContent className="p-0">
                 <div className="relative aspect-[3/4] bg-gray-200">
                   <img
-                    src={cert.image}
-                    alt={cert.title}
+                    src={img}
+                    alt={`Certificato ${i + 1}`}
                     className="w-full h-full object-cover"
                   />
-
                   <div className="absolute inset-0 bg-black/0 hover:bg-black/30 flex items-center justify-center transition">
                     <ZoomIn className="text-white opacity-0 hover:opacity-100" />
                   </div>
-                </div>
-
-                <div className="p-4">
-                  <h3 className="font-bold">{cert.title}</h3>
-                  <p className="text-sm text-blue-900">{cert.holder}</p>
-                  <p className="text-xs text-gray-500">{cert.date}</p>
-
-                  {cert.description && (
-                    <p className="text-sm text-gray-600 mt-2">
-                      {cert.description}
-                    </p>
-                  )}
                 </div>
               </CardContent>
             </Card>
@@ -234,7 +97,6 @@ export default function Certifications() {
         </div>
       </div>
 
-      {/* Modal */}
       {selectedImage && (
         <div
           className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-4"
