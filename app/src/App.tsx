@@ -7,6 +7,7 @@ import Services from './sections/Services';
 import Tools from './sections/Tools';
 import Contact from './sections/Contact';
 import Footer from './sections/Footer';
+import Projects from "./sections/Projects";
 
 function CookieBanner() {
   const [visible, setVisible] = useState(false);
