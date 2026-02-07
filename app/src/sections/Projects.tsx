@@ -8,7 +8,10 @@ export default function Projects() {
     return 0;
   });
 
-  const formatDate = (date: string, precision: "day" | "month" | "year" = "year") => {
+  const formatDate = (
+    date: string,
+    precision: "day" | "month" | "year" = "year"
+  ) => {
     if (precision === "year") return date;
     return date;
   };
@@ -68,17 +71,7 @@ export default function Projects() {
               <div style={{ marginTop: 8 }}>{p.description}</div>
             )}
 
-            {p.tags && (
-              <div
-                style={{
-                  marginTop: 8,
-                  opacity: 0.7,
-                  fontSize: "0.85rem",
-                }}
-              >
-                {p.tags.join(", ")}
-              </div>
-            )}
+            {/* RIMOSSO: niente più tags, niente più nomi dei professionisti */}
           </div>
         ))}
 
