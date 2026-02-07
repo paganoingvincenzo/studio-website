@@ -8,10 +8,7 @@ export default function Projects() {
     return 0;
   });
 
-  const formatDate = (
-    date: string,
-    precision: "day" | "month" | "year" = "year"
-  ) => {
+  const formatDate = (date: string, precision: "day" | "month" | "year" = "year") => {
     if (precision === "year") return date;
     return date;
   };
@@ -56,7 +53,7 @@ export default function Projects() {
               <strong>{p.title}</strong>
 
               <span style={{ opacity: 0.7 }}>
-                {formatDate(p.date, p.datePrecision ?? "year")}
+                {formatDate(p.date, "year")}
               </span>
             </div>
 
@@ -79,7 +76,7 @@ export default function Projects() {
                   fontSize: "0.85rem",
                 }}
               >
-                {p.tags}
+                {p.tags.join(", ")}
               </div>
             )}
           </div>
@@ -92,5 +89,6 @@ export default function Projects() {
     </section>
   );
 }
+
 
 
