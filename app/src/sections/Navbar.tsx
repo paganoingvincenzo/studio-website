@@ -3,7 +3,7 @@ import { Menu, X, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { scrollToSection } from '@/lib/scrollTo';
 import logoImg from '../assets/logo-new.png';
-import { Link } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 
 const navLinks: Array<
   | { name: string; type: 'section'; href: `#${string}` }
@@ -23,6 +23,9 @@ export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
+  const location = useLocation();
+  const navigate = useNavigate();
+
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 50);
     window.addEventListener('scroll', handleScroll);
@@ -41,8 +44,21 @@ export default function Navbar() {
   }, []);
 
   const handleNavClick = (href: string) => {
-    scrollToSection(href);
     setIsMobileMenuOpen(false);
+
+    // Se siamo già sulla home, scroll diretto
+    if (location.pathname === '/') {
+      scrollToSection(href);
+      return;
+    }
+
+    // Se siamo su un'altra pagina (es. /lavori), torno alla home e poi scrollo
+    navigate('/');
+
+    // Attendo un tick per permettere il render delle sezioni
+    window.setTimeout(() => {
+      scrollToSection(href);
+    }, 50);
   };
 
   return (
@@ -64,7 +80,6 @@ export default function Navbar() {
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-auto py-4">
-
             {/* Logo */}
             <div className="flex items-center gap-2">
               <img
@@ -87,7 +102,7 @@ export default function Navbar() {
             <div className="hidden md:flex items-center gap-8">
               {navLinks.map((link) => {
                 const cls =
-                  "text-sm font-medium text-gray-700 hover:text-[#1e3a5f] transition-colors relative group";
+                  'text-sm font-medium text-gray-700 hover:text-[#1e3a5f] transition-colors relative group';
 
                 if (link.type === 'section') {
                   return (
@@ -148,10 +163,9 @@ export default function Navbar() {
             className="md:hidden bg-white border-t border-gray-100 shadow-lg"
           >
             <div className="px-4 py-4 space-y-3">
-
               {navLinks.map((link) => {
                 const cls =
-                  "block w-full text-left px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors font-medium";
+                  'block w-full text-left px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors font-medium';
 
                 if (link.type === 'section') {
                   return (
@@ -183,7 +197,6 @@ export default function Navbar() {
                   Chiamaci
                 </Button>
               </a>
-
             </div>
           </div>
         )}
