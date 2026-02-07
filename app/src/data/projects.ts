@@ -1,16 +1,3 @@
-Gli errori ora dicono che in src/data/projects.ts c’è codice non TypeScript, probabilmente hai incollato per sbaglio anche pezzi del componente React (JSX) dentro il file dei dati.
-
-Per sistemare, fai così:
-
-Apri app/src/data/projects.ts su GitHub e clicca Edit.
-
-Cancella TUTTO il contenuto attuale.
-
-Incolla ESATTAMENTE questo, senza modifiche:
-
-ts
-// app/src/data/projects.ts
-
 export type Project = {
   id: string;
   title: string;
