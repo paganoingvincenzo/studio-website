@@ -56,7 +56,7 @@ export default function Projects() {
     <section
       style={{
         maxWidth: 1100,
-        margin: "0 auto",
+        margin: "80px auto 0",
         padding: "40px 16px",
       }}
     >
