@@ -7,6 +7,7 @@ import Services from './sections/Services';
 import Tools from './sections/Tools';
 import Contact from './sections/Contact';
 import Footer from './sections/Footer';
+import Certifications from './sections/Certifications';
 import Projects from "./sections/Projects";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -111,6 +112,7 @@ function HomePage() {
       <Hero />
       <About />
       <Services />
+            <Certifications />
       <Tools />
       <Contact />
     </main>
