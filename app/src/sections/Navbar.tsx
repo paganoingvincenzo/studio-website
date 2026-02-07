@@ -16,6 +16,7 @@ const navLinks: Array<
   { name: 'Lavori', type: 'route', to: '/lavori' },
 
   { name: 'Strumenti', type: 'section', href: '#strumenti' },
+    { name: 'Attestati', type: 'section', href: '#attestati' },
   { name: 'Contatti', type: 'section', href: '#contatti' },
 ];
 
