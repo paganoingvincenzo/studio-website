@@ -1,0 +1,2930 @@
+[
+  {
+    "N.": "1",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Ippodromo 'Cirigliano'",
+    "Tipo di Attività": "Ammodernamento, adeguamento e messa in sicurezza impianto illuminazione",
+    "Sito/Ubicazione": "Aversa (CE)"
+  },
+  {
+    "N.": "2",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "3N Cornici",
+    "Tipo di Attività": "Manutenzione straordinaria cabina trasformazione (L.46/90 e DK5600)",
+    "Sito/Ubicazione": "Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "3",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Campeggio LE DUNE",
+    "Tipo di Attività": "Manutenzione straordinaria cabina trasformazione (L.46/90 e DK5600)",
+    "Sito/Ubicazione": "Via Flacca km 9, 04022 Fondi (LT)"
+  },
+  {
+    "N.": "4",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Marcon S.r.l.",
+    "Tipo di Attività": "Manutenzione straordinaria cabina trasformazione (L.46/90 e DK5600)",
+    "Sito/Ubicazione": "Zona industriale Carinaro (CE)"
+  },
+  {
+    "N.": "5",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Stabilimento GAJA'",
+    "Tipo di Attività": "Costruzione e messa a norma imp. illuminazione e FM",
+    "Sito/Ubicazione": "Zona ASI Carinaro (CE)"
+  },
+  {
+    "N.": "6",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "EURO s.r.l. (Suolificio e Tacchificio)",
+    "Tipo di Attività": "Costruzione e messa a norma imp. illuminazione e FM",
+    "Sito/Ubicazione": "Via Leopardi, Lusciano (CE)"
+  },
+  {
+    "N.": "7",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "CDZ s.r.l.",
+    "Tipo di Attività": "Impianto elettrico capannone deposito zucchero",
+    "Sito/Ubicazione": "Via Provinciale delle Brecce 49, Napoli"
+  },
+  {
+    "N.": "8",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "A. Bervicato S.r.l.",
+    "Tipo di Attività": "Manutenzione straordinaria cabina trasformazione (DM 37/08 e CEI 0-16)",
+    "Sito/Ubicazione": "Zona ASI Carinaro (CE)"
+  },
+  {
+    "N.": "9",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "CO.MI.T S.R.L.",
+    "Tipo di Attività": "Manutenzione straordinaria cabina trasformazione (DM 37/08 e CEI 0-16)",
+    "Sito/Ubicazione": "Via Consortile, Zona ASI Carinaro (CE)"
+  },
+  {
+    "N.": "10",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Condominio 10 appartamenti",
+    "Tipo di Attività": "Impianto elettrico + certificazione energetica",
+    "Sito/Ubicazione": "Trentola-Ducenta, Traversa Bovaro S.N.C."
+  },
+  {
+    "N.": "11",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Teatro QUIRINETTA",
+    "Tipo di Attività": "Costruzione e messa a norma imp. illuminazione e FM",
+    "Sito/Ubicazione": "Via Marco Minghetti, Roma"
+  },
+  {
+    "N.": "12",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "SANTA CATERINA SRL",
+    "Tipo di Attività": "Manutenzione straordinaria cabina trasformazione (DM 37/08 e CEI 0-16)",
+    "Sito/Ubicazione": "Via A. Falcone 203, 80127 Napoli"
+  },
+  {
+    "N.": "13",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "IL MATTINO SPA",
+    "Tipo di Attività": "Manutenzione straordinaria cabina trasformazione (DM 37/08 e CEI 0-16)",
+    "Sito/Ubicazione": "Via Chiatamone 65, 80121 Napoli"
+  },
+  {
+    "N.": "14",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Master-Campus Universitario",
+    "Tipo di Attività": "Valutazione requisiti acustici passivi DPCM 05/12/1997",
+    "Sito/Ubicazione": "Fisciano (SA)"
+  },
+  {
+    "N.": "15",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Isolato 399 - Corso Garibaldi",
+    "Tipo di Attività": "Relazione requisiti acustici passivi DPCM 5.12.1997",
+    "Sito/Ubicazione": "Napoli"
+  },
+  {
+    "N.": "16",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Pub Cucchiare'",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Via Provinciale per Nola 35/37/39, San Vitaliano"
+  },
+  {
+    "N.": "17",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Privato (Capodrise)",
+    "Tipo di Attività": "Progettazione impianto FV da 2,94 kW",
+    "Sito/Ubicazione": "Via Amatore Sciesa 8, 81020 Capodrise (CE)"
+  },
+  {
+    "N.": "18",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "EC SOLAR C1 SRL",
+    "Tipo di Attività": "Pratiche GSE, ENEL, Gaudì e Agenzia Dogane per FV 4,14+4,54+6,71 MW",
+    "Sito/Ubicazione": "Tenuta Pozzillo, Sessa Aurunca (CE)"
+  },
+  {
+    "N.": "19",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "ENERGYPROJECT SPA",
+    "Tipo di Attività": "Pratiche GSE, ENEL, Gaudì e Agenzia Dogane per FV 922 kW",
+    "Sito/Ubicazione": "Via Armando Diaz, Cancello ed Arnone (CE)"
+  },
+  {
+    "N.": "20",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Mari Ingegneria",
+    "Tipo di Attività": "Collaborazione progettazione e pratiche per FV 97,02 kW",
+    "Sito/Ubicazione": "Via Vecchia Sarno 174, 80044 Ottaviano (NA)"
+  },
+  {
+    "N.": "21",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Palazzetto Palairno",
+    "Tipo di Attività": "Relazione tecnica L. 10/91",
+    "Sito/Ubicazione": "Baronissi (SA)"
+  },
+  {
+    "N.": "22",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Pezone Paolo",
+    "Tipo di Attività": "Adeguamento Delibera 243/13 per FV 19,88 kW e 99,88 kW",
+    "Sito/Ubicazione": "Via Santa Maria a Cubito, Villa Literno (CE)"
+  },
+  {
+    "N.": "23",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "S.B. Suole di Bosco Salvatore",
+    "Tipo di Attività": "Ampliamento impianto elettrico opificio",
+    "Sito/Ubicazione": "Zona Ind. P.I.P., 81030 Teverola (CE)"
+  },
+  {
+    "N.": "24",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "I.L.V. SAS DI IORIO VITTORIO & C.",
+    "Tipo di Attività": "Adeguamento CEI 0-16 cabina trasformazione",
+    "Sito/Ubicazione": "Via Vallesana, Marano di Napoli"
+  },
+  {
+    "N.": "25",
+    "Anno": "2006-2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "JIMMYMI HOTEL S.r.l.",
+    "Tipo di Attività": "Adeguamento CEI 0-16 cabina trasformazione",
+    "Sito/Ubicazione": "Via Flacca Km 6,800, Fondi (LT)"
+  },
+  {
+    "N.": "26",
+    "Anno": "2010",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Siano Luciano",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 7,92 kW",
+    "Sito/Ubicazione": "Via Canale Superiore n. 2, 83028 Serino (AV)"
+  },
+  {
+    "N.": "27",
+    "Anno": "2010",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "De Santis Giovanni Ubaldo",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 3 kW",
+    "Sito/Ubicazione": "Via Cerzeta n. 62/A, 83029 Solofra (AV)"
+  },
+  {
+    "N.": "28",
+    "Anno": "2010",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Scarpati Lucia",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 4,84 kW",
+    "Sito/Ubicazione": "Via Valente n. 11, 80040 Cercola (NA)"
+  },
+  {
+    "N.": "29",
+    "Anno": "2011",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Energyproject S.p.a.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 922 kW",
+    "Sito/Ubicazione": "Via Armando Diaz snc, 81030 Cancello ed Arnone (CE)"
+  },
+  {
+    "N.": "30",
+    "Anno": "2011",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Fato S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 48 kW",
+    "Sito/Ubicazione": "Dieffe Sistemi, Via SS7 Bis Zona Industriale ASI SNC, 81030 Teverola (CE)"
+  },
+  {
+    "N.": "31",
+    "Anno": "2011",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Di Gennaro Paolo",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 5,52 kW",
+    "Sito/Ubicazione": "Via Libertà n. 229, 80055 Portici (NA)"
+  },
+  {
+    "N.": "32",
+    "Anno": "2011",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Siano Claudio",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 3,91 kW",
+    "Sito/Ubicazione": "Via Ferrari Canale n. 25, 83028 Serino (AV)"
+  },
+  {
+    "N.": "33",
+    "Anno": "2011",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Alajo Concetta",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,86 kW",
+    "Sito/Ubicazione": "Via Valente n. 10, 80040 Cercola (NA)"
+  },
+  {
+    "N.": "34",
+    "Anno": "2011",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Bonfatti Stefania",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,86 kW",
+    "Sito/Ubicazione": "Via Valente n. 12, 80040 Cercola (NA)"
+  },
+  {
+    "N.": "35",
+    "Anno": "2011",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Gallucci Gerardina",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,94 kW",
+    "Sito/Ubicazione": "Via Cerzeta n. 62/A, 83029 Solofra (AV)"
+  },
+  {
+    "N.": "36",
+    "Anno": "2011",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Farina Silvana",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,86 kW",
+    "Sito/Ubicazione": "Via Valente n. 11, 80040 Cercola (NA)"
+  },
+  {
+    "N.": "37",
+    "Anno": "2012",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "EC Solar C1 S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per 3 impianti FV da 4,14 MW, 4,54 MW e 6,71 MW",
+    "Sito/Ubicazione": "Tenuta Pozzillo snc, 81037 Sessa Aurunca (CE)"
+  },
+  {
+    "N.": "38",
+    "Anno": "2012",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Mari Ingegneria Sviluppo S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 97,02 kW",
+    "Sito/Ubicazione": "Via Vecchia Sarno n. 174, 80044 Ottaviano (NA)"
+  },
+  {
+    "N.": "39",
+    "Anno": "2012",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Bianconcini Marialuisa",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 5,39 kW",
+    "Sito/Ubicazione": "Via Contrada Laura n. 3, 82030 Melizzano (BN)"
+  },
+  {
+    "N.": "40",
+    "Anno": "2012",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Cozzolino Rosaria",
+    "Tipo di Attività": "Progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 4,08 kW",
+    "Sito/Ubicazione": "Via Cupa Vicinale Bolino n. 12, 80147 Napoli"
+  },
+  {
+    "N.": "41",
+    "Anno": "2012",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Playa Ticò S.r.l.",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Lido San Pietro Beach, Via Giacinto Diano n. 123, 81030 Castel Volturno (CE)"
+  },
+  {
+    "N.": "42",
+    "Anno": "2013",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Fiamma Vesuviana S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 150 kW",
+    "Sito/Ubicazione": "Via Pentelete n. 77, 80044 Ottaviano (NA)"
+  },
+  {
+    "N.": "43",
+    "Anno": "2013",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Vesuviuslandia S.n.c.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 58,8 kW",
+    "Sito/Ubicazione": "Via M. Falconi n. 1, 80040 San Sebastiano al V. (NA)"
+  },
+  {
+    "N.": "44",
+    "Anno": "2013",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Cioppa Katia",
+    "Tipo di Attività": "Progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 5,85 kW",
+    "Sito/Ubicazione": "Via Tutuni n. 47, 81041 Vitulazio (CE)"
+  },
+  {
+    "N.": "45",
+    "Anno": "2013",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Mai Riccardo",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,94 kW",
+    "Sito/Ubicazione": "Via Figliola n. 27, 80040 San Sebastiano al Vesuvio (NA)"
+  },
+  {
+    "N.": "46",
+    "Anno": "2013",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Russo Enrico",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 5,8 kW",
+    "Sito/Ubicazione": "Via Figliola n. 27, 80040 San Sebastiano al Vesuvio (NA)"
+  },
+  {
+    "N.": "47",
+    "Anno": "2014",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "3N Cornici S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 80 kW",
+    "Sito/Ubicazione": "Via F. Petrarca n. 3, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "48",
+    "Anno": "2014",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "DI.ELLE.CI. S.r.l.",
+    "Tipo di Attività": "Pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 10,5 kW",
+    "Sito/Ubicazione": "Mc Donalds, Via Montanara snc, 57023 Cecina (LI)"
+  },
+  {
+    "N.": "49",
+    "Anno": "2014",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Associazione 'I Normann'",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Chiesa di San Domenico, Piazza San Domenico snc, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "50",
+    "Anno": "2014",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Ditta Pezone Paolo",
+    "Tipo di Attività": "Collaborazione ad adeguamento alla Delibera 243/13 di 2 impianti FV da 19,88 kW e 99,88 kW",
+    "Sito/Ubicazione": "Hotel La Meta, Via Santa Maria a Cubito, 81039 Villa Literno (CE)"
+  },
+  {
+    "N.": "51",
+    "Anno": "2014",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Marcon S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 49 kW",
+    "Sito/Ubicazione": "Via Consortile Zona Industriale snc, 81032 Carinaro (CE)"
+  },
+  {
+    "N.": "52",
+    "Anno": "2014",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Vitagliano Giuseppina",
+    "Tipo di Attività": "Progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Mele n. 17, 80049 Somma Vesuviana (NA)"
+  },
+  {
+    "N.": "53",
+    "Anno": "2015",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Tekno Meccanica S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico; progettazione impianto FV da 29,9 kW",
+    "Sito/Ubicazione": "Via Squillace n. 5, 80022 Arzano (NA)"
+  },
+  {
+    "N.": "54",
+    "Anno": "2015",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Elle S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 19,76 kW",
+    "Sito/Ubicazione": "Via Ferrante Imparato n. 190, 80146 Napoli"
+  },
+  {
+    "N.": "55",
+    "Anno": "2015",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "House S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "House Ceramiche, Via Circumvallazione Esterna n. 62, Melito (NA)"
+  },
+  {
+    "N.": "56",
+    "Anno": "2015",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Jimmy Hotel S.r.l.",
+    "Tipo di Attività": "Collaborazione ad adeguamento alle specifiche CEI 0-16 per cabina elettrica",
+    "Sito/Ubicazione": "Holiday Village, Via Flacca snc, 04022 Fondi (LT)"
+  },
+  {
+    "N.": "57",
+    "Anno": "2015",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Gennary S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 50 kW",
+    "Sito/Ubicazione": "Via San Leonardo n. 117, 80044 Ottaviano (NA)"
+  },
+  {
+    "N.": "58",
+    "Anno": "2015",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Due Esse S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 50 kW",
+    "Sito/Ubicazione": "Via Europa n. 18, 80040 Cercola (NA)"
+  },
+  {
+    "N.": "59",
+    "Anno": "11-12/2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "GENNARY S.R.L.",
+    "Tipo di Attività": "Consulenza POI Energia, progettazione FV, domanda connessione",
+    "Sito/Ubicazione": "Via San Leonardo 117, 80044 Ottaviano"
+  },
+  {
+    "N.": "60",
+    "Anno": "2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Tekno Meccanica S.R.L.",
+    "Tipo di Attività": "Progettazione imp. elettrico e FV 29,9 kW",
+    "Sito/Ubicazione": "Via Squillace 5, 80022 Arzano (NA)"
+  },
+  {
+    "N.": "61",
+    "Anno": "2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "3N Cornici",
+    "Tipo di Attività": "Progettazione impianto FV da 80 kW",
+    "Sito/Ubicazione": "Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "62",
+    "Anno": "2015",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "ELLE S.R.L.",
+    "Tipo di Attività": "Progettazione impianto FV da 19,76 kW",
+    "Sito/Ubicazione": "Via Ferrante Imparato 190, 80146 Napoli"
+  },
+  {
+    "N.": "63",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Ediltoni S.r.l.",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Sala Slot, Via Isonzo n. 1, 81030 Cesa (CE)"
+  },
+  {
+    "N.": "64",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Touring Club Italiano",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Sacrestia Chiesa di SS. Severino e Sossio, Via Bartolomeo Capasso n. 22, 80138 Napoli"
+  },
+  {
+    "N.": "65",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Pezone Paolo",
+    "Tipo di Attività": "Collaborazione a progettazione impianto FV da 19,75 kW",
+    "Sito/Ubicazione": "Via/Vico Garibaldi n. 25, 81030 Parete (CE)"
+  },
+  {
+    "N.": "66",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "F.I.D.I. Sas di Giacomo Di Pietro & C.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "Ristorante La Taverna di Mergellina, Via Mergellina n. 14/15, 80122 Napoli"
+  },
+  {
+    "N.": "67",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Martufi Silverio",
+    "Tipo di Attività": "Progettazione impianto FV da 2,86 kW",
+    "Sito/Ubicazione": "Via Loc. Scalzatoio snc, 81013 Piana di Monte Verna (CE)"
+  },
+  {
+    "N.": "68",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Tiffany Box S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "Scatolificio Primavera, Via C. Colombo n. 2, 80017 Melito (NA)"
+  },
+  {
+    "N.": "69",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Reset S.r.l.",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Parafarmacia Conad, S.S. Sannitica 87 Km 8 snc, 80026 Casoria (NA)"
+  },
+  {
+    "N.": "70",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "La Focaccia S.N.C. di Bocciardo I",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "Via Giulio Cesare n. 84, 80136 Napoli"
+  },
+  {
+    "N.": "71",
+    "Anno": "2016",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Edieffe S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "Strada Consortile Zona Asi snc, 81031 Carinaro (CE)"
+  },
+  {
+    "N.": "72",
+    "Anno": "12/2016",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "HOUSE srl",
+    "Tipo di Attività": "Progettazione imp. elettrico (FM, illuminazione, terra)",
+    "Sito/Ubicazione": "Via Circumvall. Esterna 62, Melito di Napoli (NA)"
+  },
+  {
+    "N.": "73",
+    "Anno": "2016",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "TIFFANY BOX SRL",
+    "Tipo di Attività": "Progettazione imp. elettrico (FM, illuminazione, terra)",
+    "Sito/Ubicazione": "Viale Augusto 122, 80125 Napoli"
+  },
+  {
+    "N.": "74",
+    "Anno": "2016",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Pezone Paolo",
+    "Tipo di Attività": "Progettazione impianto FV da 19,75 kW",
+    "Sito/Ubicazione": "Vico Garibaldi 25, Parete (CE)"
+  },
+  {
+    "N.": "75",
+    "Anno": "2016",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "LA FOCACCIA SNC DI BOCCIARDO I.",
+    "Tipo di Attività": "Progettazione imp. elettrico (FM, illuminazione, terra)",
+    "Sito/Ubicazione": "Via G. Cesare 84, Napoli"
+  },
+  {
+    "N.": "76",
+    "Anno": "2017",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Elci S.r.l.",
+    "Tipo di Attività": "Progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 17,37 kW",
+    "Sito/Ubicazione": "Via Francesco Provenzale n. 5, 80141 Napoli"
+  },
+  {
+    "N.": "77",
+    "Anno": "2017",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 79,92 kW",
+    "Sito/Ubicazione": "Salvi & co. Rappresentanze S.r.l., Corso Garibaldi n. 333, 80028 Grumo Nevano (NA)"
+  },
+  {
+    "N.": "78",
+    "Anno": "2017",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Casa Reclusione 'F. Saporito'",
+    "Tipo di Attività": "Progettazione impianto elettrico Padiglioni 8, 8-bis e Cassata",
+    "Sito/Ubicazione": "Via San Francesco di Paola n. 2, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "79",
+    "Anno": "2017",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Gruppo Funari",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Funari Toyota, Via Piscarelli Loc. Agnano, Pozzuoli (NA)"
+  },
+  {
+    "N.": "80",
+    "Anno": "2017",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Costanzo Michele",
+    "Tipo di Attività": "Progettazione impianto FV da 5,88 kW",
+    "Sito/Ubicazione": "Via 4 novembre n. 151, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "81",
+    "Anno": "07/2017",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Centro riabilitazione Don Orione",
+    "Tipo di Attività": "Progettazione impianto rivelazione incendio Fabbricato A",
+    "Sito/Ubicazione": "Via San Luigi Orione al Vesuvio 15/A, 80056 Ercolano (NA)"
+  },
+  {
+    "N.": "82",
+    "Anno": "2017",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "TCYCLE INDUSTRIES",
+    "Tipo di Attività": "Dimensionamento e taratura protezione cabina trasformazione",
+    "Sito/Ubicazione": "Zona industriale Teverola (CE)"
+  },
+  {
+    "N.": "83",
+    "Anno": "2017",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Opificio stoccaggio Frutta/Verdura",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Via Consortile Zona ASI, Carinaro (CE)"
+  },
+  {
+    "N.": "84",
+    "Anno": "2017",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Casa Reclusione 'F. Saporito'",
+    "Tipo di Attività": "Progettazione imp. elettrico Padiglione 8 e 8bis",
+    "Sito/Ubicazione": "Via San Francesco da Paola 2, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "85",
+    "Anno": "01/2017",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Centro riabilitazione Don Orione",
+    "Tipo di Attività": "Progettazione impianto rivelazione incendio",
+    "Sito/Ubicazione": "Via San Luigi Orione al Vesuvio 15/A, 80056 Ercolano (NA)"
+  },
+  {
+    "N.": "86",
+    "Anno": "06/2017",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "T-CYCLE INDUSTRIES",
+    "Tipo di Attività": "Progettazione imp. elettrico cabina MT/bt",
+    "Sito/Ubicazione": "Zona industriale Teverola (CE)"
+  },
+  {
+    "N.": "87",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "ER S.p.A.",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Centro commerciale Vicolungo Outlet, 28060 Vicolungo (NO)"
+  },
+  {
+    "N.": "88",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 18,83 kW",
+    "Sito/Ubicazione": "First Star Spinelli S.r.l., Via F. Riccio n. 31, 84014 Nocera Inferiore (SA)"
+  },
+  {
+    "N.": "89",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "G&G S.r.l. Immobiliare",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "Via Lavatoio n. 270, 82011 Airola (BN)"
+  },
+  {
+    "N.": "90",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Carrozzeria F.lli Merenda S.n.c.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "Via Firenze n. 10, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "91",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Flexofar S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "Zona ASI, 81030 Gricignano d'Aversa (CE)"
+  },
+  {
+    "N.": "92",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 30 kW + Agenzia Dogane",
+    "Sito/Ubicazione": "Gay Odin S.r.l., Via Vetriera n. 12, 80132 Napoli"
+  },
+  {
+    "N.": "93",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 120,12 kW + Agenzia Dogane",
+    "Sito/Ubicazione": "Lumicart S.r.l., Via Taurana Lotto n. 3 Zona P.I.P., 84012 Angri (SA)"
+  },
+  {
+    "N.": "94",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 4,6 kW",
+    "Sito/Ubicazione": "D'Auria Nicola, Via Virgilio n. 35, 81030 Succivo (CE)"
+  },
+  {
+    "N.": "95",
+    "Anno": "2018",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 41,44 kW + Agenzia Dogane",
+    "Sito/Ubicazione": "Regina di Giorgio Regina & c. SAS, Via A. De Gasperi n. 298, 84016 Pagani (SA)"
+  },
+  {
+    "N.": "96",
+    "Anno": "02/2018",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Flexofar srl",
+    "Tipo di Attività": "Ampliamento e trasformazione imp. elettrico",
+    "Sito/Ubicazione": "Str.st. 7/bis, Zona ASI, 81030 Gricignano d'Aversa (CE)"
+  },
+  {
+    "N.": "97",
+    "Anno": "2019",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Elci S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto di terra",
+    "Sito/Ubicazione": "CDP Immobiliare, Via Galileo Ferraris n. 271, 80142 Napoli"
+  },
+  {
+    "N.": "98",
+    "Anno": "2019",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Logcenter S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "SS 7 bis km 12,5 Zona Industriale snc, 81032 Carinaro (CE)"
+  },
+  {
+    "N.": "99",
+    "Anno": "2019",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Kicco d'or caffè",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Via dei Glicini n. 71, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "100",
+    "Anno": "2019",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto elettrico",
+    "Sito/Ubicazione": "Ditta Esposito Arturo Mirko, Via Pietro Castellino n. 26, 80128 Napoli"
+  },
+  {
+    "N.": "101",
+    "Anno": "2019",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Angeloni Pietro",
+    "Tipo di Attività": "Progettazione impianto FV da 5,99 kW",
+    "Sito/Ubicazione": "Via Fabio Filzi n. 21, Latina"
+  },
+  {
+    "N.": "102",
+    "Anno": "2019",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Menale Salvatore",
+    "Tipo di Attività": "Progettazione impianto FV da 4,56 kW",
+    "Sito/Ubicazione": "Via di Malafede n. 66, 00125 Roma"
+  },
+  {
+    "N.": "103",
+    "Anno": "09/2019",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Comune di Castel Volturno",
+    "Tipo di Attività": "Dichiarazione di Adeguatezza cabina secondaria",
+    "Sito/Ubicazione": "Castel Volturno"
+  },
+  {
+    "N.": "104",
+    "Anno": "2020",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Polimatrix Sas",
+    "Tipo di Attività": "Progettazione impianto FV da 29,9 kW + Agenzia Dogane",
+    "Sito/Ubicazione": "Strada Consortile Zona ASI snc, 81032 Carinaro (CE)"
+  },
+  {
+    "N.": "105",
+    "Anno": "2020",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "AS S.r.l.s",
+    "Tipo di Attività": "Progettazione impianto elettrico",
+    "Sito/Ubicazione": "Via Alveo Sant'Alfonso n. 24, 84012 Angri (SA)"
+  },
+  {
+    "N.": "106",
+    "Anno": "2020",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Iovinella Domenico",
+    "Tipo di Attività": "Collaborazione a progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Fabio Filzi n. 5, 81030 Parete (CE)"
+  },
+  {
+    "N.": "107",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Visintin Giuseppe",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 4,4 kW",
+    "Sito/Ubicazione": "Via Manzoni n. 16, 34078 Sagrado (GO)"
+  },
+  {
+    "N.": "108",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Compagno Lucia",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 5,62 kW",
+    "Sito/Ubicazione": "Via Antonio Zucchelli n. 16, 37072 Gradisca d'Isonzo (GO)"
+  },
+  {
+    "N.": "109",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Gigante Tiziana",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 5,62 kW",
+    "Sito/Ubicazione": "Via Bindo Chiurlo n. 23, 33040 Corno di Rozzano (UD)"
+  },
+  {
+    "N.": "110",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Ranieri Francesco",
+    "Tipo di Attività": "Superbonus 110%: collaborazione a prog. energetica",
+    "Sito/Ubicazione": "Contrada Torre Scafati n. 45, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "111",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Laurenti Carlo",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Stradone della Mainizza n. 38, 34170 Gorizia"
+  },
+  {
+    "N.": "112",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Imbesi Domenico",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Antonio Calderone n. 29, 98051 Barcellona Pozzo di Gotto (ME)"
+  },
+  {
+    "N.": "113",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Lembo Francesca",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Contrada Papa n. 3, 98053 Castroreale (ME)"
+  },
+  {
+    "N.": "114",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Vogrig Sara",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Fornalis n. 7, 33043 Cividale del Friuli (UD)"
+  },
+  {
+    "N.": "115",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Formica Pietro Tindaro",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Due Bagli n. 15, 98057 Milazzo (ME)"
+  },
+  {
+    "N.": "116",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Formica Giovanni Luca 1",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Due Bagli n. 15, 98057 Milazzo (ME)"
+  },
+  {
+    "N.": "117",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Nitopi Rosario",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 5,81 kW",
+    "Sito/Ubicazione": "Strada Statale 113 n. 6, 98057 Milazzo (ME)"
+  },
+  {
+    "N.": "118",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Fonzari Gianfranco",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 4,6 kW",
+    "Sito/Ubicazione": "Via Delle Feresse n. 1, 34077 Ronchi dei Legionari (GO)"
+  },
+  {
+    "N.": "119",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Idea S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + n.2 FV (4,15 kW e 2,9 kW)",
+    "Sito/Ubicazione": "Condominio Nitopi, Via Feliciata n. 17, 98057 Milazzo (ME)"
+  },
+  {
+    "N.": "120",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Conte Raffaele",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 6 kW",
+    "Sito/Ubicazione": "Viale delle Acacie n. 3, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "121",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Pietrovich Svitlana",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica",
+    "Sito/Ubicazione": "Via Marano snc, 81013 Piana di Monteverna (CE)"
+  },
+  {
+    "N.": "122",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Corsica",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica",
+    "Sito/Ubicazione": "Via 4 Novembre n. 106, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "123",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Franco Fabio",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Crocella T traversa n. 19, 80039 Saviano (NA)"
+  },
+  {
+    "N.": "124",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Build Contractor Italia S.R.L.",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Condominio Santoro, Via Umberto I n. 70, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "125",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Capone Nicola",
+    "Tipo di Attività": "Superbonus 110%: CILAS, DL e coll. prog. energetica",
+    "Sito/Ubicazione": "Via Lago Patria n. 146, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "126",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Zazo",
+    "Tipo di Attività": "Superbonus 110%: CILAS, DL e coll. prog. energetica",
+    "Sito/Ubicazione": "Via Lago Patria n. 110, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "127",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Pirozzi Michele Arcangelo",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE e coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Via Virgilio n. 14, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "128",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Scognamiglio Mafalda",
+    "Tipo di Attività": "Superbonus 110%: CILAS, DL e coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Via Lago Patria n. 146, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "129",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "M. C. S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: CILAS, DL, CSE, coll. prog. energetica + FV 19,12 kW",
+    "Sito/Ubicazione": "Condominio Laiso, Via De Simone n. 45, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "130",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Progettazione + n.2 FV da 6 kW",
+    "Sito/Ubicazione": "Condominio Via Novara, Via Novara n. 11, 81030 San Marcellino (CE)"
+  },
+  {
+    "N.": "131",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Nascimbeni Antonella",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Salita San Michele n. 81, 34078 Sagrado (GO)"
+  },
+  {
+    "N.": "132",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Giannola Raffaella",
+    "Tipo di Attività": "Superbonus 110%: DL, Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Torre Scafati n. 24, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "133",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Storace Michele",
+    "Tipo di Attività": "Superbonus 110%: DL, Prog. energetica, Assev. Tecnica + FV 6 kW",
+    "Sito/Ubicazione": "Corso Italia n. 651, 80010 Villaricca (NA)"
+  },
+  {
+    "N.": "134",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Pagano Nicola",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via V. Cardarelli n. 14, 81036 San Cipriano d'Aversa (CE)"
+  },
+  {
+    "N.": "135",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Via del Paradiso",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + n.9 FV da 4,8 kW",
+    "Sito/Ubicazione": "Via del Paradiso n. 1, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "136",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + n.6 FV da 6 kW",
+    "Sito/Ubicazione": "Condominio Via Properzio, Via Properzio n. 12, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "137",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Progettazione + n.7 FV da 0,99 kW",
+    "Sito/Ubicazione": "Via Aldo Moro n. 111, 81022 Casagiove (CE)"
+  },
+  {
+    "N.": "138",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Via Aldo Moro",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + n.6 FV da 6 kW",
+    "Sito/Ubicazione": "Condominio Via Verdi, Via Giuseppe Verdi n. 21, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "139",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: CILAS, DL e coll. prog. energetica",
+    "Sito/Ubicazione": "Condominio Franzese, Via Campana n. 195, 80019 Qualiano (NA)"
+  },
+  {
+    "N.": "140",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Monte Giovanni",
+    "Tipo di Attività": "Superbonus 110%: DL e coll. prog. energetica",
+    "Sito/Ubicazione": "Via Baiola n. 224, 80075 Forio D'Ischia (NA)"
+  },
+  {
+    "N.": "141",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Fusco Federica",
+    "Tipo di Attività": "Superbonus 110%: DL, Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Monte Rosa n. 18, 80017 Melito di Napoli (NA)"
+  },
+  {
+    "N.": "142",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio D'Amore",
+    "Tipo di Attività": "Superbonus 110%: DL, coll. prog. energetica + n.3 FV da 6 kW",
+    "Sito/Ubicazione": "Via Giotto n. 31, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "143",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Russo Luca",
+    "Tipo di Attività": "Superbonus 110%: DL, coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Via Santa Cristina n. 21, 81013 Caiazzo (CE)"
+  },
+  {
+    "N.": "144",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: CILAS, DL e coll. prog. energetica",
+    "Sito/Ubicazione": "Condominio Parco Edera, Viale Colle Aminei n. 38, 80131 Napoli"
+  },
+  {
+    "N.": "145",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + n.2 FV da 5,9 kW",
+    "Sito/Ubicazione": "Condominio Pezone, Via 2 Agosto 1980 snc, 81030 Parete (CE)"
+  },
+  {
+    "N.": "146",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Martino Luigia",
+    "Tipo di Attività": "Progettazione impianto FV da 10 kW",
+    "Sito/Ubicazione": "Via Martino n. 15, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "147",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Auletta Biagio",
+    "Tipo di Attività": "Progettazione impianto FV da 6,03 kW",
+    "Sito/Ubicazione": "Via Giuseppe Garibaldi n. 32, 80022 Arzano (NA)"
+  },
+  {
+    "N.": "148",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Santoro",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica e Assev. Tecnica",
+    "Sito/Ubicazione": "Via Umberto I n. 70, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "149",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Inpower S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 36,76 kW",
+    "Sito/Ubicazione": "Zona Industriale ASI, Loc. Pascarola, 80023 Caivano (NA)"
+  },
+  {
+    "N.": "150",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "MIAN Società Sportiva Dilettantistica S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: DL, coll. prog. energetica + FV 13,2 kW",
+    "Sito/Ubicazione": "Via Dante Alighieri snc, 80010 Quarto (NA)"
+  },
+  {
+    "N.": "151",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Leva Angelina",
+    "Tipo di Attività": "Superbonus 110%: DL, coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Viale Degli Eucalipti n. 3, 81030 Cellole (CE)"
+  },
+  {
+    "N.": "152",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Esposito Andrea",
+    "Tipo di Attività": "Superbonus 110%: DL, coll. prog. energetica + FV 4,6 kW",
+    "Sito/Ubicazione": "Via Difesa Monte Tranquillo snc, 67032 Pescasseroli (AQ)"
+  },
+  {
+    "N.": "153",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Iaccarino Luca",
+    "Tipo di Attività": "Superbonus 110%: DL e coll. prog. energetica",
+    "Sito/Ubicazione": "Via Crocillo n. 110/C1, 80010 Quarto (NA)"
+  },
+  {
+    "N.": "154",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Grippo Francesco",
+    "Tipo di Attività": "Superbonus 110%: Assev. Tecnica, APE, Computo metrico",
+    "Sito/Ubicazione": "Via Conca dei Fosse n. 1, 84090 Montercorvino Pugliano (SA)"
+  },
+  {
+    "N.": "155",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Amato Stefania)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Giuseppe Mazzini n. 13, 80046 Napoli"
+  },
+  {
+    "N.": "156",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Cozzolino Geremia)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Ferrovia n. 20, 80046 San Giorgio a Cremano (NA)"
+  },
+  {
+    "N.": "157",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Fabbricini Ettore)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Cupa San Pietro snc, 80147 Napoli"
+  },
+  {
+    "N.": "158",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Gallo Giorgio)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via San Paolo Belsito n. 100, 80035 Nola (NA)"
+  },
+  {
+    "N.": "159",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Gallo Luisa)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Bartolo Longo n. 104, 80147 Napoli"
+  },
+  {
+    "N.": "160",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Giglio Rosaria)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Nicola Nicolini n. 68, 80147 Napoli"
+  },
+  {
+    "N.": "161",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Giuliano Valentina)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Guido Rossa n. 8, 80046 Napoli"
+  },
+  {
+    "N.": "162",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Incarnato Giuseppe)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Angelo Camillo De Meis n. 13, 80147 Napoli"
+  },
+  {
+    "N.": "163",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Iorio Gilda)",
+    "Tipo di Attività": "DL e CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Pietro Giannone n. 33, 81041 Napoli"
+  },
+  {
+    "N.": "164",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Cirillo",
+    "Tipo di Attività": "Bonus Facciate: CILA, Asseverazione costi",
+    "Sito/Ubicazione": "Via Vittorio Emanuele III n. 58, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "165",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Idea S.r.l. (Setaro Liberata)",
+    "Tipo di Attività": "Bonus Facciate: CILA, Asseverazione costi",
+    "Sito/Ubicazione": "Via Manzoni I Trav. n. 8, 80040 Trecase (CE)"
+  },
+  {
+    "N.": "166",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Acciaro Nunzia)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Enrico De Nicola n. 8, 80010 Quarto (NA)"
+  },
+  {
+    "N.": "167",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Arienzo Giovanni)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Angelo Camillo De Meis n. 561, 80147 Napoli"
+  },
+  {
+    "N.": "168",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Cappiello Rita)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Carrafiello n. 11, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "169",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Cavaliere Chiara)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Corso San Giovanni a Tetuccio n. 845, 80146 Napoli"
+  },
+  {
+    "N.": "170",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Colabella Mariarosaria)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Armando Diaz n. 16, 80055 Portici (NA)"
+  },
+  {
+    "N.": "171",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Crema Walter)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via S. Nullo n. 179, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "172",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Masullo Dionisio)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via Cimitero snc, 80035 Nola (NA)"
+  },
+  {
+    "N.": "173",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Varriale Giuseppe)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Strada Provinciale Madonnelle n. 222, 80040 Massa di Somma (NA)"
+  },
+  {
+    "N.": "174",
+    "Anno": "2021",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "H2 Power S.r.l. (Zbrojewska Dorota Anna)",
+    "Tipo di Attività": "CILA efficientamento energetico",
+    "Sito/Ubicazione": "Via San Nullo n. 179, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "175",
+    "Anno": "01/2021",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Privato (Villa di Briano)",
+    "Tipo di Attività": "Superbonus 110%: APE conv. ante/post operam efficientamento",
+    "Sito/Ubicazione": "Via G. Donizetti n. 19, Villa di Briano (CE)"
+  },
+  {
+    "N.": "176",
+    "Anno": "02/2021",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Toscano Giuseppe",
+    "Tipo di Attività": "Superbonus 110%: APE conv. ante/post operam efficientamento",
+    "Sito/Ubicazione": "Via Vecchia Aversa n. 36, Villa Literno (CE)"
+  },
+  {
+    "N.": "177",
+    "Anno": "03/2021",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "MIAN Soc. Sport. Dilettantistica S.R.L.",
+    "Tipo di Attività": "Superbonus: APE conv. ante/post, Computi, Quadri economici",
+    "Sito/Ubicazione": "Quarto (NA)"
+  },
+  {
+    "N.": "178",
+    "Anno": "04/2021",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Lega Angela",
+    "Tipo di Attività": "Superbonus 110%: APE conv. ante/post, Computi metrici, Quadri economici",
+    "Sito/Ubicazione": "Viale Degli Eucalipti n.3, 81030 (CE)"
+  },
+  {
+    "N.": "179",
+    "Anno": "05/2021",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Pagano Nicola",
+    "Tipo di Attività": "Superbonus 110%: APE conv. ante/post operam efficientamento",
+    "Sito/Ubicazione": "Via Vincenzo Cardarelli n. 14, San Cipriano d'Aversa (CE)"
+  },
+  {
+    "N.": "180",
+    "Anno": "05/2021",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Condominio Via Verdi",
+    "Tipo di Attività": "Superbonus 110%: APE conv. ante/post operam efficientamento",
+    "Sito/Ubicazione": "Via G. Verdi n. 21, Villa di Briano (CE)"
+  },
+  {
+    "N.": "181",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + n.9 FV (7x6 kW, 2x10 kW)",
+    "Sito/Ubicazione": "Cond. Modigliani, Via Paolo Riverso n. 36, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "182",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Del Prete",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica",
+    "Sito/Ubicazione": "Vico III Vittoria n. 4, 80027 Frattamaggiore (NA)"
+  },
+  {
+    "N.": "183",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Sibilio Aldo",
+    "Tipo di Attività": "Progettazione impianto FV da 5,74 kW",
+    "Sito/Ubicazione": "Via Tommaso Campanella n. 14, 80016 Marano di Napoli (NA)"
+  },
+  {
+    "N.": "184",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Sibilio Anna Silvia",
+    "Tipo di Attività": "Progettazione impianto FV da 3 kW",
+    "Sito/Ubicazione": "Via Tommaso Campanella n. 14, 80016 Marano di Napoli (NA)"
+  },
+  {
+    "N.": "185",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Falco Carmela",
+    "Tipo di Attività": "Progettazione impianto FV da 4,8 kW",
+    "Sito/Ubicazione": "Via Eduardo Scarpetta n. 5, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "186",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Di Roberto Carmine",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Campana n. 352, 80100 Quarto (NA)"
+  },
+  {
+    "N.": "187",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Romano Antonio",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Vico Catania n. 15, 81030 Casapesenna (CE)"
+  },
+  {
+    "N.": "188",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Miscioscia Nicola Claudio",
+    "Tipo di Attività": "Progettazione impianto FV da 3 kW",
+    "Sito/Ubicazione": "Vico Piscinelli n. 7, 80078 Pozzuoli (NA)"
+  },
+  {
+    "N.": "189",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Napoletano Pasquale",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Orazio n. 10, 81030 Casapesenna (CE)"
+  },
+  {
+    "N.": "190",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Martino Antonio",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Corso Dante Alighieri n. 143, 81033 Casal di Principe (CE)"
+  },
+  {
+    "N.": "191",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Iovinella Giovanna",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Ferrovia n. 15, 81036 San Cipriano d'Aversa (CE)"
+  },
+  {
+    "N.": "192",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Di Santo Antonietta",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Ferrovia n. 17, 81036 San Cipriano d'Aversa (CE)"
+  },
+  {
+    "N.": "193",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Crimaldi Angelina",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Tagliamento n. 42, 81034 Mondragone (CE)"
+  },
+  {
+    "N.": "194",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Comparone Maria Teresa",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Noe Comparone n. 49, 81050 Francolise (CE)"
+  },
+  {
+    "N.": "195",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Tufano Luigi",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica e Assev. Tecnica",
+    "Sito/Ubicazione": "Cond. Tufano, Via degli Albertini n. 155, 80035 Nola (NA)"
+  },
+  {
+    "N.": "196",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Della Corte Antonio",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Via Leoncavallo n. 35, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "197",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Guida Angelina",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Via Leoncavallo n. 33, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "198",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Progettazione + n.4 FV da 6 kW",
+    "Sito/Ubicazione": "Via Cavour n. 24, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "199",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + n.2 FV 4,51 kW",
+    "Sito/Ubicazione": "Cond. Vitale, Via Gioacchino Rossini n. 3, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "200",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Progettazione + n.6 FV da 6 kW",
+    "Sito/Ubicazione": "Cond. Via Leoncavallo n. 23, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "201",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + n.2 FV 6 kW",
+    "Sito/Ubicazione": "Cond. Marrone, Via Salvatore di Giacomo n. 12, 80017 Melito di Napoli (NA)"
+  },
+  {
+    "N.": "202",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + FV 19,68 kW + FV 6 kW",
+    "Sito/Ubicazione": "Cond. Della Corte, Via Gioacchino Rossini SNC, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "203",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + n.2 FV 4,51 kW",
+    "Sito/Ubicazione": "Cond. Colucci, Via Lazio n. 10, 81030 San Marcellino (CE)"
+  },
+  {
+    "N.": "204",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Serpico Luca",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica",
+    "Sito/Ubicazione": "Via Ripitella n. 27, 04021 Castelforte (LT)"
+  },
+  {
+    "N.": "205",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Iozzino Maria",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica",
+    "Sito/Ubicazione": "Via Paludicella n. 71, 80057 Sant'Antonio Abate (NA)"
+  },
+  {
+    "N.": "206",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Corrado Elena",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Via Pietà n. 46, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "207",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "M. C. S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + n.6 FV (5x2,97 kW + 1x4,92 kW)",
+    "Sito/Ubicazione": "Cond. Rosy, Via Salvo d'Acquisto n. 102, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "208",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Idea S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Cond. Vittoria, Via Bidischini n. 3, 34072 Gradisca d'Isonzo (GO)"
+  },
+  {
+    "N.": "209",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Scialla Giuseppina",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Contrada Casabona snc, 86087 Rionero Sannitico (IS)"
+  },
+  {
+    "N.": "210",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "De Luca Giustino",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica",
+    "Sito/Ubicazione": "Via Ippolito n. 5, 84048 Castellabate (SA)"
+  },
+  {
+    "N.": "211",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Zara Armando",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 6,07 kW",
+    "Sito/Ubicazione": "Vico San Marco n. 28, 81030 Casapesenna (CE)"
+  },
+  {
+    "N.": "212",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Salzillo Maria Assunta",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 5 kW",
+    "Sito/Ubicazione": "Villaggio Le Perle SNC, 81037 Sessa Aurunca (CE)"
+  },
+  {
+    "N.": "213",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Salzillo Maria Assunta",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Via 20 Settembre n. 11, 81033 Casal di Principe (CE)"
+  },
+  {
+    "N.": "214",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Russo Diego",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 6 kW",
+    "Sito/Ubicazione": "Via Montenuovo Licola Patria n. 127, 80078 Pozzuoli (NA)"
+  },
+  {
+    "N.": "215",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Pagano Maria Francesca",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 6 kW",
+    "Sito/Ubicazione": "Via Montenuovo Licola Patria n. 127, 80078 Pozzuoli (NA)"
+  },
+  {
+    "N.": "216",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Mormile Domenico",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Parco Parchitiello III trav. n. 14, 80014 Giugliano (NA)"
+  },
+  {
+    "N.": "217",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Esposito Gianni",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 6 kW",
+    "Sito/Ubicazione": "Via Salvo D'Acquisto n. 21, 81030 Parete (CE)"
+  },
+  {
+    "N.": "218",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Cavaccini Giovanni",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 9,43 kW",
+    "Sito/Ubicazione": "Corso Raffaele Mercogliano n. 5, 80032 Casamarciano (NA)"
+  },
+  {
+    "N.": "219",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Capasso Angelo",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Vincenzo Bellini n. 10, 80028 Grumo Nevano (NA)"
+  },
+  {
+    "N.": "220",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Orefice Maurizio",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + FV 6 kW",
+    "Sito/Ubicazione": "Via Caduti in Guerra n. 53, 81030 Lusciano (CE)"
+  },
+  {
+    "N.": "221",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Torre Giuseppe",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Tonnarella n. 85, 98050 Terme Vigliatore (ME)"
+  },
+  {
+    "N.": "222",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Formica Giovanni Luca 2",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Due Bagli n. 15, 98057 Milazzo (ME)"
+  },
+  {
+    "N.": "223",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Carfora Lettieri Andreana",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica",
+    "Sito/Ubicazione": "Via Botteghino n. 110, 81027 San Felice a Cancello (CE)"
+  },
+  {
+    "N.": "224",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Monaco Anna",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + FV 6 kW",
+    "Sito/Ubicazione": "Via Eugenio Montale n. 24, 81036 San Cipriano d'Aversa (CE)"
+  },
+  {
+    "N.": "225",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Orabona",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica, Assev. Tecnica + n.3 FV da 6 kW",
+    "Sito/Ubicazione": "Via Martino n. 55, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "226",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Vinicola Agriflegrea S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 80 kW",
+    "Sito/Ubicazione": "Via Nelson Mandela n. 95, 80126 Napoli"
+  },
+  {
+    "N.": "227",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Pagliuso Rosaria",
+    "Tipo di Attività": "Progettazione impianto FV da 9,62 kW",
+    "Sito/Ubicazione": "Via Amalfi n. 17, 80013 Casalnuovo di Napoli (NA)"
+  },
+  {
+    "N.": "228",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "General Quality Service S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 209,92 kW",
+    "Sito/Ubicazione": "Via Pietro Nenni n. 36, 80018 Mugnano di Napoli (NA)"
+  },
+  {
+    "N.": "229",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "R.le Panificio Ottaviano Raffaele",
+    "Tipo di Attività": "Progettazione impianto FV da 19,68 kW",
+    "Sito/Ubicazione": "Viale Michelangelo SNC, 80040 Cercola (NA)"
+  },
+  {
+    "N.": "230",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Ricciardi Benedetto",
+    "Tipo di Attività": "Progettazione impianto FV da 8 kW",
+    "Sito/Ubicazione": "Via Guglielmo Marconi n. 34, 81020 Recale (CE)"
+  },
+  {
+    "N.": "231",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "De Vivo Daniela Rita",
+    "Tipo di Attività": "Progettazione impianto FV da 16 kW",
+    "Sito/Ubicazione": "Via Bologna n. 2, 81033 Casal di Principe (CE)"
+  },
+  {
+    "N.": "232",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Passariello Pellegrino",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Rione Cosenza n. 58, 80035 Nola (NA)"
+  },
+  {
+    "N.": "233",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Cardone Alberto",
+    "Tipo di Attività": "Progettazione impianto FV da 5 kW",
+    "Sito/Ubicazione": "Via Amalfi n. 17, 80013 Casalnuovo di Napoli (NA)"
+  },
+  {
+    "N.": "234",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Condominio Via Amalfi 17",
+    "Tipo di Attività": "Progettazione impianto FV da 5,92 kW",
+    "Sito/Ubicazione": "Via Amalfi n. 17, 80013 Casalnuovo di Napoli (NA)"
+  },
+  {
+    "N.": "235",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Carbone Marco",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Patacca n. 12, 80046 San Giorgio a Cremano (NA)"
+  },
+  {
+    "N.": "236",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Ferrante Gennaro",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Goffredo Mameli n. 10, 80026 Casoria (NA)"
+  },
+  {
+    "N.": "237",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Cicala Luigia",
+    "Tipo di Attività": "Progettazione impianto FV da 3 kW",
+    "Sito/Ubicazione": "Via delle Rose snc, 81020 San Marco Evangelista (CE)"
+  },
+  {
+    "N.": "238",
+    "Anno": "2022",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Inpower S.r.l.",
+    "Tipo di Attività": "CILA, Progettazione impianto FV da 55 kW",
+    "Sito/Ubicazione": "NGL S.r.l., Via degli Schiavetti n. 11, 34074 Monfalcone (GO)"
+  },
+  {
+    "N.": "239",
+    "Anno": "01/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "ROMA Paolo",
+    "Tipo di Attività": "Superbonus 110%: APE ante/post, sostituzione imp. climatizzazione + FV",
+    "Sito/Ubicazione": "San Marcellino (CE)"
+  },
+  {
+    "N.": "240",
+    "Anno": "01/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "ROMA Mariastella",
+    "Tipo di Attività": "Superbonus 110%: APE ante/post, sostituzione imp. climatizzazione + FV",
+    "Sito/Ubicazione": "San Marcellino (CE)"
+  },
+  {
+    "N.": "241",
+    "Anno": "01/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Via Manzoni",
+    "Tipo di Attività": "Superbonus 110%: APE ante/post, sostituzione imp. climatizzazione + FV (9 unità)",
+    "Sito/Ubicazione": "Villa di Briano (CE)"
+  },
+  {
+    "N.": "242",
+    "Anno": "03/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "CAVACCINI Giovanni",
+    "Tipo di Attività": "Superbonus 110%: progetto e asseverazione miglioramento energetico",
+    "Sito/Ubicazione": "Casamarciano (NA)"
+  },
+  {
+    "N.": "243",
+    "Anno": "04/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Privato (Frignano)",
+    "Tipo di Attività": "Superbonus 110%: Progettazione, Assev. e DL efficientamento",
+    "Sito/Ubicazione": "Frignano (CE)"
+  },
+  {
+    "N.": "244",
+    "Anno": "08/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "FALCO Carmela",
+    "Tipo di Attività": "Superbonus 110%: APE conv. ante/post SAL 100%",
+    "Sito/Ubicazione": "Villa di Briano (CE)"
+  },
+  {
+    "N.": "245",
+    "Anno": "09/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "MAISTO Raffaele",
+    "Tipo di Attività": "Superbonus 110%: APE conv. ante/post operam",
+    "Sito/Ubicazione": "Villa di Briano (CE)"
+  },
+  {
+    "N.": "246",
+    "Anno": "09/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "VITALE Maria",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica e APE conv. ante/post",
+    "Sito/Ubicazione": "Villa di Briano (CE)"
+  },
+  {
+    "N.": "247",
+    "Anno": "09/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "DE CARLO Francesco",
+    "Tipo di Attività": "Superbonus 110%: Certificazione energetica",
+    "Sito/Ubicazione": "Casapesenna (CE)"
+  },
+  {
+    "N.": "248",
+    "Anno": "10/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Fontana Nicola",
+    "Tipo di Attività": "Superbonus 110%: Certificazione energetica",
+    "Sito/Ubicazione": "Villa di Briano (CE)"
+  },
+  {
+    "N.": "249",
+    "Anno": "11/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Russo Luca",
+    "Tipo di Attività": "Superbonus: Asseverazione e Prog. energetica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "250",
+    "Anno": "12/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Parco Edera",
+    "Tipo di Attività": "Manutenzione straordinaria: Assev. tecnica e deposito ENEA",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "251",
+    "Anno": "12/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Pirozzi Michele Arcangelo",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "252",
+    "Anno": "12/2022",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Corrado Elena",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "253",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Iossa Antonio",
+    "Tipo di Attività": "Bando Agrisolare + FV 14,63 kW",
+    "Sito/Ubicazione": "Via Santa Maria a Cubito snc, 81039 Villa Literno (CE)"
+  },
+  {
+    "N.": "254",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "COSVA Soc. Coop. Agricola",
+    "Tipo di Attività": "Bando Agrisolare + FV 95,6 kW",
+    "Sito/Ubicazione": "Zona Industriale SNC, 81050 Francolise (CE)"
+  },
+  {
+    "N.": "255",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Agricola Antonio Nuzzo S.r.l.",
+    "Tipo di Attività": "Bando Agrisolare + FV 95,6 kW",
+    "Sito/Ubicazione": "Via Appia SNC, 81050 Francolise (CE)"
+  },
+  {
+    "N.": "256",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D. C. Costruzioni S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + n.2 FV 6 kW",
+    "Sito/Ubicazione": "Cond. Della Corte Antonio, Via Benvenuto Cellini n. 25, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "257",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + n.2 FV 6 kW",
+    "Sito/Ubicazione": "Cond. Ranucci, Via Montevergine n. 1, 81038 Trentola Ducenta (CE)"
+  },
+  {
+    "N.": "258",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D'Agostino Emiliano",
+    "Tipo di Attività": "Superbonus 110%: DL, CSE, coll. prog. energetica + n.3 FV (4,84+6,16+6,37 kW)",
+    "Sito/Ubicazione": "Cond. D'Agostino, Viale J. F. Kennedy n. 11, 81030 Cesa (CE)"
+  },
+  {
+    "N.": "259",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "M. C. S.r.l.",
+    "Tipo di Attività": "Superbonus 110%: CSE, coll. prog. energetica",
+    "Sito/Ubicazione": "Cond. Carmen, Via Ligabue n. 17, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "260",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica",
+    "Sito/Ubicazione": "Cond. Russo, Via Madonna delle Grazie n. 99, 80035 Nola (NA)"
+  },
+  {
+    "N.": "261",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica",
+    "Sito/Ubicazione": "Cond. Malagrinò, Via delle Ville n. 521, 55012 Capannori (LU)"
+  },
+  {
+    "N.": "262",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + n.3 FV 6 kW",
+    "Sito/Ubicazione": "Cond. Antonietta, Via San Domenico n. 18, 03039 Sora (FR)"
+  },
+  {
+    "N.": "263",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Mini Caseificio Costanzo S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 90 kW",
+    "Sito/Ubicazione": "Viale della Libertà snc, 81030 Lusciano (CE)"
+  },
+  {
+    "N.": "264",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Della Gatta Rocco",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via C. A. Dalla Chiesa n. 15, 81030 Gricignano Di Aversa (CE)"
+  },
+  {
+    "N.": "265",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Della Gatta Lucia",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via C. A. Dalla Chiesa n. 15, 81030 Gricignano Di Aversa (CE)"
+  },
+  {
+    "N.": "266",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Iazzetta Amelia",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Edmondo De Amicis n. 15, 80018 Mugnano di Napoli (NA)"
+  },
+  {
+    "N.": "267",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Botticella Giovanna",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via San Lorenzo n. 999, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "268",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Russo Immacolata",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Guglielmo Marconi n. 13, 81020 Valle di Maddaloni (CE)"
+  },
+  {
+    "N.": "269",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Scognamiglio Fabio",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Traversa Strigari n. 16, 80078 Pozzuoli (NA)"
+  },
+  {
+    "N.": "270",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "D'Isanto Antonio",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Diocleziano n. 21, 80078 Pozzuoli (NA)"
+  },
+  {
+    "N.": "271",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Jonathan S.r.l.",
+    "Tipo di Attività": "Progettazione + n.2 FV da 6 kW",
+    "Sito/Ubicazione": "Cond. Autieri, Via Parco a Mare n. 25, 81030 Castel Volturno (CE)"
+  },
+  {
+    "N.": "272",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Diana Arturo",
+    "Tipo di Attività": "Progettazione + n.2 FV da 6 kW",
+    "Sito/Ubicazione": "Via Latina n. 3, 81036 San Cipriano d'Aversa (CE)"
+  },
+  {
+    "N.": "273",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Vigliotti Amelia",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Carlo Poerio n. 11, 81027 San Felice a Cancello (CE)"
+  },
+  {
+    "N.": "274",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Vigliotti Arcangelo Gabriele",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Carlo Poerio n. 11, 81027 San Felice a Cancello (CE)"
+  },
+  {
+    "N.": "275",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Marino Cesare",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Achille Grandi n. 11, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "276",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Barracca Marcellino",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via Lago Patria n. 146, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "277",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Garofalo Giuseppina",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via IV Novembre n. 6, 81030 Frignano (CE)"
+  },
+  {
+    "N.": "278",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Della Gatta Giovanni",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Via S. Lucia n. 1, 81030 Gricignano di Aversa (CE)"
+  },
+  {
+    "N.": "279",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "A. Cercola Impresa Costruzioni S.r.l.",
+    "Tipo di Attività": "Progettazione + n.2 FV da 6 kW",
+    "Sito/Ubicazione": "Cond. Ferraro, Via Ippolito Nievo n. 1, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "280",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "A. Cercola Impresa Costruzioni S.r.l.",
+    "Tipo di Attività": "Progettazione + n.3 FV da 6 kW",
+    "Sito/Ubicazione": "Cond. Via Croce Rossa 4, 80131 Napoli"
+  },
+  {
+    "N.": "281",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "A. Cercola Impresa Costruzioni S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Cond. Fabbricato E, Via dei Mille n. 39, 80058 Torre Annunziata (NA)"
+  },
+  {
+    "N.": "282",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "A. Cercola Impresa Costruzioni S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 6 kW",
+    "Sito/Ubicazione": "Cond. Bianchini 10, Via Ludovico Bianchini n. 10, 80133 Napoli"
+  },
+  {
+    "N.": "283",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Progettazione + n.2 FV da 5,88 kW",
+    "Sito/Ubicazione": "Cond. Angeletti, Via Madonna delle Grazie n. 202, 80035 Nola (NA)"
+  },
+  {
+    "N.": "284",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "NRG4YOU S.r.l.",
+    "Tipo di Attività": "Progettazione + n.2 FV da 5 kW",
+    "Sito/Ubicazione": "Cond. Cristofaro, Piazza San Maurizio n. 16, 80020 Frattaminore (NA)"
+  },
+  {
+    "N.": "285",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Varone Francesco",
+    "Tipo di Attività": "Progettazione impianto FV da 5 kW",
+    "Sito/Ubicazione": "Corso Meridionale n. 32, 80021 Afragola (NA)"
+  },
+  {
+    "N.": "286",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Buonomo Antonietta",
+    "Tipo di Attività": "Progettazione impianto FV da 5 kW",
+    "Sito/Ubicazione": "Viale Aniello Falcone n. 13, 81030 Castel Volturno (CE)"
+  },
+  {
+    "N.": "287",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Coop. Ortofrutta San Biagio",
+    "Tipo di Attività": "Progettazione impianto FV da 49,38 kW",
+    "Sito/Ubicazione": "Via Fontanelle n. 27, 80040 Poggiomarino (NA)"
+  },
+  {
+    "N.": "288",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Pitagora S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 40 kW",
+    "Sito/Ubicazione": "Contrada San Fantino SNC, 88841 Isola di Capo Rizzuto (KR)"
+  },
+  {
+    "N.": "289",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "CO FO SA",
+    "Tipo di Attività": "Progettazione impianto FV da 4,6 kW",
+    "Sito/Ubicazione": "Via Ivrea SNC, 81030 San Marcellino (CE)"
+  },
+  {
+    "N.": "290",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Candido Arredamenti S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 39,84 kW",
+    "Sito/Ubicazione": "Via Nazionale n. 88, 90045 Cinisi (PA)"
+  },
+  {
+    "N.": "291",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Regina Hotel S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 30 kW",
+    "Sito/Ubicazione": "Via Nazionale Appia n. 34, 81022 Casagiove (CE)"
+  },
+  {
+    "N.": "292",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Soriente Leopoldo",
+    "Tipo di Attività": "Progettazione impianto FV da 3 kW",
+    "Sito/Ubicazione": "Via Aldo Moro n. 25, 80016 Marano di Napoli (NA)"
+  },
+  {
+    "N.": "293",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Iaconis Giulia",
+    "Tipo di Attività": "Progettazione impianto FV da 2,87 kW",
+    "Sito/Ubicazione": "Via Napoli n. 145, 80078 Pozzuoli (NA)"
+  },
+  {
+    "N.": "294",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Ing. Nicola Colombiano",
+    "Tipo di Attività": "Progettazione + n.6 FV da 2,87 kW",
+    "Sito/Ubicazione": "Cond. Via Beethoven n. 7, 81030 San Marcellino (CE)"
+  },
+  {
+    "N.": "295",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "I Borboni S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 18,63 kW",
+    "Sito/Ubicazione": "Via Costanzo n. 15, 81030 Lusciano (CE)"
+  },
+  {
+    "N.": "296",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Perreca Nunzio",
+    "Tipo di Attività": "Progettazione impianto FV da 15 kW",
+    "Sito/Ubicazione": "Via Ugo Foscolo n. 10, 81020 Recale (CE)"
+  },
+  {
+    "N.": "297",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Comune di Cesa",
+    "Tipo di Attività": "Progettazione impianto FV da 12 kW",
+    "Sito/Ubicazione": "Via De Gasperi n. 2, 81030 Cesa (CE)"
+  },
+  {
+    "N.": "298",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Ruffo Eleonora",
+    "Tipo di Attività": "Progettazione impianto FV da 12 kW",
+    "Sito/Ubicazione": "Via Ugo La Malfa n. 2, 80046 San Giorgio a Cremano (NA)"
+  },
+  {
+    "N.": "299",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Tersigni Matteo",
+    "Tipo di Attività": "Progettazione + n.2 FV da 10 kW",
+    "Sito/Ubicazione": "Via San Vincenzo SNC, 03039 Sora (FR)"
+  },
+  {
+    "N.": "300",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Del Gatto Giuseppe",
+    "Tipo di Attività": "Progettazione impianto FV da 10 kW",
+    "Sito/Ubicazione": "Traversa Sant'Aniello n. 19, 81055 Santa Maria C. V. (CE)"
+  },
+  {
+    "N.": "301",
+    "Anno": "2023",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Longobardi Giosuè",
+    "Tipo di Attività": "Progettazione impianto FV da 10 kW",
+    "Sito/Ubicazione": "Via Salvator Rosa 121, 80136 Napoli"
+  },
+  {
+    "N.": "302",
+    "Anno": "01/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Pagano Maria Francesca",
+    "Tipo di Attività": "Superbonus: Prog. energetica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "303",
+    "Anno": "02/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Conte Raffaele",
+    "Tipo di Attività": "Superbonus: DL e Prog. architettonica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "304",
+    "Anno": "02/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Capone Nicola",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "305",
+    "Anno": "02/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Scogliamiglio Mafalda",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "306",
+    "Anno": "03/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "De Luca Giustino",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "307",
+    "Anno": "04/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "CEINGE Biotecnologie Avanzate S.C. a R.L.",
+    "Tipo di Attività": "Diagnosi energetica UNI CEI EN 16247-1-2",
+    "Sito/Ubicazione": "Via Gaetano Salvatore 486, 80145 Napoli"
+  },
+  {
+    "N.": "308",
+    "Anno": "06/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "ENEA",
+    "Tipo di Attività": "Assistenza documentazione bando Smart Energy Microgrid - Mission Innovation",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "309",
+    "Anno": "07/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Grande Antonietta e Grande Domenica",
+    "Tipo di Attività": "Potenziamento 2 impianti FV a 4,5 kW",
+    "Sito/Ubicazione": "Via Palizzi n. 21, 80024 Cardito (NA)"
+  },
+  {
+    "N.": "310",
+    "Anno": "10/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Rosy",
+    "Tipo di Attività": "Superbonus: Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "311",
+    "Anno": "10/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Serpico Luca",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "312",
+    "Anno": "10/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Scarano",
+    "Tipo di Attività": "Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "313",
+    "Anno": "11/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Parco Agrisolare",
+    "Tipo di Attività": "Progettazione FV 98,10 kW (STC) / 90,0 kW (CEI 0-21) + Accumulo 24 kWh",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "314",
+    "Anno": "12/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Antonietta",
+    "Tipo di Attività": "Asseverazione miglioramento energetico (L. 17.07.2020 N.77)",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "315",
+    "Anno": "12/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. D'Amore (Simona D'Amore)",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "316",
+    "Anno": "12/2023",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Iozzino Maria",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "317",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Russo Raffaele",
+    "Tipo di Attività": "Progettazione impianto FV da 4,4 kW",
+    "Sito/Ubicazione": "Via Provinciale Madonna Dell'Arco n. 28, 80038 Pomigliano d'Arco (NA)"
+  },
+  {
+    "N.": "318",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Testa Antonino",
+    "Tipo di Attività": "Progettazione + n.2 FV (3 kW e 6 kW)",
+    "Sito/Ubicazione": "Via San Giovanni n. 13, 81030 Teverola (CE)"
+  },
+  {
+    "N.": "319",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "F.P. Costruzioni Soc. Coop.",
+    "Tipo di Attività": "Progettazione impianto FV da 50 kW",
+    "Sito/Ubicazione": "Via Pezone SNC, 81030 Parete (CE)"
+  },
+  {
+    "N.": "320",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Funari - Svezia Auto S.r.l.",
+    "Tipo di Attività": "Progettazione ampliamento imp. elettrico (FM, Illuminazione, Terra, Imp. speciali)",
+    "Sito/Ubicazione": "Via Piscarelli Loc. Agnano snc, 80070 Pozzuoli (NA)"
+  },
+  {
+    "N.": "321",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Vivai Truppo Soc. Agricola S.r.l.",
+    "Tipo di Attività": "Progettazione impianto FV da 200 kW",
+    "Sito/Ubicazione": "Via San Francesco a Patria n. 270, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "322",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Cenacolo Costruzioni Generali Scarl",
+    "Tipo di Attività": "Progettazione + n.23 FV da 5,98 kW",
+    "Sito/Ubicazione": "Condominio Via Salvo d'Acquisto n. 48, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "323",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Jonathan S.r.l.",
+    "Tipo di Attività": "Progettazione + n.3 FV da 6 kW",
+    "Sito/Ubicazione": "Via Catania n. 2, 81030 Casapesenna (CE)"
+  },
+  {
+    "N.": "324",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Carrato Antonio",
+    "Tipo di Attività": "Progettazione impianto FV da 5 kW",
+    "Sito/Ubicazione": "Via Palmiro Togliatti n. 3, 80030 Cimitile (NA)"
+  },
+  {
+    "N.": "325",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Progettazione + n.2 FV da 6 kW",
+    "Sito/Ubicazione": "Via Adda n. 2, 81036 San Cipriano d'Aversa (CE)"
+  },
+  {
+    "N.": "326",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Progettazione + n.3 FV da 6 kW",
+    "Sito/Ubicazione": "Vico San Ciro n. 6, 81030 Casapesenna (CE)"
+  },
+  {
+    "N.": "327",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + n.2 FV 6 kW",
+    "Sito/Ubicazione": "Cond. Schiano di Cola, Via Cuma n. 72, 80070 Bacoli (NA)"
+  },
+  {
+    "N.": "328",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica + n.2 FV 6 kW",
+    "Sito/Ubicazione": "Cond. Sangermano, Via Pietra Santa Maria n. 23, 03039 Sora (FR)"
+  },
+  {
+    "N.": "329",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica + n.2 FV 5,95 kW",
+    "Sito/Ubicazione": "Cond. Schiavone Mozzillo, Via Parroco Gagliardi n. 5, 81033 Casal di Principe (CE)"
+  },
+  {
+    "N.": "330",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica + n.6 FV varie potenze",
+    "Sito/Ubicazione": "Cond. Via Virnicchi 120, 80013 Casalnuovo di Napoli (NA)"
+  },
+  {
+    "N.": "331",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Borrelli Mariapia",
+    "Tipo di Attività": "Progettazione impianto FV da 10 kW",
+    "Sito/Ubicazione": "Via Salvo D'Acquisto n. 73, 81030 Parete (CE)"
+  },
+  {
+    "N.": "332",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Cacciapuoti Gilberto",
+    "Tipo di Attività": "Progettazione impianto FV da 10 kW",
+    "Sito/Ubicazione": "Via Manica G. n. 10, 81030 San Marcellino (CE)"
+  },
+  {
+    "N.": "333",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "NRG4YOU S.r.l.",
+    "Tipo di Attività": "Progettazione + n.6 FV da 3,2 kW",
+    "Sito/Ubicazione": "Cond. Del Prete, Via Tenente Del Prete n. 14, 81030 Orta di Atella (CE)"
+  },
+  {
+    "N.": "334",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "NRG4YOU S.r.l.",
+    "Tipo di Attività": "Progettazione + n.2 FV da 4,5 kW",
+    "Sito/Ubicazione": "Cond. Grande, Via Palizzi n. 21, 80024 Cardito (NA)"
+  },
+  {
+    "N.": "335",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Preziuso Lucia",
+    "Tipo di Attività": "Progettazione impianto FV da 5,74 kW",
+    "Sito/Ubicazione": "Via Pisciarelli n. 82, 80078 Pozzuoli (NA)"
+  },
+  {
+    "N.": "336",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Russo Natalia",
+    "Tipo di Attività": "Progettazione impianto FV da 5,81 kW",
+    "Sito/Ubicazione": "Via Sicilia n. 4, 81030 San Marcellino (CE)"
+  },
+  {
+    "N.": "337",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "WOW GREEN HOUSE S.R.L.",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetica",
+    "Sito/Ubicazione": "Cond. Santagata, Via Prov. Aversa Villa Literno n. 69, 81030 Villa di Briano (CE)"
+  },
+  {
+    "N.": "338",
+    "Anno": "2024",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Arcipelago S.C.p.A.",
+    "Tipo di Attività": "Superbonus 110%: coll. prog. energetica",
+    "Sito/Ubicazione": "Cond. Piccinni, Via delle Ville n. 521, 55021 Capannori (LU)"
+  },
+  {
+    "N.": "339",
+    "Anno": "02/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Modigliani 2",
+    "Tipo di Attività": "Asseverazione miglioramento energetico (L. 17.07.2020 N.77)",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "340",
+    "Anno": "02/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Sangermano",
+    "Tipo di Attività": "Asseverazione miglioramento energetico (L. 17.07.2020 N.77)",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "341",
+    "Anno": "03/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Carmen",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "342",
+    "Anno": "03/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Marrone",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "343",
+    "Anno": "03/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Virnicchi",
+    "Tipo di Attività": "Prog. termica e asseverazione miglioramento energetico",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "344",
+    "Anno": "04/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Ponticelli",
+    "Tipo di Attività": "Superbonus 110%: Prog. energetico e APE conv. ante/post (parti comuni e private)",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "345",
+    "Anno": "05/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Ranucci",
+    "Tipo di Attività": "Progetto e asseverazione miglioramento energetico",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "346",
+    "Anno": "05/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "ASL di Foggia",
+    "Tipo di Attività": "Progettazione quadri struttura territoriale Orta Nova",
+    "Sito/Ubicazione": "Orta Nova (FG)"
+  },
+  {
+    "N.": "347",
+    "Anno": "07/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. d'Agostino (D'Agostino Emiliano)",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "348",
+    "Anno": "10/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Capaldo Elisabetta",
+    "Tipo di Attività": "Superbonus: Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "349",
+    "Anno": "11/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Salzillo Maria Assunta",
+    "Tipo di Attività": "Progetto e asseverazione miglioramento energetico",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "350",
+    "Anno": "12/2024",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Schiavone Mozzillo",
+    "Tipo di Attività": "Progetto e asseverazione miglioramento energetico",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "351",
+    "Anno": "2025",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Cenacolo Costruzioni Generali Scarl",
+    "Tipo di Attività": "Progettazione impianto FV da 5,98 kW",
+    "Sito/Ubicazione": "Via Salvo d'Acquisto n. 48, 81031 Aversa (CE)"
+  },
+  {
+    "N.": "352",
+    "Anno": "2025",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Termopulitalia Soc. Coop.",
+    "Tipo di Attività": "Progettazione e dimensionamento nuova linea Samsung DVN CHILLER",
+    "Sito/Ubicazione": "Villa Doria, Via Francesco Petrarca n. 80, 80122 Napoli"
+  },
+  {
+    "N.": "353",
+    "Anno": "2025",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Soba S.r.l.",
+    "Tipo di Attività": "Collaborazione a progettazione impianto FV da 117,48 kW",
+    "Sito/Ubicazione": "Via Parco Quarantena n. 30, 80070 Bacoli (NA)"
+  },
+  {
+    "N.": "354",
+    "Anno": "2025",
+    "Professionista": "Ing. Giovanni Costanzo",
+    "Committente": "Comune di Cesa",
+    "Tipo di Attività": "Progettazione impianto FV da 10 kW",
+    "Sito/Ubicazione": "Istituto Alberghiero, Piazza Alfonso de Michele n. 10, 81030 Cesa (CE)"
+  },
+  {
+    "N.": "355",
+    "Anno": "02/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Vitale",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "356",
+    "Anno": "02/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Della Corte Antonio",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "357",
+    "Anno": "03/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Vivai Truppo Soc. Agricola S.R.L.",
+    "Tipo di Attività": "Pratica Agrisolare",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "358",
+    "Anno": "03/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Colucci",
+    "Tipo di Attività": "Superbonus: Assev. tecnica, deposito ENEA e Prog. termica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "359",
+    "Anno": "03/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Malagrinò",
+    "Tipo di Attività": "Asseverazione miglioramento energetico (L. 17.07.2020 N.77)",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "360",
+    "Anno": "03/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Piccinni",
+    "Tipo di Attività": "Asseverazione miglioramento energetico (L. 17.07.2020 N.77)",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "361",
+    "Anno": "05/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Zazo",
+    "Tipo di Attività": "Superbonus: DL e Prog. architettonica",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "362",
+    "Anno": "06/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Ecocentro Giugliano",
+    "Tipo di Attività": "Progettazione imp. elettrico (FM, illuminazione e terra)",
+    "Sito/Ubicazione": "Via Selva Piccola 145, 80014 Giugliano in Campania (NA)"
+  },
+  {
+    "N.": "363",
+    "Anno": "06/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Privato (Casagiove)",
+    "Tipo di Attività": "Relazione tecnica D.Lgs. 192/2005 art. 8 comma 1",
+    "Sito/Ubicazione": "Via Santa Croce n. 124, 81022 Casagiove (CE)"
+  },
+  {
+    "N.": "364",
+    "Anno": "07/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Cond. Schiano Di Cola",
+    "Tipo di Attività": "Prog. termica e Asseverazione miglioramento energetico",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "365",
+    "Anno": "08/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Soba S.r.l.",
+    "Tipo di Attività": "Progettazione e Domanda connessione E-Distribuzione per FV",
+    "Sito/Ubicazione": ""
+  },
+  {
+    "N.": "366",
+    "Anno": "11/2025",
+    "Professionista": "Ing. Vincenzo Pagano",
+    "Committente": "Stazione Climatica Bianchi",
+    "Tipo di Attività": "Studio apporto energetico FV con/senza pompe di calore",
+    "Sito/Ubicazione": "Via Libertà 342, 80055 Portici (NA)"
+  }
+]
