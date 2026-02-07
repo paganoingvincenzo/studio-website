@@ -1,121 +1,80 @@
-// app/src/data/projects.ts
+import { projects } from "../data/projects";
 
-export type Project = {
-  id: string;
-  title: string;
-  client?: string;
-  location?: string;
-  description?: string;
-  date: string; // formato "YYYY-MM-DD" oppure "YYYY-MM" oppure "YYYY"
-  datePrecision?: "day" | "month" | "year";
-  people: string[];
-  source?: string;
-  tags?: string[];
-};
+export default function Projects() {
+  const sorted = [...projects].sort((a, b) => {
+    if (a.date > b.date) return -1;
+    if (a.date < b.date) return 1;
+    return 0;
+  });
 
-export const projects: Project[] = [
-  {
-    id: "1",
-    title: "Progettazione impianto fotovoltaico 50 kWp su capannone agricolo",
-    client: "Azienda Agricola Rossi",
-    location: "Giugliano in Campania (NA)",
-    description:
-      "Progettazione elettrica impianto FV da 50 kWp su copertura, pratiche di connessione E-Distribuzione, verifica TICA e relazione tecnica.",
-    date: "2024-03-15",
-    datePrecision: "day",
-    people: ["Vincenzo Pagano"],
-    source: "Archivio Studio",
-    tags: ["fotovoltaico", "agricolo", "connessione"],
-  },
-  {
-    id: "2",
-    title: "Pratica Superbonus 110% - Condominio residenziale",
-    client: "Condominio Via Roma",
-    location: "Napoli (NA)",
-    description:
-      "Progettazione energetica degli interventi trainanti e trainati, relazione ex Legge 10, APE ante e post operam, supporto alla pratica ENEA.",
-    date: "2024-02",
-    datePrecision: "month",
-    people: ["Vincenzo Pagano", "Giovanni Costanzo"],
-    source: "Archivio Studio",
-    tags: ["superbonus", "riqualificazione", "termico", "ape"],
-  },
-  {
-    id: "3",
-    title: "Diagnosi energetica e APE edificio industriale",
-    client: "Industria XYZ S.r.l.",
-    location: "Caserta (CE)",
-    description:
-      "Diagnosi energetica secondo UNI 16247-1 con analisi dei consumi elettrici e termici, individuazione interventi di efficientamento e redazione APE.",
-    date: "2023",
-    datePrecision: "year",
-    people: ["Vincenzo Pagano"],
-    source: "Archivio Studio",
-    tags: ["diagnosi energetica", "ape", "industriale"],
-  },
-  {
-    id: "4",
-    title: "Bando GSE Agrisolare - Impianto fotovoltaico 100 kWp",
-    client: "Azienda Agricola Bianchi",
-    location: "Aversa (CE)",
-    description:
-      "Progettazione preliminare e definitiva per bando Agrisolare, studio di producibilità, domanda di connessione e supporto alla domanda di incentivo.",
-    date: "2023-11-20",
-    datePrecision: "day",
-    people: ["Vincenzo Pagano", "Giovanni Costanzo"],
-    source: "Archivio Studio",
-    tags: ["fotovoltaico", "agrisolare", "bando GSE"],
-  },
-  {
-    id: "5",
-    title: "Ampliamento impianto elettrico e cabina MT/BT",
-    client: "F.M. S.p.A.",
-    location: "Giugliano in Campania (NA)",
-    description:
-      "Progettazione ampliamento quadri MT/BT, verifica protezioni secondo CEI 0-16, adeguamento cabina di trasformazione esistente.",
-    date: "2022-06",
-    datePrecision: "month",
-    people: ["Vincenzo Pagano"],
-    source: "Archivio Studio",
-    tags: ["impianti elettrici", "media tensione", "industriale"],
-  },
-  {
-    id: "6",
-    title: "Progettazione impianto fotovoltaico condominiale 20 kWp",
-    client: "Condominio Parco Verde",
-    location: "Pozzuoli (NA)",
-    description:
-      "Dimensionamento impianto FV a servizio parti comuni, studio ripartizione benefici tra i condomini e pratica di connessione.",
-    date: "2022-10-05",
-    datePrecision: "day",
-    people: ["Vincenzo Pagano"],
-    source: "Archivio Studio",
-    tags: ["fotovoltaico", "condominio", "autoconsumo"],
-  },
-  {
-    id: "7",
-    title: "Sostituzione generatore e riqualificazione impianto termico",
-    client: "Condominio Via Manzoni",
-    location: "Napoli (NA)",
-    description:
-      "Studio tecnico-economico per sostituzione caldaia centralizzata con pompa di calore ibrida, verifica dei rendimenti e valutazione incentivi.",
-    date: "2021-12",
-    datePrecision: "month",
-    people: ["Vincenzo Pagano"],
-    source: "Archivio Studio",
-    tags: ["impianto termico", "pompa di calore", "efficienza energetica"],
-  },
-  {
-    id: "8",
-    title: "APE per unità immobiliari residenziali",
-    client: "Privati vari",
-    location: "Provincia di Napoli",
-    description:
-      "Redazione di Attestati di Prestazione Energetica per compravendita e locazione, rilievo in sito e inserimento dati nel software di calcolo.",
-    date: "2021",
-    datePrecision: "year",
-    people: ["Vincenzo Pagano"],
-    source: "Archivio Studio",
-    tags: ["ape", "residenziale"],
-  },
-];
+  return (
+    <section
+      style={{
+        maxWidth: 1100,
+        margin: "80px auto 0",
+        padding: "40px 16px",
+      }}
+    >
+      <h1>Lavori</h1>
+
+      <p style={{ opacity: 0.8 }}>
+        Elenco delle principali attività professionali
+      </p>
+
+      <div
+        style={{
+          marginTop: 30,
+          display: "grid",
+          gap: 14,
+        }}
+      >
+        {sorted.map((p) => (
+          <div
+            key={p.id}
+            style={{
+              border: "1px solid rgba(0,0,0,0.15)",
+              borderRadius: 12,
+              padding: 16,
+            }}
+          >
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                gap: 10,
+              }}
+            >
+              <strong>{p.title}</strong>
+
+              <span style={{ opacity: 0.7 }}>
+                {p.datePrecision === "year"
+                  ? p.date.slice(0, 4)
+                  : p.datePrecision === "month"
+                  ? `${p.date.slice(5, 7)}/${p.date.slice(0, 4)}`
+                  : `${p.date.slice(8, 10)}/${p.date.slice(5, 7)}/${p.date.slice(
+                      0,
+                      4
+                    )}`}
+              </span>
+            </div>
+
+            {p.client && (
+              <div style={{ marginTop: 6, opacity: 0.85 }}>
+                Committente: {p.client}
+                {p.location && ` · ${p.location}`}
+              </div>
+            )}
+
+            {p.description && (
+              <div style={{ marginTop: 8 }}>{p.description}</div>
+            )}
+          </div>
+        ))}
+
+        {sorted.length === 0 && (
+          <div style={{ opacity: 0.7 }}>Nessun lavoro presente.</div>
+        )}
+      </div>
+    </section>
+  );
+}
