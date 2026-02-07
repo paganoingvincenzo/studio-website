@@ -112,7 +112,7 @@ function HomePage() {
       <Hero />
       <About />
       <Services />
-      <Certifications />
+      {/* RIMOSSO: <Certifications /> */}
       <Tools />
       <Contact />
     </main>
