@@ -16,7 +16,10 @@ const navLinks: Array<
   { name: 'Lavori', type: 'route', to: '/lavori' },
 
   { name: 'Strumenti', type: 'section', href: '#strumenti' },
-    { name: 'Attestati', type: 'section', href: '#attestati' },
+
+  // ✅ CORRETTO: ora Attestati è una route
+  { name: 'Attestati', type: 'route', to: '/attestati' },
+
   { name: 'Contatti', type: 'section', href: '#contatti' },
 ];
 
@@ -47,16 +50,13 @@ export default function Navbar() {
   const handleNavClick = (href: string) => {
     setIsMobileMenuOpen(false);
 
-    // Se siamo già sulla home, scroll diretto
     if (location.pathname === '/') {
       scrollToSection(href);
       return;
     }
 
-    // Se siamo su un'altra pagina (es. /lavori), torno alla home e poi scrollo
     navigate('/');
 
-    // Attendo un tick per permettere il render delle sezioni
     window.setTimeout(() => {
       scrollToSection(href);
     }, 50);
@@ -64,7 +64,6 @@ export default function Navbar() {
 
   return (
     <>
-      {/* Skip to content */}
       <a
         href="#main-content"
         className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[60] focus:bg-white focus:px-4 focus:py-2 focus:rounded-lg focus:shadow-lg focus:text-[#1e3a5f] focus:font-semibold"
@@ -81,7 +80,6 @@ export default function Navbar() {
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-auto py-4">
-            {/* Logo */}
             <div className="flex items-center gap-2">
               <img
                 src={logoImg}
@@ -127,26 +125,18 @@ export default function Navbar() {
               })}
             </div>
 
-            {/* CTA */}
             <div className="hidden md:flex items-center gap-4">
-              <a
-                href="tel:+390818113194"
-                aria-label="Chiama lo studio al numero 081 811 3194"
-              >
+              <a href="tel:+390818113194">
                 <Button className="bg-[#1e3a5f] hover:bg-[#152d4a] text-white gap-2">
-                  <Phone className="w-4 h-4" aria-hidden="true" />
+                  <Phone className="w-4 h-4" />
                   <span className="hidden lg:inline">Chiamaci</span>
                 </Button>
               </a>
             </div>
 
-            {/* Mobile button */}
             <button
               className="md:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              aria-expanded={isMobileMenuOpen}
-              aria-controls="mobile-menu"
-              aria-label={isMobileMenuOpen ? 'Chiudi menu' : 'Apri menu'}
             >
               {isMobileMenuOpen ? (
                 <X className="w-6 h-6 text-gray-700" />
@@ -159,10 +149,7 @@ export default function Navbar() {
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
-          <div
-            id="mobile-menu"
-            className="md:hidden bg-white border-t border-gray-100 shadow-lg"
-          >
+          <div className="md:hidden bg-white border-t border-gray-100 shadow-lg">
             <div className="px-4 py-4 space-y-3">
               {navLinks.map((link) => {
                 const cls =
@@ -194,7 +181,7 @@ export default function Navbar() {
 
               <a href="tel:+390818113194" className="block w-full">
                 <Button className="w-full bg-[#1e3a5f] hover:bg-[#152d4a] text-white gap-2 mt-2">
-                  <Phone className="w-4 h-4" aria-hidden="true" />
+                  <Phone className="w-4 h-4" />
                   Chiamaci
                 </Button>
               </a>
