@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { projects, Project } from "../data/projects";
+import { projects, type Project } from "../data/projects";
 
 function formatDate(p: Project) {
   const [y, m, d] = p.date.split("-");
