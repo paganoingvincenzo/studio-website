@@ -1,1 +1,675 @@
+[
+  {
+  "id": 1,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Ammodernamento, adeguamento e messa in sicurezza impianto illuminazione",
+  "description": "",
+  "client": "Ippodromo 'Cirigliano'",
+  "location": "Aversa (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 2,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Manutenzione straordinaria cabina trasformazione (L.46/90 e DK5600)",
+  "description": "",
+  "client": "3N Cornici",
+  "location": "Trentola Ducenta (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 3,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Manutenzione straordinaria cabina trasformazione (L.46/90 e DK5600)",
+  "description": "",
+  "client": "Campeggio LE DUNE",
+  "location": "Via Flacca km 9, 04022 Fondi (LT)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 4,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Manutenzione straordinaria cabina trasformazione (L.46/90 e DK5600)",
+  "description": "",
+  "client": "Marcon S.r.l.",
+  "location": "Zona industriale Carinaro (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 5,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Costruzione e messa a norma imp. illuminazione e FM",
+  "description": "",
+  "client": "Stabilimento GAJA'",
+  "location": "Zona ASI Carinaro (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 6,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Costruzione e messa a norma imp. illuminazione e FM",
+  "description": "",
+  "client": "EURO s.r.l. (Suolificio e Tacchificio)",
+  "location": "Via Leopardi, Lusciano (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 7,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Impianto elettrico capannone deposito zucchero",
+  "description": "",
+  "client": "CDZ s.r.l.",
+  "location": "Via Provinciale delle Brecce 49, Napoli",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 8,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Manutenzione straordinaria cabina trasformazione (DM 37/08 e CEI 0-16)",
+  "description": "",
+  "client": "A. Bervicato S.r.l.",
+  "location": "Zona ASI Carinaro (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 9,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Manutenzione straordinaria cabina trasformazione (DM 37/08 e CEI 0-16)",
+  "description": "",
+  "client": "CO.MI.T S.R.L.",
+  "location": "Via Consortile, Zona ASI Carinaro (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 10,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Impianto elettrico + certificazione energetica",
+  "description": "",
+  "client": "Condominio 10 appartamenti",
+  "location": "Trentola-Ducenta, Traversa Bovaro S.N.C.",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 11,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Costruzione e messa a norma imp. illuminazione e FM",
+  "description": "",
+  "client": "Teatro QUIRINETTA",
+  "location": "Via Marco Minghetti, Roma",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 12,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Manutenzione straordinaria cabina trasformazione (DM 37/08 e CEI 0-16)",
+  "description": "",
+  "client": "SANTA CATERINA SRL",
+  "location": "Via A. Falcone 203, 80127 Napoli",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 13,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Manutenzione straordinaria cabina trasformazione (DM 37/08 e CEI 0-16)",
+  "description": "",
+  "client": "IL MATTINO SPA",
+  "location": "Via Chiatamone 65, 80121 Napoli",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 14,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Valutazione requisiti acustici passivi DPCM 05/12/1997",
+  "description": "",
+  "client": "Master-Campus Universitario",
+  "location": "Fisciano (SA)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 15,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Relazione requisiti acustici passivi DPCM 5.12.1997",
+  "description": "",
+  "client": "Isolato 399 - Corso Garibaldi",
+  "location": "Napoli",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 16,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Progettazione impianto elettrico",
+  "description": "",
+  "client": "Pub Cucchiare'",
+  "location": "Via Provinciale per Nola 35/37/39, San Vitaliano",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 17,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Progettazione impianto FV da 2,94 kW",
+  "description": "",
+  "client": "Privato (Capodrise)",
+  "location": "Via Amatore Sciesa 8, 81020 Capodrise (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 18,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Pratiche GSE, ENEL, Gaudì e Agenzia Dogane per FV 4,14+4,54+6,71 MW",
+  "description": "",
+  "client": "EC SOLAR C1 SRL",
+  "location": "Tenuta Pozzillo, Sessa Aurunca (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 19,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Pratiche GSE, ENEL, Gaudì e Agenzia Dogane per FV 922 kW",
+  "description": "",
+  "client": "ENERGYPROJECT SPA",
+  "location": "Via Armando Diaz, Cancello ed Arnone (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 20,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Collaborazione progettazione e pratiche per FV 97,02 kW",
+  "description": "",
+  "client": "Mari Ingegneria",
+  "location": "Via Vecchia Sarno 174, 80044 Ottaviano (NA)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 21,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Relazione tecnica L. 10/91",
+  "description": "",
+  "client": "Palazzetto Palairno",
+  "location": "Baronissi (SA)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 22,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Adeguamento Delibera 243/13 per FV 19,88 kW e 99,88 kW",
+  "description": "",
+  "client": "Pezone Paolo",
+  "location": "Via Santa Maria a Cubito, Villa Literno (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 23,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Ampliamento impianto elettrico opificio",
+  "description": "",
+  "client": "S.B. Suole di Bosco Salvatore",
+  "location": "Zona Ind. P.I.P., 81030 Teverola (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 24,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Adeguamento CEI 0-16 cabina trasformazione",
+  "description": "",
+  "client": "I.L.V. SAS DI IORIO VITTORIO & C.",
+  "location": "Via Vallesana, Marano di Napoli",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 25,
+  "date": "2015",
+  "datePrecision": "year",
+  "title": "Adeguamento CEI 0-16 cabina trasformazione",
+  "description": "",
+  "client": "JIMMYMI HOTEL S.r.l.",
+  "location": "Via Flacca Km 6,800, Fondi (LT)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 26,
+  "date": "2010",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 7,92 kW",
+  "description": "",
+  "client": "Siano Luciano",
+  "location": "Via Canale Superiore n. 2, 83028 Serino (AV)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 27,
+  "date": "2010",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 3 kW",
+  "description": "",
+  "client": "De Santis Giovanni Ubaldo",
+  "location": "Via Cerzeta n. 62/A, 83029 Solofra (AV)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 28,
+  "date": "2010",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 4,84 kW",
+  "description": "",
+  "client": "Scarpati Lucia",
+  "location": "Via Valente n. 11, 80040 Cercola (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 29,
+  "date": "2011",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 922 kW",
+  "description": "",
+  "client": "Energyproject S.p.a.",
+  "location": "Via Armando Diaz snc, 81030 Cancello ed Arnone (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 30,
+  "date": "2011",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 48 kW",
+  "description": "",
+  "client": "Fato S.r.l.",
+  "location": "Dieffe Sistemi, Via SS7 Bis Zona Industriale ASI SNC, 81030 Teverola (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 31,
+  "date": "2011",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 5,52 kW",
+  "description": "",
+  "client": "Di Gennaro Paolo",
+  "location": "Via Libertà n. 229, 80055 Portici (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 32,
+  "date": "2011",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 3,91 kW",
+  "description": "",
+  "client": "Siano Claudio",
+  "location": "Via Ferrari Canale n. 25, 83028 Serino (AV)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 33,
+  "date": "2011",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,86 kW",
+  "description": "",
+  "client": "Alajo Concetta",
+  "location": "Via Valente n. 10, 80040 Cercola (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 34,
+  "date": "2011",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,86 kW",
+  "description": "",
+  "client": "Bonfatti Stefania",
+  "location": "Via Valente n. 12, 80040 Cercola (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 35,
+  "date": "2011",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,94 kW",
+  "description": "",
+  "client": "Gallucci Gerardina",
+  "location": "Via Cerzeta n. 62/A, 83029 Solofra (AV)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 36,
+  "date": "2011",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,86 kW",
+  "description": "",
+  "client": "Farina Silvana",
+  "location": "Via Valente n. 11, 80040 Cercola (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 37,
+  "date": "2012",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per 3 impianti FV da 4,14 MW, 4,54 MW e 6,71 MW",
+  "description": "",
+  "client": "EC Solar C1 S.r.l.",
+  "location": "Tenuta Pozzillo snc, 81037 Sessa Aurunca (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 38,
+  "date": "2012",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 97,02 kW",
+  "description": "",
+  "client": "Mari Ingegneria Sviluppo S.r.l.",
+  "location": "Via Vecchia Sarno n. 174, 80044 Ottaviano (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 39,
+  "date": "2012",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 5,39 kW
+  {
+  "id": 41,
+  "date": "2012",
+  "datePrecision": "year",
+  "title": "Progettazione impianto elettrico",
+  "description": "",
+  "client": "Playa Ticò S.r.l.",
+  "location": "Lido San Pietro Beach, Via Giacinto Diano n. 123, 81030 Castel Volturno (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 42,
+  "date": "2013",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 150 kW",
+  "description": "",
+  "client": "Fiamma Vesuviana S.r.l.",
+  "location": "Via Pentelete n. 77, 80044 Ottaviano (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 43,
+  "date": "2013",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 58,8 kW",
+  "description": "",
+  "client": "Vesuviuslandia S.n.c.",
+  "location": "Via M. Falconi n. 1, 80040 San Sebastiano al V. (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 44,
+  "date": "2013",
+  "datePrecision": "year",
+  "title": "Progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 5,85 kW",
+  "description": "",
+  "client": "Cioppa Katia",
+  "location": "Via Tutuni n. 47, 81041 Vitulazio (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 45,
+  "date": "2013",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 2,94 kW",
+  "description": "",
+  "client": "Mai Riccardo",
+  "location": "Via Figliola n. 27, 80040 San Sebastiano al Vesuvio (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 46,
+  "date": "2013",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL e Gaudì-Terna per impianto FV da 5,8 kW",
+  "description": "",
+  "client": "Russo Enrico",
+  "location": "Via Figliola n. 27, 80040 San Sebastiano al Vesuvio (NA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 47,
+  "date": "2014",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione, pratiche GSE, ENEL, Gaudì-Terna e Agenzia delle Dogane per impianto FV da 
+ {
+  "id": 81,
+  "date": "2017",
+  "datePrecision": "year",
+  "title": "Progettazione impianto rivelazione incendio Fabbricato A",
+  "description": "",
+  "client": "Centro riabilitazione Don Orione",
+  "location": "Via San Luigi Orione al Vesuvio 15/A, 80056 Ercolano (NA)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 82,
+  "date": "2017",
+  "datePrecision": "year",
+  "title": "Dimensionamento e taratura protezione cabina trasformazione",
+  "description": "",
+  "client": "TCYCLE INDUSTRIES",
+  "location": "Zona industriale Teverola (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 83,
+  "date": "2017",
+  "datePrecision": "year",
+  "title": "Progettazione impianto elettrico",
+  "description": "",
+  "client": "Opificio stoccaggio Frutta/Verdura",
+  "location": "Via Consortile Zona ASI, Carinaro (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 84,
+  "date": "2017",
+  "datePrecision": "year",
+  "title": "Progettazione imp. elettrico Padiglione 8 e 8bis",
+  "description": "",
+  "client": "Casa Reclusione 'F. Saporito'",
+  "location": "Via San Francesco da Paola 2, 81031 Aversa (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 85,
+  "date": "2017",
+  "datePrecision": "year",
+  "title": "Progettazione impianto rivelazione incendio",
+  "description": "",
+  "client": "Centro riabilitazione Don Orione",
+  "location": "Via San Luigi Orione al Vesuvio 15/A, 80056 Ercolano (NA)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 86,
+  "date": "2017",
+  "datePrecision": "year",
+  "title": "Progettazione imp. elettrico cabina MT/bt",
+  "description": "",
+  "client": "T-CYCLE INDUSTRIES",
+  "location": "Zona industriale Teverola (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 87,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Progettazione impianto elettrico",
+  "description": "",
+  "client": "ER S.p.A.",
+  "location": "Centro commerciale Vicolungo Outlet, 28060 Vicolungo (NO)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 88,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Progettazione impianto FV da 18,83 kW",
+  "description": "",
+  "client": "H2 Power S.r.l.",
+  "location": "First Star Spinelli S.r.l., Via F. Riccio n. 31, 84014 Nocera Inferiore (SA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 89,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione impianto elettrico",
+  "description": "",
+  "client": "G&G S.r.l. Immobiliare",
+  "location": "Via Lavatoio n. 270, 82011 Airola (BN)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 90,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione impianto elettrico",
+  "description": "",
+  "client": "Carrozzeria F.lli Merenda S.n.c.",
+  "location": "Via Firenze n. 10, 81031 Aversa (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 91,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione impianto elettrico",
+  "description": "",
+  "client": "Flexofar S.r.l.",
+  "location": "Zona ASI, 81030 Gricignano d'Aversa (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 92,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Progettazione impianto FV da 30 kW + Agenzia Dogane",
+  "description": "",
+  "client": "H2 Power S.r.l.",
+  "location": "Gay Odin S.r.l., Via Vetriera n. 12, 80132 Napoli",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 93,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Progettazione impianto FV da 120,12 kW + Agenzia Dogane",
+  "description": "",
+  "client": "H2 Power S.r.l.",
+  "location": "Lumicart S.r.l., Via Taurana Lotto n. 3 Zona P.I.P., 84012 Angri (SA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 94,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Progettazione impianto FV da 4,6 kW",
+  "description": "",
+  "client": "H2 Power S.r.l.",
+  "location": "D'Auria Nicola, Via Virgilio n. 35, 81030 Succivo (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 95,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Progettazione impianto FV da 41,44 kW + Agenzia Dogane",
+  "description": "",
+  "client": "H2 Power S.r.l.",
+  "location": "Regina di Giorgio Regina & c. SAS, Via A. De Gasperi n. 298, 84016 Pagani (SA)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 96,
+  "date": "2018",
+  "datePrecision": "year",
+  "title": "Ampliamento e trasformazione imp. elettrico",
+  "description": "",
+  "client": "Flexofar srl",
+  "location": "Str.st. 7/bis, Zona ASI, 81030 Gricignano d'Aversa (CE)",
+  "tags": "Ing. Vincenzo Pagano"
+},
+{
+  "id": 97,
+  "date": "2019",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione impianto di terra",
+  "description": "",
+  "client": "Elci S.r.l.",
+  "location": "CDP Immobiliare, Via Galileo Ferraris n. 271, 80142 Napoli",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 98,
+  "date": "2019",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione impianto elettrico",
+  "description": "",
+  "client": "Logcenter S.r.l.",
+  "location": "SS 7 bis km 12,5 Zona Industriale snc, 81032 Carinaro (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 99,
+  "date": "2019",
+  "datePrecision": "year",
+  "title": "Progettazione impianto elettrico",
+  "description": "",
+  "client": "Kicco d'or caffè",
+  "location": "Via dei Glicini n. 71, 81031 Aversa (CE)",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 100,
+  "date": "2019",
+  "datePrecision": "year",
+  "title": "Collaborazione a progettazione impianto elettrico",
+  "description": "",
+  "client": "H2 Power S.r.l.",
+  "location": "Ditta Esposito Arturo Mirko, Via Pietro Castellino n. 26, 80128 Napoli",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 101,
+  "date": "2019",
+  "datePrecision": "year",
+  "title": "Progettazione impianto FV da 5,99 kW",
+  "description": "",
+  "client": "Angeloni Pietro",
+  "location": "Via Fabio Filzi n. 21, Latina",
+  "tags": "Ing. Giovanni Costanzo"
+},
+{
+  "id": 102,
+  "date": "2019",
+  "datePrecision": "year",
+  "title": "Progettazione impianto elettrico",
+  "description": "",
+  "client": "Menale Salvatore",
+  "location": "",
+  "tags": "Ing. Giovanni Costanzo"
+}
+
+  ...ecc.
+]
 
