@@ -1,64 +1,82 @@
-import { Award, Download, ExternalLink, FileCheck } from 'lucide-react';
+import { useState } from 'react';
+import { Award, X, ZoomIn } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
+
+// Esempio di come configurare gli attestati con immagini
+// Dopo aver caricato le immagini nella cartella app/src/assets/certifications/
+// decommenta e modifica questo array
+
+/*
+import cert1 from '../assets/certifications/cert1.webp';
+import cert2 from '../assets/certifications/cert2.webp';
+import cert3 from '../assets/certifications/cert3.webp';
 
 const certifications = [
   {
-    title: 'Certificazione Esperto in Gestione dell\'Energia (E.G.E.)',
-    issuer: 'ICMQ - Istituto di Certificazione e Marchio di Qualità',
+    title: 'Certificazione E.G.E.',
+    image: cert1,
     holder: 'Ing. Vincenzo Pagano',
     date: '2018',
-    description: 'Certificazione professionale secondo la norma UNI CEI 11339 per la figura di Esperto in Gestione dell\'Energia',
-    type: 'Certificazione Professionale',
-    color: 'from-amber-500 to-orange-600',
   },
   {
-    title: 'Iscrizione Albo Ingegneri Caserta',
-    issuer: 'Ordine degli Ingegneri della Provincia di Caserta',
+    title: 'Iscrizione Albo Ingegneri',
+    image: cert2,
     holder: 'Ing. Giovanni Costanzo',
     date: 'N. 3919 - Sez. A',
-    description: 'Iscrizione all\'Albo degli Ingegneri della Provincia di Caserta, Sezione A - Settore Industriale',
-    type: 'Abilitazione Professionale',
-    color: 'from-blue-500 to-blue-700',
+  },
+  // Aggiungi altri attestati...
+];
+*/
+
+// Array temporaneo con immagini placeholder
+const certifications = [
+  {
+    title: 'Certificazione Esperto in Gestione dell\'Energia (E.G.E.)',
+    image: null, // Sostituisci con l'import dell'immagine reale
+    holder: 'Ing. Vincenzo Pagano',
+    date: '2018',
+    description: 'Certificazione professionale secondo la norma UNI CEI 11339',
   },
   {
     title: 'Iscrizione Albo Ingegneri Caserta',
-    issuer: 'Ordine degli Ingegneri della Provincia di Caserta',
+    image: null,
+    holder: 'Ing. Giovanni Costanzo',
+    date: 'N. 3919 - Sez. A',
+    description: 'Iscrizione Albo degli Ingegneri della Provincia di Caserta',
+  },
+  {
+    title: 'Iscrizione Albo Ingegneri Caserta',
+    image: null,
     holder: 'Ing. Vincenzo Pagano',
     date: 'N. 3449 - Sez. A',
-    description: 'Iscrizione all\'Albo degli Ingegneri della Provincia di Caserta, Sezione A - Settore Industriale',
-    type: 'Abilitazione Professionale',
-    color: 'from-amber-500 to-orange-600',
+    description: 'Iscrizione Albo degli Ingegneri della Provincia di Caserta',
   },
   {
     title: 'Consulente Tecnico d\'Ufficio',
-    issuer: 'Tribunale di Napoli Nord',
+    image: null,
     holder: 'Ing. Giovanni Costanzo',
     date: '2015',
-    description: 'Iscrizione nell\'albo dei Consulenti Tecnici d\'Ufficio presso il Tribunale di Napoli Nord',
-    type: 'Qualifica Professionale',
-    color: 'from-blue-500 to-blue-700',
+    description: 'Tribunale di Napoli Nord',
   },
   {
     title: 'Abilitazione Progettazione Fotovoltaica',
-    issuer: 'Ordine degli Ingegneri',
+    image: null,
     holder: 'Studio Costanzo-Pagano',
     date: '2010',
-    description: 'Abilitazione alla progettazione e direzione lavori di impianti fotovoltaici di qualsiasi potenza',
-    type: 'Abilitazione Tecnica',
-    color: 'from-green-500 to-green-700',
+    description: 'Progettazione impianti fotovoltaici',
   },
   {
-    title: 'Certificazione UNI 11558 - Efficienza Energetica',
-    issuer: 'Ente di Certificazione Accreditato',
+    title: 'Certificazione UNI 11558',
+    image: null,
     holder: 'Studio Costanzo-Pagano',
     date: '2019',
-    description: 'Certificazione secondo norma UNI 11558 per professionisti che operano nel campo dell\'efficienza energetica',
-    type: 'Certificazione Tecnica',
-    color: 'from-green-500 to-green-700',
+    description: 'Efficienza Energetica',
   },
 ];
 
 export default function Certifications() {
+  const [selectedImage, setSelectedImage] = useState<string | null>(null);
+
   return (
     <section id="attestati" aria-label="Attestati" className="py-24 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -81,60 +99,48 @@ export default function Certifications() {
           {certifications.map((cert, index) => (
             <Card
               key={index}
-              className="overflow-hidden border-0 shadow-lg shadow-gray-200/50 hover:shadow-xl hover:shadow-gray-200/60 transition-all duration-300 group"
+              className="overflow-hidden border-0 shadow-lg hover:shadow-xl transition-all duration-300 group cursor-pointer"
+              onClick={() => cert.image && setSelectedImage(cert.image)}
             >
               <CardContent className="p-0">
-                {/* Header with Gradient */}
-                <div
-                  className={`h-24 bg-gradient-to-r ${cert.color} relative overflow-hidden`}
-                  aria-hidden="true"
-                >
-                  <div className="absolute inset-0 opacity-20">
-                    <div
-                      className="absolute inset-0"
-                      style={{
-                        backgroundImage: `url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.1' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E")`,
-                      }}
-                    />
-                  </div>
-                  {/* Icon */}
-                  <div className="absolute -bottom-6 left-6">
-                    <div className="w-12 h-12 bg-white rounded-xl shadow-lg flex items-center justify-center">
-                      <Award className="w-6 h-6 text-[#1e3a5f]" aria-hidden="true" />
+                {/* Image Container */}
+                <div className="relative aspect-[3/4] bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden">
+                  {cert.image ? (
+                    <>
+                      <img
+                        src={cert.image}
+                        alt={cert.title}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      />
+                      {/* Zoom Overlay */}
+                      <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-30 transition-all duration-300 flex items-center justify-center">
+                        <ZoomIn className="w-12 h-12 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                      </div>
+                    </>
+                  ) : (
+                    /* Placeholder */
+                    <div className="w-full h-full flex flex-col items-center justify-center text-gray-400">
+                      <Award className="w-16 h-16 mb-4" />
+                      <p className="text-sm font-medium">Immagine non disponibile</p>
+                      <p className="text-xs mt-1">Carica l'attestato</p>
                     </div>
-                  </div>
+                  )}
                 </div>
 
-                {/* Content */}
-                <div className="p-6 pt-10">
-                  {/* Type Badge */}
-                  <span className="inline-block px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-xs font-medium mb-3">
-                    {cert.type}
-                  </span>
-
-                  {/* Title */}
+                {/* Info */}
+                <div className="p-4">
                   <h3 className="text-lg font-bold text-gray-900 mb-2 leading-tight">
                     {cert.title}
                   </h3>
-
-                  {/* Holder */}
                   <p className="text-sm font-medium text-[#1e3a5f] mb-1">
                     {cert.holder}
                   </p>
-
-                  {/* Issuer and Date */}
-                  <div className="flex items-center justify-between text-sm text-gray-500 mb-3">
-                    <span className="flex items-center gap-1">
-                      <FileCheck className="w-4 h-4" aria-hidden="true" />
-                      {cert.issuer}
-                    </span>
-                  </div>
-                  <p className="text-xs text-gray-400 mb-4">{cert.date}</p>
-
-                  {/* Description */}
-                  <p className="text-sm text-gray-600 leading-relaxed">
-                    {cert.description}
-                  </p>
+                  <p className="text-xs text-gray-500 mb-2">{cert.date}</p>
+                  {cert.description && (
+                    <p className="text-sm text-gray-600 leading-relaxed">
+                      {cert.description}
+                    </p>
+                  )}
                 </div>
               </CardContent>
             </Card>
@@ -159,11 +165,32 @@ export default function Certifications() {
               className="inline-flex items-center gap-2 px-6 py-3 bg-[#1e3a5f] text-white rounded-lg hover:bg-[#152d4a] transition-colors font-medium"
             >
               Contattaci
-              <ExternalLink className="w-4 h-4" aria-hidden="true" />
             </a>
           </div>
         </div>
       </div>
+
+      {/* Lightbox Modal */}
+      {selectedImage && (
+        <div
+          className="fixed inset-0 z-50 bg-black bg-opacity-90 flex items-center justify-center p-4"
+          onClick={() => setSelectedImage(null)}
+        >
+          <button
+            onClick={() => setSelectedImage(null)}
+            className="absolute top-4 right-4 text-white hover:text-gray-300 transition-colors"
+            aria-label="Chiudi"
+          >
+            <X className="w-8 h-8" />
+          </button>
+          <img
+            src={selectedImage}
+            alt="Attestato ingrandito"
+            className="max-w-full max-h-full object-contain"
+            onClick={(e) => e.stopPropagation()}
+          />
+        </div>
+      )}
     </section>
   );
 }
