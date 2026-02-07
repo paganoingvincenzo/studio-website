@@ -3,13 +3,20 @@ import { Menu, X, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { scrollToSection } from '@/lib/scrollTo';
 import logoImg from '../assets/logo-new.png'; // o .svg
+import { Link } from 'react-router-dom';
 
-const navLinks = [
-  { name: 'Home', href: '#home' },
-  { name: 'Chi Siamo', href: '#chi-siamo' },
-  { name: 'Servizi', href: '#servizi' },
-  { name: 'Strumenti', href: '#strumenti' },
-  { name: 'Contatti', href: '#contatti' },
+const navLinks: Array<
+  | { name: string; type: 'section'; href: `#${string}` }
+  | { name: string; type: 'route'; to: `/${string}` }
+> = [
+  { name: 'Home', type: 'section', href: '#home' },
+  { name: 'Chi Siamo', type: 'section', href: '#chi-siamo' },
+  { name: 'Servizi', type: 'section', href: '#servizi' },
+
+  { name: 'Lavori', type: 'route', to: '/lavori' },
+
+  { name: 'Strumenti', type: 'section', href: '#strumenti' },
+  { name: 'Contatti', type: 'section', href: '#contatti' },
 ];
 
 export default function Navbar() {
