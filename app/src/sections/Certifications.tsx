@@ -29,6 +29,27 @@ import pdf21 from '../assets/certifications/pdf21_page1.webp';
 import pdf22 from '../assets/certifications/pdf22_page1.webp';
 import pdf23 from '../assets/certifications/pdf23_page1.webp';
 
+/* Nuovi certificati caricati */
+import apdf1 from '../assets/certifications/apdf1_page1.webp';
+import apdf2 from '../assets/certifications/apdf2_page1.webp';
+import apdf3 from '../assets/certifications/apdf3_page1.webp';
+import apdf5 from '../assets/certifications/apdf5_page1.webp';
+import apdf6 from '../assets/certifications/apdf6_page1.webp';
+import apdf7 from '../assets/certifications/apdf7_page1.webp';
+import apdf8 from '../assets/certifications/apdf8_page1.webp';
+import apdf9 from '../assets/certifications/apdf9_page1.webp';
+import apdf10 from '../assets/certifications/apdf10_page1.webp';
+import apdf11 from '../assets/certifications/apdf11_page1.webp';
+import apdf12 from '../assets/certifications/apdf12_page1.webp';
+import apdf13 from '../assets/certifications/apdf13_page1.webp';
+import apdf14 from '../assets/certifications/apdf14_page1.webp';
+import apdf15 from '../assets/certifications/apdf15_page1.webp';
+import apdf16 from '../assets/certifications/apdf16_page1.webp';
+import apdf17 from '../assets/certifications/apdf17_page1.webp';
+import apdf18 from '../assets/certifications/apdf18_page1.webp';
+import apdf19 from '../assets/certifications/apdf19_page1.webp';
+import apdf20 from '../assets/certifications/apdf20_page1.webp';
+
 /* Elenco attestati */
 const certifications = [
   {
@@ -128,7 +149,7 @@ const certifications = [
     description: 'Beta Formazione',
   },
 
-  /* Altri attestati generici */
+  /* Attestati generici */
   { title: 'Attestato Professionale', image: pdf11, holder: 'Ing. Giovanni Costanzo', date: '—' },
   { title: 'Attestato Professionale', image: pdf12, holder: 'Ing. Giovanni Costanzo', date: '—' },
   { title: 'Attestato Professionale', image: pdf13, holder: 'Ing. Giovanni Costanzo', date: '—' },
@@ -139,6 +160,27 @@ const certifications = [
   { title: 'Attestato Professionale', image: pdf18, holder: 'Ing. Giovanni Costanzo', date: '—' },
   { title: 'Attestato Professionale', image: pdf19, holder: 'Ing. Giovanni Costanzo', date: '—' },
   { title: 'Attestato Professionale', image: pdf20, holder: 'Ing. Giovanni Costanzo', date: '—' },
+
+  /* Nuovi attestati */
+  { title: 'Attestato Professionale', image: apdf1, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf2, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf3, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf5, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf6, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf7, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf8, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf9, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf10, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf11, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf12, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf13, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf14, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf15, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf16, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf17, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf18, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf19, holder: 'Ing. Giovanni Costanzo', date: '—' },
+  { title: 'Attestato Professionale', image: apdf20, holder: 'Ing. Giovanni Costanzo', date: '—' },
 ];
 
 export default function Certifications() {
@@ -156,7 +198,6 @@ export default function Certifications() {
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-
           {certifications.map((cert, i) => (
             <Card
               key={i}
@@ -164,9 +205,7 @@ export default function Certifications() {
               onClick={() => setSelectedImage(cert.image)}
             >
               <CardContent className="p-0">
-
                 <div className="relative aspect-[3/4] bg-gray-200">
-
                   <img
                     src={cert.image}
                     alt={cert.title}
@@ -176,7 +215,6 @@ export default function Certifications() {
                   <div className="absolute inset-0 bg-black/0 hover:bg-black/30 flex items-center justify-center transition">
                     <ZoomIn className="text-white opacity-0 hover:opacity-100" />
                   </div>
-
                 </div>
 
                 <div className="p-4">
@@ -190,11 +228,9 @@ export default function Certifications() {
                     </p>
                   )}
                 </div>
-
               </CardContent>
             </Card>
           ))}
-
         </div>
       </div>
 
@@ -204,7 +240,6 @@ export default function Certifications() {
           className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-4"
           onClick={() => setSelectedImage(null)}
         >
-
           <button
             className="absolute top-4 right-4 text-white"
             onClick={() => setSelectedImage(null)}
@@ -219,7 +254,6 @@ export default function Certifications() {
           />
         </div>
       )}
-
     </section>
   );
 }
