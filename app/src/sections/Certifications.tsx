@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Award, X, ZoomIn } from 'lucide-react';
+import { X, ZoomIn } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 
 /* Import immagini attestati */
