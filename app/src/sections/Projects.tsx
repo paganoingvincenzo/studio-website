@@ -1,25 +1,19 @@
 import lavori from "../data/lavori.json";
 
 export default function Projects() {
-  // Ordina per data decrescente
+  // Ordina per anno decrescente
   const sorted = [...lavori].sort((a, b) => {
     if (a.date > b.date) return -1;
     if (a.date < b.date) return 1;
     return 0;
   });
 
-  // Formattazione data
   const formatDate = (
     date: string,
-    precision: "day" | "month" | "year" = "day"
+    precision: "day" | "month" | "year" = "year"
   ) => {
-    const y = date.slice(0, 4);
-    const m = date.slice(5, 7);
-    const d = date.slice(8, 10);
-
-    if (precision === "year") return y;
-    if (precision === "month") return `${m}/${y}`;
-    return `${d}/${m}/${y}`;
+    if (precision === "year") return date;
+    return date;
   };
 
   return (
@@ -62,7 +56,7 @@ export default function Projects() {
               <strong>{p.title}</strong>
 
               <span style={{ opacity: 0.7 }}>
-                {formatDate(p.date, p.datePrecision ?? "day")}
+                {formatDate(p.date, p.datePrecision ?? "year")}
               </span>
             </div>
 
@@ -98,4 +92,5 @@ export default function Projects() {
     </section>
   );
 }
+
 
