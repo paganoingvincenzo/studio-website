@@ -8,6 +8,7 @@ import Tools from './sections/Tools';
 import Contact from './sections/Contact';
 import Footer from './sections/Footer';
 import Projects from "./sections/Projects";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function CookieBanner() {
   const [visible, setVisible] = useState(false);
@@ -104,22 +105,45 @@ function WhatsAppButton() {
     </div>
   );
 }
+function HomePage() {
+  return (
+    <main id="main-content">
+      <Hero />
+      <About />
+      <Services />
+      <Tools />
+      <Contact />
+    </main>
+  );
+}
 
+function ProjectsPage() {
+  return (
+    <main id="main-content">
+      <Projects />
+    </main>
+  );
+}
 function App() {
   return (
-    <div className="min-h-screen bg-white">
-      <Navbar />
-      <main id="main-content">
-        <Hero />
-        <About />
-        <Services />
-        <Tools />
-        <Contact />
-      </main>
-      <Footer />
-      <WhatsAppButton />
-      <CookieBanner />
-    </div>
+    <BrowserRouter>
+
+      <div className="min-h-screen bg-white">
+
+        <Navbar />
+
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/lavori" element={<ProjectsPage />} />
+        </Routes>
+
+        <Footer />
+        <WhatsAppButton />
+        <CookieBanner />
+
+      </div>
+
+    </BrowserRouter>
   );
 }
 
