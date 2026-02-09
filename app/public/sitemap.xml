@@ -6,5 +6,24 @@
     <priority>1.0</priority>
   </url>
 
-</urlset>
+  <url>
+    <loc>https://studio-website-chi.vercel.app/team</loc>
+    <priority>0.8</priority>
+  </url>
 
+  <url>
+    <loc>https://studio-website-chi.vercel.app/portfolio</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://studio-website-chi.vercel.app/certificazioni</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://studio-website-chi.vercel.app/contatti</loc>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
