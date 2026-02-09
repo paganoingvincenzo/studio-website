@@ -64,10 +64,7 @@ function CookieBanner() {
 
 function WhatsAppButton() {
   const [isOpen, setIsOpen] = useState(false);
-  const phoneNumber = '393388920421';
-  const message = encodeURIComponent('Buongiorno, vorrei maggiori informazioni sui vostri servizi.');
-  const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
-
+  const whatsappUrl = 'https://chat.whatsapp.com/BSFyvZPGS3I4ox0RXNmWK9?mode=gi_t';
   return (
     <div className="fixed bottom-6 right-6 z-40">
       {isOpen && (
