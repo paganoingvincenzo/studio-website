@@ -1,13 +1,13 @@
-import { useState, useEffect } from 'react';
-import { MessageCircle, X } from 'lucide-react';
-import Navbar from './sections/Navbar';
-import Hero from './sections/Hero';
-import About from './sections/About';
-import Services from './sections/Services';
-import Tools from './sections/Tools';
-import Contact from './sections/Contact';
-import Footer from './sections/Footer';
-import Certifications from './sections/Certifications';
+import { useState, useEffect } from "react";
+import { MessageCircle, X } from "lucide-react";
+import Navbar from "./sections/Navbar";
+import Hero from "./sections/Hero";
+import About from "./sections/About";
+import Services from "./sections/Services";
+import Tools from "./sections/Tools";
+import Contact from "./sections/Contact";
+import Footer from "./sections/Footer";
+import Certifications from "./sections/Certifications";
 import Projects from "./sections/Projects";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -15,19 +15,19 @@ function CookieBanner() {
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
-    const consent = localStorage.getItem('cookie-consent');
+    const consent = localStorage.getItem("cookie-consent");
     if (!consent) {
       setVisible(true);
     }
   }, []);
 
   const acceptCookies = () => {
-    localStorage.setItem('cookie-consent', 'accepted');
+    localStorage.setItem("cookie-consent", "accepted");
     setVisible(false);
   };
 
   const rejectCookies = () => {
-    localStorage.setItem('cookie-consent', 'rejected');
+    localStorage.setItem("cookie-consent", "rejected");
     setVisible(false);
   };
 
@@ -39,8 +39,8 @@ function CookieBanner() {
         <div className="text-sm">
           <p className="font-semibold mb-1">Questo sito utilizza cookie</p>
           <p className="text-gray-300">
-            Utilizziamo cookie tecnici e, previo consenso, cookie di terze parti per migliorare l'esperienza. 
-            Puoi accettare o rifiutare.
+            Utilizziamo cookie tecnici e, previo consenso, cookie di terze parti
+            per migliorare l&apos;esperienza. Puoi accettare o rifiutare.
           </p>
         </div>
         <div className="flex gap-2 flex-shrink-0">
@@ -64,7 +64,9 @@ function CookieBanner() {
 
 function WhatsAppButton() {
   const [isOpen, setIsOpen] = useState(false);
-  const whatsappUrl = 'https://chat.whatsapp.com/BSFyvZPGS3I4ox0RXNmWK9?mode=gi_t';
+  const whatsappUrl =
+    "https://chat.whatsapp.com/BSFyvZPGS3I4ox0RXNmWK9?mode=gi_t";
+
   return (
     <div className="fixed bottom-6 right-6 z-40">
       {isOpen && (
@@ -72,7 +74,9 @@ function WhatsAppButton() {
           <div className="flex justify-between items-start mb-3">
             <div>
               <h4 className="font-semibold text-gray-900">Chatta con noi</h4>
-              <p className="text-sm text-gray-600">Rispondiamo il prima possibile</p>
+              <p className="text-sm text-gray-600">
+                Rispondiamo il prima possibile
+              </p>
             </div>
             <button
               onClick={() => setIsOpen(false)}
@@ -105,7 +109,7 @@ function WhatsAppButton() {
 
 function HomePage() {
   return (
-    <main id="main-content">
+    <main id="main-content" className="pt-28">
       <Hero />
       <About />
       <Services />
@@ -118,7 +122,7 @@ function HomePage() {
 
 function ProjectsPage() {
   return (
-    <main id="main-content">
+    <main id="main-content" className="pt-28">
       <Projects />
     </main>
   );
@@ -126,12 +130,11 @@ function ProjectsPage() {
 
 function CertificationsPage() {
   return (
-    <main id="main-content" className="pt-40">
+    <main id="main-content" className="pt-28">
       <Certifications />
     </main>
   );
 }
-
 
 function App() {
   return (
