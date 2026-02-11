@@ -34,25 +34,22 @@ export default function Projects() {
               key={p.id}
               className="rounded-lg border px-4 py-3 text-sm sm:text-base"
             >
-              {/* BLOCCO TITOLO + ANNO */}
-              <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-1 sm:gap-4">
-                <div className="font-medium break-words w-full">
-                  {p.title}
-                </div>
-
-                <div className="text-xs text-muted-foreground shrink-0">
+              {/* Titolo e anno: layout flessibile e responsivo */}
+              <div className="grid grid-cols-1 sm:grid-cols-[1fr_auto] gap-2 sm:gap-4 items-start">
+                <div className="font-medium break-words">{p.title}</div>
+                <div className="text-xs text-muted-foreground whitespace-nowrap">
                   {formatDate(p.date, "year")}
                 </div>
               </div>
 
-              {/* LOCATION */}
+              {/* Location */}
               {p.location && (
                 <div className="mt-1 text-xs text-muted-foreground break-words">
                   Sito: {p.location}
                 </div>
               )}
 
-              {/* DESCRIZIONE */}
+              {/* Descrizione */}
               {p.description && (
                 <div className="mt-1 text-xs text-muted-foreground break-words">
                   {p.description}
