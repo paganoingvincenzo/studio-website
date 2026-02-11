@@ -34,7 +34,7 @@ export default function Projects() {
               key={p.id}
               className="rounded-lg border px-4 py-3 text-sm sm:text-base"
             >
-              {/* Layout a prova di accavallamento */}
+              {/* Layout anti-sovrapposizione */}
               <div className="grid grid-cols-[1fr_auto] gap-2 items-start">
                 <div className="font-medium break-words">
                   {p.title}
