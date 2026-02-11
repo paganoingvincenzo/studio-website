@@ -1,7 +1,6 @@
 import lavori from "../data/lavori.json";
 
 export default function Projects() {
-  // Ordina per anno decrescente
   const sorted = [...lavori].sort((a, b) => {
     if (a.date > b.date) return -1;
     if (a.date < b.date) return 1;
@@ -35,23 +34,27 @@ export default function Projects() {
               key={p.id}
               className="rounded-lg border px-4 py-3 text-sm sm:text-base"
             >
-              <div className="flex flex-wrap items-start justify-between gap-4">
-                <div className="font-medium min-w-0 break-words">
+              {/* BLOCCO TITOLO + ANNO */}
+              <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-1 sm:gap-4">
+                <div className="font-medium break-words w-full">
                   {p.title}
                 </div>
-                <div className="text-xs text-muted-foreground">
+
+                <div className="text-xs text-muted-foreground shrink-0">
                   {formatDate(p.date, "year")}
                 </div>
               </div>
 
+              {/* LOCATION */}
               {p.location && (
-                <div className="mt-1 text-xs text-muted-foreground">
+                <div className="mt-1 text-xs text-muted-foreground break-words">
                   Sito: {p.location}
                 </div>
               )}
 
+              {/* DESCRIZIONE */}
               {p.description && (
-                <div className="mt-1 text-xs text-muted-foreground">
+                <div className="mt-1 text-xs text-muted-foreground break-words">
                   {p.description}
                 </div>
               )}
