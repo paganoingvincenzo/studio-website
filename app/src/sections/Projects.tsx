@@ -34,7 +34,7 @@ export default function Projects() {
               key={p.id}
               className="rounded-lg border px-4 py-3 text-sm sm:text-base"
             >
-              {/* Layout anti-sovrapposizione */}
+              {/* Titolo + Anno */}
               <div className="grid grid-cols-[1fr_auto] gap-2 items-start w-full">
                 <div className="font-medium break-words w-full">
                   {p.title}
@@ -45,12 +45,12 @@ export default function Projects() {
                 </div>
               </div>
 
-              {p.location && (
-                <div className="mt-1 text-xs text-muted-foreground break-words">
-                  Sito: {p.location}
-                </div>
-              )}
+              {/* Sito (gestito anche se mancante) */}
+              <div className="mt-1 text-xs text-muted-foreground break-words">
+                Sito: {p.location ? p.location : "—"}
+              </div>
 
+              {/* Descrizione (se presente) */}
               {p.description && (
                 <div className="mt-1 text-xs text-muted-foreground break-words">
                   {p.description}
@@ -69,3 +69,4 @@ export default function Projects() {
     </section>
   );
 }
+
