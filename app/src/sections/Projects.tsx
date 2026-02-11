@@ -17,58 +17,37 @@ export default function Projects() {
   };
 
   return (
-    <section
-      style={{
-        maxWidth: 1100,
-        margin: "80px auto 0",
-        padding: "40px 16px",
-      }}
-    >
-      <h1>Lavori</h1>
+    <section id="projects" className="space-y-6">
+      <div className="space-y-1">
+        <h2 className="text-xl font-semibold tracking-tight">Lavori</h2>
+        <p className="text-sm text-muted-foreground">
+          Elenco delle principali attività professionali
+        </p>
+      </div>
 
-      <p style={{ opacity: 0.8 }}>
-        Elenco delle principali attività professionali
-      </p>
-
-      <div
-        style={{
-          marginTop: 30,
-          display: "grid",
-          gap: 14,
-        }}
-      >
+      <div className="space-y-3">
         {sorted.map((p) => (
           <div
             key={p.id}
-            style={{
-              border: "1px solid rgba(0,0,0,0.15)",
-              borderRadius: 12,
-              padding: 16,
-            }}
+            className="rounded-lg border px-4 py-3 text-sm sm:text-base"
           >
-            <div
-              style={{
-                display: "flex",
-                justifyContent: "space-between",
-                gap: 10,
-              }}
-            >
-              <strong>{p.title}</strong>
-
-              <span style={{ opacity: 0.7 }}>
+            <div className="flex items-start justify-between gap-4">
+              <div className="font-medium">{p.title}</div>
+              <div className="text-xs text-muted-foreground">
                 {formatDate(p.date, "year")}
-              </span>
+              </div>
             </div>
 
-            {p.client && (
-              <div style={{ marginTop: 6, opacity: 0.85 }}>
-                Committente: {p.client}
-                {p.location && ` · ${p.location}`}
+            {p.location && (
+              <div className="mt-1 text-xs text-muted-foreground">
+                Sito: {p.location}
               </div>
             )}
 
             {p.description && (
-              <div style={{ marginTop: 8 }}>{p.description}</div>
+              <div className="mt-1 text-xs text-muted-foreground">
+                {p.description}
+              </div>
             )}
 
             {/* RIMOSSO: niente più tags, niente più nomi dei professionisti */}
@@ -76,12 +55,11 @@ export default function Projects() {
         ))}
 
         {sorted.length === 0 && (
-          <div style={{ opacity: 0.7 }}>Nessun lavoro presente.</div>
+          <div className="text-sm text-muted-foreground">
+            Nessun lavoro presente.
+          </div>
         )}
       </div>
     </section>
   );
 }
-
-
-
