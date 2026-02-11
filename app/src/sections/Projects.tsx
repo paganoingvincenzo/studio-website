@@ -34,22 +34,23 @@ export default function Projects() {
               key={p.id}
               className="rounded-lg border px-4 py-3 text-sm sm:text-base"
             >
-              {/* Titolo e anno: layout flessibile e responsivo */}
-              <div className="grid grid-cols-1 sm:grid-cols-[1fr_auto] gap-2 sm:gap-4 items-start">
-                <div className="font-medium break-words">{p.title}</div>
+              {/* Layout a prova di accavallamento */}
+              <div className="grid grid-cols-[1fr_auto] gap-2 items-start">
+                <div className="font-medium break-words">
+                  {p.title}
+                </div>
+
                 <div className="text-xs text-muted-foreground whitespace-nowrap">
                   {formatDate(p.date, "year")}
                 </div>
               </div>
 
-              {/* Location */}
               {p.location && (
                 <div className="mt-1 text-xs text-muted-foreground break-words">
                   Sito: {p.location}
                 </div>
               )}
 
-              {/* Descrizione */}
               {p.description && (
                 <div className="mt-1 text-xs text-muted-foreground break-words">
                   {p.description}
