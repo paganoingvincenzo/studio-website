@@ -35,8 +35,8 @@ export default function Projects() {
               className="rounded-lg border px-4 py-3 text-sm sm:text-base"
             >
               {/* Layout anti-sovrapposizione */}
-              <div className="grid grid-cols-[1fr_auto] gap-2 items-start">
-                <div className="font-medium break-words">
+              <div className="grid grid-cols-[1fr_auto] gap-2 items-start w-full">
+                <div className="font-medium break-words w-full">
                   {p.title}
                 </div>
 
