@@ -35,8 +35,10 @@ export default function Projects() {
               key={p.id}
               className="rounded-lg border px-4 py-3 text-sm sm:text-base"
             >
-              <div className="flex items-start justify-between gap-4">
-                <div className="font-medium">{p.title}</div>
+              <div className="flex flex-wrap items-start justify-between gap-4">
+                <div className="font-medium min-w-0 break-words">
+                  {p.title}
+                </div>
                 <div className="text-xs text-muted-foreground">
                   {formatDate(p.date, "year")}
                 </div>
@@ -53,8 +55,6 @@ export default function Projects() {
                   {p.description}
                 </div>
               )}
-
-              {/* RIMOSSO: niente più tags, niente più nomi dei professionisti */}
             </div>
           ))}
 
