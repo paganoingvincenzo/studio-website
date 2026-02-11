@@ -17,8 +17,8 @@ export default function Projects() {
   };
 
   return (
-    <section id="projects" className="space-y-6">
-      <div className="max-w-3xl mx-auto space-y-6">
+    <section id="projects" className="mt-10 space-y-6">
+      <div className="max-w-3xl mx-auto space-y-6 px-4">
         <div className="space-y-1">
           <h2 className="text-xl font-semibold tracking-tight">Lavori</h2>
           <p className="text-sm text-muted-foreground">
