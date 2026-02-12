@@ -74,11 +74,11 @@ const services = [
     description:
       'Gestione completa di tutte le pratiche tecniche necessarie per impianti e interventi edilizi. Rapporti con enti e distributori.',
     features: [
-      'Pratiche GSE',
-      'Connessione E-distribuzione',
-      'Registrazione GAUDÌ',
-      'Autorizzazioni comunali',
-    ],
+  'Domande di connessione E-Distribuzione',
+  'Pratiche GSE',
+  'Registrazione GAUDÌ - Terna',
+  'Autorizzazioni urbanistiche',
+],
     color: 'from-purple-400 to-purple-600',
     bgColor: 'bg-purple-50',
   },
