@@ -1,7 +1,7 @@
 import { Award, GraduationCap, Mail, Phone } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
-const costanzoImg = '/assets/Costanzo.jpg';
-const paganoImg = '/assets/Pagano.jpg';
+import costanzoImg from '../assets/Costanzo.jpg';
+import paganoImg from '../assets/Pagano.jpg';
 
 const engineers = [
   {
