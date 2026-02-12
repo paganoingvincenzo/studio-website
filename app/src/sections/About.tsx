@@ -1,4 +1,4 @@
-import { Award, GraduationCap,  Mail, Phone } from 'lucide-react';
+import { Award, GraduationCap, Mail, Phone } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import costanzoImg from '../assets/Costanzo.jpg';
 import paganoImg from '../assets/Pagano.jpg';
@@ -10,13 +10,14 @@ const engineers = [
     image: costanzoImg,
     albo: 'N. 3919 - Sez. A Albo Ingegneri Caserta',
     ctu: 'Consulente Tecnico d\'Ufficio - Tribunale Napoli Nord',
+    ctu2: 'RSPP e Coordinatore per la Sicurezza (CSP/CSE) – D.Lgs. 81/08',
     specialization: [
       'Impianti Fotovoltaici',
       'Sicurezza sui Luoghi di Lavoro',
       'Consulenza Tecnica Legale',
     ],
     education: 'Laurea in Ingegneria Elettronica - Seconda Università di Napoli',
-        experience: '',
+    experience: '',
     email: 'giovannicostanzo@libero.it',
     phone: '331 928 4991',
     color: 'from-blue-500 to-blue-700',
@@ -27,6 +28,7 @@ const engineers = [
     image: paganoImg,
     albo: 'N. 3449 - Sez. A Albo Ingegneri di Caserta',
     ctu: 'Esperto in Gestione dell\'Energia (E.G.E.) certificato',
+    ctu2: 'Tecnico Competente in Acustica Ambientale (art. 21, L. 447/1995)',
     specialization: [
       'Efficienza Energetica',
       'Riqualificazione Energetica',
@@ -34,8 +36,7 @@ const engineers = [
       'Impianti Elettrici',
     ],
     education: 'Laurea in Ingegneria Elettronica - Seconda Università di Napoli',
-        experience: '',
-  
+    experience: '',
     email: 'vpagano@libero.it',
     phone: '338 892 0421',
     color: 'from-amber-500 to-orange-600',
@@ -46,7 +47,7 @@ export default function About() {
   return (
     <section id="chi-siamo" aria-label="Chi Siamo" className="py-24 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Section Header */}
+
         <div className="text-center mb-16">
           <span className="inline-block px-4 py-2 bg-blue-50 text-[#1e3a5f] rounded-full text-sm font-semibold mb-4">
             Il Nostro Team
@@ -62,7 +63,6 @@ export default function About() {
           </p>
         </div>
 
-        {/* Engineers Cards */}
         <div className="grid md:grid-cols-2 gap-8 lg:gap-12">
           {engineers.map((engineer, index) => (
             <Card
@@ -70,7 +70,7 @@ export default function About() {
               className="overflow-hidden border-0 shadow-xl shadow-gray-200/50 hover:shadow-2xl hover:shadow-gray-200/60 transition-all duration-300 group"
             >
               <CardContent className="p-0">
-                {/* Header with Gradient */}
+
                 <div
                   className={`h-32 bg-gradient-to-r ${engineer.color} relative overflow-hidden`}
                   aria-hidden="true"
@@ -85,18 +85,16 @@ export default function About() {
                   </div>
                 </div>
 
-                {/* Content */}
                 <div className="px-8 pb-8 -mt-12 relative">
-                  {/* Avatar */}
+
                   <div className="w-24 h-24 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-6 border-4 border-white">
-                <img
-                  src={engineer.image}
-                  alt={engineer.name}
-                  className="w-full h-full object-cover rounded-2xl"
-                />
+                    <img
+                      src={engineer.image}
+                      alt={engineer.name}
+                      className="w-full h-full object-cover rounded-2xl"
+                    />
                   </div>
 
-                  {/* Info */}
                   <div className="mb-6">
                     <h3 className="text-2xl font-bold text-gray-900 mb-1">
                       {engineer.name}
@@ -104,17 +102,25 @@ export default function About() {
                     <p className="text-[#1e3a5f] font-medium mb-2">
                       {engineer.role}
                     </p>
+
                     <div className="flex items-center gap-2 text-sm text-gray-500">
                       <Award className="w-4 h-4 flex-shrink-0" aria-hidden="true" />
                       <span>{engineer.albo}</span>
                     </div>
+
                     <div className="flex items-center gap-2 text-sm text-gray-500 mt-1">
                       <Award className="w-4 h-4 flex-shrink-0" aria-hidden="true" />
                       <span>{engineer.ctu}</span>
                     </div>
+
+                    {engineer.ctu2 && (
+                      <div className="flex items-center gap-2 text-sm text-gray-500 mt-1">
+                        <Award className="w-4 h-4 flex-shrink-0" aria-hidden="true" />
+                        <span>{engineer.ctu2}</span>
+                      </div>
+                    )}
                   </div>
 
-                  {/* Specializations */}
                   <div className="mb-6">
                     <h4 className="text-sm font-semibold text-gray-900 uppercase tracking-wide mb-3">
                       Aree di Competenza
@@ -131,7 +137,6 @@ export default function About() {
                     </div>
                   </div>
 
-                  {/* Details */}
                   <div className="space-y-3 mb-6">
                     <div className="flex items-start gap-3">
                       <GraduationCap className="w-5 h-5 text-gray-400 mt-0.5 flex-shrink-0" aria-hidden="true" />
@@ -139,16 +144,13 @@ export default function About() {
                         {engineer.education}
                       </span>
                     </div>
-                  
                   </div>
 
-                  {/* Contact */}
                   <div className="pt-6 border-t border-gray-100">
                     <div className="flex flex-col sm:flex-row gap-3">
                       <a
                         href={`mailto:${engineer.email}`}
                         className="flex items-center gap-2 px-4 py-2.5 bg-gray-50 hover:bg-gray-100 rounded-lg transition-colors text-sm font-medium text-gray-700"
-                        aria-label={`Invia email a ${engineer.name}`}
                       >
                         <Mail className="w-4 h-4" aria-hidden="true" />
                         {engineer.email}
@@ -156,20 +158,19 @@ export default function About() {
                       <a
                         href={`tel:+39${engineer.phone.replace(/\s/g, '')}`}
                         className="flex items-center gap-2 px-4 py-2.5 bg-gray-50 hover:bg-gray-100 rounded-lg transition-colors text-sm font-medium text-gray-700"
-                        aria-label={`Chiama ${engineer.name} al ${engineer.phone}`}
                       >
                         <Phone className="w-4 h-4" aria-hidden="true" />
                         {engineer.phone}
                       </a>
                     </div>
                   </div>
+
                 </div>
               </CardContent>
             </Card>
           ))}
         </div>
 
-        {/* Stats */}
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6">
           {[
             { value: '15+', label: 'Anni di Esperienza' },
@@ -188,6 +189,7 @@ export default function About() {
             </div>
           ))}
         </div>
+
       </div>
     </section>
   );
