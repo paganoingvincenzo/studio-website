@@ -55,7 +55,7 @@
   },
   {
     "id": "10",
-    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 922 kW su capannone industriale",
+    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 922 kW a terra",
     "location": "Via Armando Diaz SNC 81030 Cancello ed Arnone (CE)",
     "date": "2011"
   },
@@ -121,8 +121,8 @@
   },
   {
     "id": "21",
-    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 10,50 kW su capannone industriale via Montanara SNC",
-    "location": "57023 Cecina (LI)",
+    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 10,50 kW su capannone industriale",
+    "location": "Via Montanara SNC 57023 Cecina (LI)",
     "date": "2014"
   },
   {
@@ -205,8 +205,8 @@
   },
   {
     "id": "35",
-    "title": "Progettazione Impianto Elettrico in locale commerciale ad uso farmacia S.S. Sannitica 87 Km 8 SNC",
-    "location": "80026 Casoria (NA)",
+    "title": "Progettazione Impianto Elettrico in locale commerciale ad uso farmacia",
+    "location": "S.S. Sannitica 87 Km 8 SNC 80026 Casoria (NA)",
     "date": "2016"
   },
   {
@@ -253,8 +253,8 @@
   },
   {
     "id": "43",
-    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 2,86 kW su edificio residenziale Loc. Scalzatoio SNC",
-    "location": "81013 Piana di Monte Verna (CE)",
+    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 2,86 kW su edificio residenziale",
+    "location": "Loc. Scalzatoio SNC 81013 Piana di Monte Verna (CE)",
     "date": "2016"
   },
   {
@@ -271,8 +271,8 @@
   },
   {
     "id": "46",
-    "title": "Progettazione Cabina Elettrica in complesso industriale Loc. Industriale SNC",
-    "location": "81032 Carinaro (CE)",
+    "title": "Progettazione Cabina Elettrica in complesso industriale",
+    "location": "Loc. Industriale SNC 81032 Carinaro (CE)",
     "date": "2017"
   },
   {
@@ -691,8 +691,8 @@
   },
   {
     "id": "116",
-    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 10,00 kW in edificio residenziale via Martino n. 15",
-    "location": "81038 Trentola Ducenta (CE)",
+    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 10,00 kW in edificio residenziale",
+    "location": "Via Martino n. 15 81038 Trentola Ducenta (CE)",
     "date": "2021"
   },
   {
@@ -931,8 +931,8 @@
   },
   {
     "id": "156",
-    "title": "Progettazione termica, Asseverazione per SUPERBONUS 110% in edificio residenziale via Conca dei Fossi n. 1",
-    "location": "84090 Montecorvino Pugliano (SA)",
+    "title": "Progettazione termica, Asseverazione per SUPERBONUS 110% in edificio residenziale",
+    "location": "Via Conca dei Fossi n. 184090 Montecorvino Pugliano (SA)",
     "date": "2021"
   },
   {
@@ -967,8 +967,8 @@
   },
   {
     "id": "162",
-    "title": "Progettazione termica, Asseverazione per SUPERBONUS 110% in edificio residenziale Stradone della Mainizza n. 38",
-    "location": "34170 Gorizia",
+    "title": "Progettazione termica, Asseverazione per SUPERBONUS 110% in edificio residenziale",
+    "location": "Stradone della Mainizza n. 38 34170 Gorizia",
     "date": "2021"
   },
   {
@@ -1177,14 +1177,14 @@
   },
   {
     "id": "197",
-    "title": "Progettazione termica per SUPERBONUS 110% in edificio residenziale via Pietro Nenni n. 20",
-    "location": "81030 Lusciano (CE)",
+    "title": "Progettazione termica per SUPERBONUS 110% in edificio residenziale",
+    "location": "Via Pietro Nenni n. 20 81030 Lusciano (CE)",
     "date": "2021"
   },
   {
     "id": "198",
-    "title": "Progettazione termica per SUPERBONUS 110% in edificio residenziale via T. Campanella n. 19",
-    "location": "80016 Marano di Napoli (NA)",
+    "title": "Progettazione termica per SUPERBONUS 110% in edificio residenziale",
+    "location": "Via T. Campanella n. 19 80016 Marano di Napoli (NA)",
     "date": "2021"
   },
   {
@@ -1261,8 +1261,8 @@
   },
   {
     "id": "211",
-    "title": "CILA, Asseverazione dei costi, Computo Metrico Bonus Facciate in complesso scolastico via E. Montale n. 36 Sant’Arpino (CE)",
-    "location": "",
+    "title": "CILA, Asseverazione dei costi, Computo Metrico Bonus Facciate in complesso scolastico,
+    "location": "Via E. Montale n. 36 Sant’Arpino (CE)"",
     "date": "2022"
   },
   {
@@ -1579,8 +1579,8 @@
   },
   {
     "id": "264",
-    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 5,00 kW in edificio residenziale Villaggio Le Perle SNC",
-    "location": "81037 Sessa Aurunca (CE)",
+    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 5,00 kW in edificio residenziale",
+    "location": "Villaggio Le Perle SNC 81037 Sessa Aurunca (CE)",
     "date": "2022"
   },
   {
@@ -1993,8 +1993,8 @@
   },
   {
     "id": "333",
-    "title": "Progettazione termica per SUPERBONUS 110% in edificio residenziale via Pennini n. 101",
-    "location": "83100 Avellino",
+    "title": "Progettazione termica per SUPERBONUS 110% in edificio residenziale",
+    "location": "Via Pennini n. 101 83100 Avellino",
     "date": "2022"
   },
   {
@@ -2413,8 +2413,8 @@
   },
   {
     "id": "403",
-    "title": "Progettazione Impianto Fotovoltaico da 5,95 kW in edificio residenziale Vicolo Petrarca n. 20",
-    "location": "81047 Macerata Campania (CE)",
+    "title": "Progettazione Impianto Fotovoltaico da 5,95 kW in edificio residenziale",
+    "location": "Vicolo Petrarca n. 20 81047 Macerata Campania (CE)",
     "date": "2023"
   },
   {
@@ -2539,8 +2539,8 @@
   },
   {
     "id": "424",
-    "title": "Domanda di connessione e Progettazione n. 3 Impianti Fotovoltaici da 6,00 kW in edificio residenziale condominiale via San Domenico n. 18",
-    "location": "03039 Sora (FR)",
+    "title": "Domanda di connessione e Progettazione n. 3 Impianti Fotovoltaici da 6,00 kW in edificio residenziale condominiale",
+    "location": "Via San Domenico n. 18 03039 Sora (FR)",
     "date": "2023"
   },
   {
@@ -2897,13 +2897,7 @@
     "location": "Via Armando Virnicchi n. 120 80013 Casalnuovo di Napoli (NA)",
     "date": "2024"
   },
-  {
-    "id": "484",
-    "title": "Domanda di connessione e Progettazione Impianto Fotovoltaico da 5,95 kW in edificio residenziale",
-    "location": "Via Parroco Gagliardi n. 5 81033 Casal di Principe (CE)",
-    "date": "2024"
-  },
-  {
+    {
     "id": "485",
     "title": "Domanda di connessione e Progettazione n. 2 Impianti Fotovoltaici da 6,00 kW in edificio residenziale condominiale",
     "location": "Via Pietra Santa Maria n. 23 03039 Sora (FR)",
@@ -3133,8 +3127,8 @@
   },
   {
     "id": "523",
-    "title": "Progettazione Impianto Fotovoltaico da 100,00 kW in capannone industriale SP132 SNC",
-    "location": "81037 Sessa Aurunca (CE)",
+    "title": "Progettazione Impianto Fotovoltaico da 100,00 kW in capannone industriale",
+    "location": "SP132 SNC 81037 Sessa Aurunca (CE)",
     "date": "2025"
   },
   {
