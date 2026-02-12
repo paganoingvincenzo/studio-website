@@ -8,7 +8,7 @@ const engineers = [
     name: 'Ing. Giovanni Costanzo',
     role: 'Co-fondatore',
     image: costanzoImg,
-    albo: 'N. 3919 - Sez. A Albo Ingegneri Caserta',
+    albo: 'Sez. A Albo Ingegneri Caserta - N. 3919',
     ctu: 'Consulente Tecnico d\'Ufficio - Tribunale Napoli Nord',
     ctu2: 'RSPP e Coordinatore per la Sicurezza (CSP/CSE) – D.Lgs. 81/08',
     specialization: [
@@ -26,7 +26,7 @@ const engineers = [
     name: 'Ing. Vincenzo Pagano',
     role: 'Co-fondatore',
     image: paganoImg,
-    albo: 'N. 3449 - Sez. A Albo Ingegneri di Caserta',
+    albo: 'Sez. A Albo Ingegneri di Caserta - N. 3449',
     ctu: 'Esperto in Gestione dell\'Energia (E.G.E.) certificato',
     ctu2: 'Tecnico Competente in Acustica Ambientale (art. 21, L. 447/1995)',
     specialization: [
