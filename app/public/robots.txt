@@ -1,1 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://studio-website-chi.vercel.app/sitemap.xml
 
