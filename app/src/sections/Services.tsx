@@ -16,7 +16,7 @@ const services = [
     icon: Sun,
     title: 'Impianti Fotovoltaici',
     description:
-      'Progettazione completa di impianti fotovoltaici residenziali, commerciali e industriali. Gestione pratiche GSE, E-distribuzione, GAUDÌ e Agenzia delle Dogane.',
+      'Progettazione completa di impianti fotovoltaici residenziali, commerciali e industriali. Gestione pratiche GSE, E-Distribuzione, GAUDÌ e Agenzia delle Dogane.',
     features: [
       'Sopralluoghi tecnici',
       'Progettazione esecutiva',
@@ -30,7 +30,7 @@ const services = [
     icon: Zap,
     title: 'Efficienza Energetica',
     description:
-      'Consulenza per il miglioramento dell\'efficienza energetica di edifici residenziali e industriali. Diagnosi energetiche conformi alla UNI CEI EN 16247 e piani di intervento ottimizzati.',
+      'Consulenza per il miglioramento dell’efficienza energetica di edifici residenziali e industriali. Diagnosi energetiche conformi alla UNI CEI EN 16247 e piani di intervento ottimizzati.',
     features: [
       'Certificazione energetica APE',
       'Diagnosi energetica',
@@ -44,7 +44,7 @@ const services = [
     icon: Building2,
     title: 'Detrazioni Fiscali Energetiche',
     description:
-      'Assistenza completa per l\'accesso alle detrazioni fiscali per riqualificazione energetica: Ecobonus, Bonus Casa e Conto Termico 3.0. Progettazione, asseverazioni e pratiche ENEA.',
+      'Assistenza completa per l’accesso alle detrazioni fiscali per riqualificazione energetica: Ecobonus, Bonus Casa e Conto Termico 3.0. Progettazione, asseverazioni e pratiche ENEA.',
     features: [
       'Ecobonus e Bonus Casa',
       'Conto Termico 3.0',
@@ -58,7 +58,7 @@ const services = [
     icon: Shield,
     title: 'Sicurezza sul Lavoro',
     description:
-      'Servizi di consulenza per la prevenzione e sicurezza sui luoghi di lavoro ai sensi del D.Lgs. 81/2008 e s.m.i. Formazione e aggiornamento del personale.',
+      'Consulenza per la prevenzione e sicurezza sui luoghi di lavoro ai sensi del D.Lgs. 81/2008. Formazione e aggiornamento del personale.',
     features: [
       'Valutazione rischi (DVR)',
       'Piano sicurezza (PSC/POS)',
@@ -72,13 +72,13 @@ const services = [
     icon: FileCheck,
     title: 'Pratiche Tecniche',
     description:
-      'Gestione completa di tutte le pratiche tecniche necessarie per impianti e interventi edilizi. Rapporti con enti e distributori.',
+      'Gestione completa delle pratiche tecniche necessarie per impianti e interventi edilizi. Rapporti con enti e distributori.',
     features: [
-  'Domande di connessione E-Distribuzione',
-  'Pratiche GSE',
-  'Registrazione GAUDÌ - Terna',
-  'Autorizzazioni urbanistiche',
-],
+      'Domande di connessione E-Distribuzione',
+      'Pratiche GSE',
+      'Registrazione GAUDÌ - Terna',
+      'Autorizzazioni urbanistiche',
+    ],
     color: 'from-purple-400 to-purple-600',
     bgColor: 'bg-purple-50',
   },
@@ -86,7 +86,7 @@ const services = [
     icon: ClipboardCheck,
     title: 'Consulenza Tecnica Legale',
     description:
-      'Perizie tecniche, consulenze d\'ufficio e di parte. Supporto tecnico in controversie legali relative a impianti ed interventi edilizi.',
+      'Perizie tecniche, consulenze d’ufficio e di parte. Supporto tecnico in controversie legali relative a impianti e interventi edilizi.',
     features: [
       'Perizie tecniche',
       'CTU e CTP',
@@ -114,7 +114,7 @@ const services = [
     icon: Leaf,
     title: 'Impianti Termici',
     description:
-      'Progettazione e dimensionamento di impianti termici, pompe di calore e sistemi VRF/VRV. Soluzioni per il riscaldamento e raffrescamento ad alta efficienza.',
+      'Progettazione e dimensionamento di impianti termici, pompe di calore e sistemi VRF/VRV. Soluzioni per riscaldamento e raffrescamento ad alta efficienza.',
     features: [
       'Progettazione VRF/VRV',
       'Pompe di calore',
@@ -130,6 +130,7 @@ export default function Services() {
   return (
     <section id="servizi" aria-label="I nostri servizi" className="py-24 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
         {/* Section Header */}
         <div className="text-center mb-16">
           <span className="inline-block px-4 py-2 bg-blue-50 text-[#1e3a5f] rounded-full text-sm font-semibold mb-4">
@@ -139,9 +140,7 @@ export default function Services() {
             Soluzioni Complete per la Transizione Energetica
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Offriamo una gamma completa di servizi di ingegneria per supportare
-            privati, aziende e enti pubblici nel raggiungimento degli obiettivi
-            di efficienza energetica e sostenibilità ambientale.
+            Offriamo servizi di ingegneria per supportare privati, aziende ed enti pubblici nel raggiungimento degli obiettivi di efficienza energetica e sostenibilità ambientale.
           </p>
         </div>
 
@@ -163,10 +162,12 @@ export default function Services() {
                   {service.title}
                 </h3>
               </CardHeader>
+
               <CardContent className="p-6 pt-4">
                 <p className="text-gray-600 text-sm leading-relaxed mb-4">
                   {service.description}
                 </p>
+
                 <ul className="space-y-2" aria-label={`Dettagli ${service.title}`}>
                   {service.features.map((feature, i) => (
                     <li
@@ -189,8 +190,7 @@ export default function Services() {
         {/* CTA */}
         <div className="mt-16 text-center">
           <p className="text-gray-600 mb-6">
-            Hai bisogno di un servizio personalizzato? Contattaci per una
-            consulenza gratuita.
+            Hai bisogno di un servizio personalizzato? Contattaci per una consulenza gratuita.
           </p>
           <button
             onClick={() => scrollToSection('#contatti')}
@@ -199,6 +199,7 @@ export default function Services() {
             Richiedi Informazioni
           </button>
         </div>
+
       </div>
     </section>
   );
