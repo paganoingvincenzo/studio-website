@@ -17,7 +17,6 @@ const engineers = [
       'Consulenza Tecnica Legale',
     ],
     education: 'Laurea in Ingegneria Elettronica - Seconda Università di Napoli',
-    experience: '',
     email: 'giovannicostanzo@libero.it',
     phone: '331 928 4991',
     color: 'from-blue-500 to-blue-700',
@@ -36,7 +35,6 @@ const engineers = [
       'Impianti Elettrici',
     ],
     education: 'Laurea in Ingegneria Elettronica - Seconda Università di Napoli',
-    experience: '',
     email: 'vpagano@libero.it',
     phone: '338 892 0421',
     color: 'from-amber-500 to-orange-600',
@@ -57,10 +55,7 @@ export default function About() {
             Chi Siamo
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Studio Costanzo-Pagano nasce dall&apos;incontro di due professionisti
-            con oltre 15 anni di esperienza nel settore dell&apos;ingegneria
-            elettronica e delle energie rinnovabili. La nostra missione è
-            fornire soluzioni tecniche innovative e sostenibili.
+            Studio Costanzo-Pagano nasce dall’incontro di due professionisti con oltre 15 anni di esperienza nel settore dell’ingegneria elettronica e delle energie rinnovabili. La nostra missione è fornire soluzioni tecniche innovative, sostenibili e orientate al cliente.
           </p>
         </div>
 
@@ -109,19 +104,16 @@ export default function About() {
                       {engineer.role}
                     </p>
 
-                    {/* Albo */}
                     <div className="flex items-center gap-2 text-sm text-gray-500">
                       <Award className="w-4 h-4 flex-shrink-0" />
                       <span>{engineer.albo}</span>
                     </div>
 
-                    {/* CTU */}
                     <div className="flex items-center gap-2 text-sm text-gray-500 mt-1">
                       <Award className="w-4 h-4 flex-shrink-0" />
                       <span>{engineer.ctu}</span>
                     </div>
 
-                    {/* Seconda riga */}
                     {engineer.ctu2 && (
                       <div className="flex items-center gap-2 text-sm text-gray-500 mt-1">
                         <Award className="w-4 h-4 flex-shrink-0" />
