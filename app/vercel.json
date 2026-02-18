@@ -1,8 +1,15 @@
 {
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+    "redirects": [
+          {
+                  "source": "/software",
+                  "destination": "/",
+                  "permanent": true
+          }
+    ],
+    "rewrites": [
+          {
+                  "source": "/(.*)",
+                  "destination": "/index.html"
+          }
+    ]
 }
