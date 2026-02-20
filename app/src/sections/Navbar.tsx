@@ -79,12 +79,12 @@ export default function Navbar() {
         }`}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-auto py-4">
+          <div className="flex items-center justify-between h-auto py-2">
             <div className="flex items-center gap-2">
               <img
                 src={logoImg}
                 alt="Logo Studio Costanzo-Pagano"
-                className="w-auto h-32 md:h-40 rounded-lg object-contain"
+                className="w-auto h-16 md:h-20 rounded-lg object-contain"
               />
 
               <div className="hidden sm:block">
