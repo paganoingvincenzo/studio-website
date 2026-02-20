@@ -17,12 +17,12 @@ export default async function handler(req, res) {
 
   try {
     await resend.emails.send({
-      from: 'Studio Costanzo-Pagano <noreply@studiosite.it>',
+      from: 'onboarding@resend.dev',
       to: [
         process.env.MAIL_TO_1,
         process.env.MAIL_TO_2
       ],
-      reply_to: email,
+      replyTo: email,
       subject: `Nuova richiesta da ${nome}`,
       html: `
         <h2>Nuova richiesta dal sito</h2>
