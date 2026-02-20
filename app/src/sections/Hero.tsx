@@ -14,7 +14,7 @@ export default function Hero() {
     <section
       id="home"
       aria-label="Presentazione Studio Costanzo-Pagano"
-      className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden pt-10"
     >
       {/* Background Pattern */}
       <div className="absolute inset-0 bg-gradient-to-br from-slate-50 via-white to-blue-50" aria-hidden="true" />
