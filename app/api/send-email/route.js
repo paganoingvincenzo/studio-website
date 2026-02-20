@@ -30,9 +30,8 @@ export async function POST(req) {
     });
 
     return Response.json({ success: true });
-  } catch (err) {
-    console.error("Errore invio email:", err);
+  } catch (error) {
+    console.error("Errore invio email:", error);
     return Response.json({ error: "Errore invio email" }, { status: 500 });
   }
 }
-
