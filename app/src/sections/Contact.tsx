@@ -123,11 +123,24 @@ export default function Contact() {
 
           {/* COLONNA DESTRA (senza form) */}
           <div className="lg:col-span-3">
-            <div className="bg-gray-50 p-8 rounded-2xl">
+            <div className="bg-gray-50 p-8 rounded-2xl space-y-4">
+              <h3 className="text-xl font-semibold text-gray-900">Come Contattarci</h3>
               <p className="text-gray-600 leading-relaxed">
-                Il form di contatto non è più disponibile.  
-                Puoi contattarci tramite email, telefono o WhatsApp utilizzando i recapiti presenti nella colonna a sinistra.
+                Siamo a tua disposizione per consulenze, preventivi e informazioni tecniche.
+                Puoi raggiungerci tramite i recapiti riportati qui accanto.
               </p>
+
+              <ul className="text-gray-700 space-y-2">
+                <li>
+                  <strong>Telefono:</strong> 331 928 4991 (Ing. Costanzo) · 338 892 0421 (Ing. Pagano)
+                </li>
+                <li>
+                  <strong>Email:</strong> giovannicostanzo@libero.it · vpagano@libero.it
+                </li>
+                <li>
+                  <strong>WhatsApp:</strong> Disponibile tramite il link nella sezione contatti
+                </li>
+              </ul>
             </div>
           </div>
 
