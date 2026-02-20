@@ -55,7 +55,7 @@ export default function About() {
             Chi Siamo
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Studio Costanzo-Pagano nasce dall’incontro di due professionisti con oltre 15 anni di esperienza nel settore dell’ingegneria elettronica e delle energie rinnovabili. La nostra missione è fornire soluzioni tecniche innovative, sostenibili e orientate al cliente.
+            Lo Studio Costanzo-Pagano nasce dall’incontro di due professionisti con oltre 15 anni di esperienza nel settore dell’ingegneria elettronica e delle energie rinnovabili. La nostra missione è fornire soluzioni tecniche innovative, sostenibili e orientate al cliente.
           </p>
         </div>
 
