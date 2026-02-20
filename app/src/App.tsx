@@ -130,7 +130,7 @@ function ProjectsPage() {
 
 function CertificationsPage() {
   return (
-    <main id="main-content" className="pt-28">
+    <main id="main-content" className="pt-16">
       <Certifications />
     </main>
   );
