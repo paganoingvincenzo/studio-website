@@ -1,11 +1,10 @@
-import nodemailer from "nodemailer";
+const nodemailer = require("nodemailer");
 
-export default async function handler(req, res) {
+module.exports = async (req, res) => {
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Metodo non consentito" });
   }
 
-  // Vite/Vercel: il body NON è già parsato
   let body = "";
 
   await new Promise((resolve) => {
@@ -48,4 +47,4 @@ export default async function handler(req, res) {
     console.error("Errore invio email:", error);
     return res.status(500).json({ error: "Errore invio email" });
   }
-}
+};
