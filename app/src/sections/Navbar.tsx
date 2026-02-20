@@ -84,7 +84,7 @@ export default function Navbar() {
               <img
                 src={logoImg}
                 alt="Logo Studio Costanzo-Pagano"
-                className="w-auto h-16 md:h-20 rounded-lg object-contain"
+                className="w-auto h-24 md:h-28 rounded-lg object-contain"
               />
 
               <div className="hidden sm:block">
