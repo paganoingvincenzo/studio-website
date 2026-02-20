@@ -1,13 +1,11 @@
 {
-  "version": 2,
-  "builds": [
-    { "src": "api/send-email.js", "use": "@vercel/node" },
-    { "src": "vite.config.ts", "use": "@vercel/static-build" }
-  ],
-  "routes": [
-    { "src": "/api/send-email", "dest": "/api/send-email.js" },
-    { "src": "/(.*)", "dest": "/" }
-  ],
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist"
+    "version": 2,
+    "builds": [
+          { "src": "api/send-email.js", "use": "@vercel/node" },
+          { "src": "app/package.json", "use": "@vercel/static-build", "config": { "distDir": "dist" } }
+    ],
+    "routes": [
+          { "src": "/api/send-email", "dest": "/api/send-email.js" },
+          { "src": "/(.*)", "dest": "/" }
+    ]
 }
