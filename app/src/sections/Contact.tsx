@@ -25,13 +25,12 @@ const contactInfo = [
     icon: MapPin,
     title: 'Indirizzo',
     content: 'Via IV Novembre 137',
-        subContent: '81038 Trentola-Ducenta (CE)',
+    subContent: '81038 Trentola-Ducenta (CE)',
   },
   {
     icon: Phone,
     title: 'Telefono',
     content: '331 928 4991 (Ing. Costanzo) · 338 892 0421 (Ing. Pagano)',
-    
   },
   {
     icon: Mail,
@@ -63,6 +62,7 @@ const serviceOptions = [
 export default function Contact() {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [privacyAccepted, setPrivacyAccepted] = useState(false);
+
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -71,33 +71,59 @@ export default function Contact() {
     message: '',
   });
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
     if (!privacyAccepted) {
-      alert('Devi accettare l\'informativa sulla privacy per inviare il messaggio.');
+      alert("Devi accettare l'informativa sulla privacy per inviare il messaggio.");
       return;
     }
 
-    // Componi il link mailto come fallback (in produzione usare un backend o servizio come Formspree/EmailJS)
-    const subject = encodeURIComponent(`Richiesta informazioni - ${formData.service || 'Generale'}`);
-    const body = encodeURIComponent(
-      `Nome: ${formData.name}\nEmail: ${formData.email}\nTelefono: ${formData.phone || 'Non specificato'}\nServizio: ${formData.service || 'Non specificato'}\n\nMessaggio:\n${formData.message}`
-    );
-    window.location.href = `mailto:giovannicostanzo@libero.it?subject=${subject}&body=${body}`;
+    const data = {
+      nome: formData.name,
+      email: formData.email,
+      telefono: formData.phone,
+      servizio: formData.service,
+      messaggio: formData.message,
+    };
 
-    setIsSubmitted(true);
-    setTimeout(() => {
-      setIsSubmitted(false);
-      setFormData({ name: '', email: '', phone: '', service: '', message: '' });
-      setPrivacyAccepted(false);
-    }, 4000);
+    try {
+      const res = await fetch("/api/send-email", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(data),
+      });
+
+      if (res.ok) {
+        alert("Richiesta inviata con successo!");
+
+        setFormData({
+          name: "",
+          email: "",
+          phone: "",
+          service: "",
+          message: "",
+        });
+
+        setPrivacyAccepted(false);
+        setIsSubmitted(true);
+
+        setTimeout(() => setIsSubmitted(false), 4000);
+      } else {
+        alert("Errore durante l'invio della richiesta.");
+      }
+    } catch (error) {
+      console.error(error);
+      alert("Errore di connessione al server.");
+    }
   };
 
   return (
     <section id="contatti" aria-label="Contatti" className="py-24 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Section Header */}
+
         <div className="text-center mb-16">
           <span className="inline-block px-4 py-2 bg-blue-50 text-[#1e3a5f] rounded-full text-sm font-semibold mb-4">
             Contattaci
@@ -112,7 +138,7 @@ export default function Contact() {
         </div>
 
         <div className="grid lg:grid-cols-5 gap-12">
-          {/* Contact Info */}
+
           <div className="lg:col-span-2 space-y-6">
             {contactInfo.map((item, index) => (
               <div
@@ -143,7 +169,6 @@ export default function Contact() {
               </div>
             ))}
 
-            {/* WhatsApp Button */}
             <a
               href="https://chat.whatsapp.com/BSFyvZPGS3I4ox0RXNmWK9?mode=gi_t"
               target="_blank"
@@ -159,12 +184,10 @@ export default function Contact() {
               </div>
             </a>
 
-            {/* Map */}
             <div className="mt-8 rounded-2xl overflow-hidden shadow-lg border border-gray-200">
               <iframe
                 title="Posizione Studio Costanzo-Pagano su Google Maps"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.978564632836!2d14.175514676550796!3d40.93809697136052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b083c7069733d%3A0x1d0b006c642289c0!2sVia%20IV%20Novembre%2C%20137%2C%2081038%20Trentola-Ducenta%20CE!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit
-"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.978564632836!2d14.175514676550796!3d40.93809697136052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b083c7069733d%3A0x1d0b006c642289c0!2sVia%20IV%20Novembre%2C%20137%2C%2081038%20Trentola-Ducenta%20CE!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit"
                 width="100%"
                 height="220"
                 style={{ border: 0 }}
@@ -174,7 +197,6 @@ export default function Contact() {
               />
             </div>
 
-            {/* Area di operatività */}
             <div className="p-6 bg-gradient-to-br from-[#1e3a5f] to-[#2d5a8a] rounded-2xl text-white">
               <h4 className="font-semibold mb-2">Zona di Operatività</h4>
               <p className="text-sm text-blue-100 mb-4">
@@ -189,7 +211,6 @@ export default function Contact() {
             </div>
           </div>
 
-          {/* Contact Form */}
           <div className="lg:col-span-3">
             <div className="bg-gray-50 p-8 rounded-2xl">
               {isSubmitted ? (
@@ -211,6 +232,7 @@ export default function Contact() {
                       <Label htmlFor="name">Nome e Cognome *</Label>
                       <Input
                         id="name"
+                        name="nome"
                         placeholder="Mario Rossi"
                         value={formData.name}
                         onChange={(e) =>
@@ -225,6 +247,7 @@ export default function Contact() {
                       <Label htmlFor="email">Email *</Label>
                       <Input
                         id="email"
+                        name="email"
                         type="email"
                         placeholder="mario@esempio.it"
                         value={formData.email}
@@ -243,6 +266,7 @@ export default function Contact() {
                       <Label htmlFor="phone">Telefono</Label>
                       <Input
                         id="phone"
+                        name="telefono"
                         type="tel"
                         placeholder="+39 123 456 7890"
                         value={formData.phone}
@@ -256,6 +280,7 @@ export default function Contact() {
                     <div className="space-y-2">
                       <Label htmlFor="service">Servizio di Interesse</Label>
                       <Select
+                        name="servizio"
                         value={formData.service}
                         onValueChange={(value) =>
                           setFormData({ ...formData, service: value })
@@ -279,6 +304,7 @@ export default function Contact() {
                     <Label htmlFor="message">Messaggio *</Label>
                     <Textarea
                       id="message"
+                      name="messaggio"
                       placeholder="Descrivi la tua richiesta..."
                       value={formData.message}
                       onChange={(e) =>
@@ -290,7 +316,6 @@ export default function Contact() {
                     />
                   </div>
 
-                  {/* GDPR Consent Checkbox */}
                   <div className="flex items-start gap-3">
                     <input
                       type="checkbox"
@@ -301,7 +326,7 @@ export default function Contact() {
                       required
                     />
                     <label htmlFor="privacy" className="text-xs text-gray-500">
-                      Ho letto e accetto l&apos;informativa sulla privacy ai sensi del
+                      Ho letto e accetto l'informativa sulla privacy ai sensi del
                       Regolamento UE 2016/679 (GDPR) e del D.Lgs. 196/2003 e s.m.i.
                       I dati saranno trattati esclusivamente per rispondere alla richiesta. *
                     </label>
@@ -320,6 +345,7 @@ export default function Contact() {
               )}
             </div>
           </div>
+
         </div>
       </div>
     </section>
