@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "functions": {
-    "api/send-email.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
+  "builds": [
+    { "src": "api/send-email.js", "use": "@vercel/node" },
+    { "src": "vite.config.ts", "use": "@vercel/static-build" }
+  ],
   "routes": [
-    {
-      "src": "/api/send-email",
-      "dest": "/api/send-email.js"
-    }
+    { "src": "/api/send-email", "dest": "/api/send-email.js" },
+    { "src": "/(.*)", "dest": "/" }
   ]
 }
