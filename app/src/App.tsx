@@ -109,7 +109,7 @@ function WhatsAppButton() {
 
 function HomePage() {
   return (
-    <main id="main-content" className="pt-28">
+    <main id="main-content" className="pt-16">
       <Hero />
       <About />
       <Services />
