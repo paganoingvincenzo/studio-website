@@ -13,6 +13,14 @@ export default async function handler(req, res) {
     });
   }
 
+  // Log per verificare le variabili ambiente
+  console.log(
+    "Sto per inviare email con:",
+    process.env.RESEND_API_KEY,
+    process.env.MAIL_TO_1,
+    process.env.MAIL_TO_2
+  );
+
   const resend = new Resend(process.env.RESEND_API_KEY);
 
   try {
