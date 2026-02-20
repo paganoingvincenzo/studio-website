@@ -65,7 +65,7 @@ export default function Certifications() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   return (
-    <section id="attestati" className="pt-40 pb-24 bg-gray-50">
+    <section id="attestati" className="pt-20 pb-24 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4">
 
         <div className="text-center mb-16">
