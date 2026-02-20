@@ -5,7 +5,18 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: "Metodo non consentito" });
   }
 
-  const { nome, email, telefono, servizio, messaggio } = req.body;
+  // Vite/Vercel: il body NON è già parsato
+  let body = "";
+
+  await new Promise((resolve) => {
+    req.on("data", (chunk) => {
+      body += chunk;
+    });
+    req.on("end", resolve);
+  });
+
+  const data = JSON.parse(body);
+  const { nome, email, telefono, servizio, messaggio } = data;
 
   const transporter = nodemailer.createTransport({
     host: "smtp.libero.it",
@@ -38,4 +49,3 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Errore invio email" });
   }
 }
-
