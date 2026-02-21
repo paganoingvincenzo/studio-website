@@ -32,7 +32,7 @@ export default function Footer() {
               <img
                 src={logoImg}
                 alt="Logo Studio Costanzo-Pagano"
-                className="w-auto h-[112px] md:h-[130px] rounded-lg object-contain"
+                className="w-auto h-[160px] md:h-[200px] rounded-lg object-contain"
               />
 
             </div>
