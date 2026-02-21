@@ -23,21 +23,21 @@ export default function Footer() {
   return (
     <footer className="bg-[#1e3a5f] text-white" role="contentinfo">
       {/* Main Footer */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
           
           {/* Brand */}
           <div className="lg:col-span-1">
-            <div className="flex items-center gap-3 mb-3">
+            <div className="flex items-center gap-3 mb-2">
               <img
                 src={logoImg}
                 alt="Logo Studio Costanzo-Pagano"
-                className="w-auto h-[160px] md:h-[200px] rounded-lg object-contain"
+                className="w-auto h-[120px] md:h-[150px] rounded-lg object-contain"
               />
 
             </div>
 
-            <p className="text-blue-100 text-sm leading-relaxed mb-3">
+            <p className="text-blue-100 text-sm leading-snug mb-2">
               Professionisti dell&apos;ingegneria specializzati in
               energie rinnovabili, efficienza energetica e sicurezza sul lavoro.
             </p>
@@ -50,9 +50,9 @@ export default function Footer() {
 
           {/* Quick Links */}
           <div>
-            <h4 className="font-semibold text-lg mb-3">Link Rapidi</h4>
+            <h4 className="font-semibold text-base mb-2">Link Rapidi</h4>
             <nav aria-label="Link rapidi footer">
-              <ul className="space-y-1.5">
+              <ul className="space-y-1">
                 {quickLinks.map((link) => (
                   <li key={link.name}>
                     <button
@@ -73,8 +73,8 @@ export default function Footer() {
 
           {/* Services */}
           <div>
-            <h4 className="font-semibold text-lg mb-3">Servizi</h4>
-            <ul className="space-y-1.5">
+            <h4 className="font-semibold text-base mb-2">Servizi</h4>
+            <ul className="space-y-1">
               {services.map((service) => (
                 <li key={service}>
                   <span className="text-blue-100 text-sm">{service}</span>
@@ -85,8 +85,8 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h4 className="font-semibold text-lg mb-3">Contatti</h4>
-            <ul className="space-y-2">
+            <h4 className="font-semibold text-base mb-2">Contatti</h4>
+            <ul className="space-y-1.5">
               <li>
                 <a
                   href="https://maps.google.com/?q=Via+IV+Novembre+137%2C+81038+Trentola-Ducenta+CE"
