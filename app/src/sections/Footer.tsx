@@ -29,13 +29,11 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-6">
-              <div className="rounded-xl overflow-hidden flex items-center justify-center bg-white/10 p-1">
-                <img
-                  src={logoImg}
-                  alt="Logo Studio Costanzo-Pagano"
-                  className="w-auto h-16 md:h-20 object-contain scale-125"
-                />
-              </div>
+              <img
+                src={logoImg}
+                alt="Logo Studio Costanzo-Pagano"
+                className="w-auto h-20 md:h-24 rounded-lg object-contain"
+              />
 
               <div>
                 <h3 className="font-bold text-lg leading-tight">
@@ -67,7 +65,10 @@ export default function Footer() {
                       onClick={() => scrollToSection(link.href)}
                       className="text-blue-100 hover:text-white transition-colors flex items-center gap-2 group"
                     >
-                      <ExternalLink className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity" aria-hidden="true" />
+                      <ExternalLink
+                        className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity"
+                        aria-hidden="true"
+                      />
                       {link.name}
                     </button>
                   </li>
