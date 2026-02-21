@@ -6,6 +6,7 @@ import {
   PlugZap,
   ReceiptText,
   Cloud,
+  Lightbulb,
 } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 
@@ -44,6 +45,13 @@ const tools = [
     icon: Cloud,
     name: 'TuttoNormel – TNE CLOUD',
     note: 'Consultazione normativa tecnica e strumenti professionali online.',
+  },
+
+  // 👉 NUOVO SOFTWARE AGGIUNTO
+  {
+    icon: Lightbulb,
+    name: 'DIALux evo',
+    note: 'Progettazione illuminotecnica professionale con simulazioni 3D, calcoli fotometrici e analisi dei livelli di illuminamento.',
   },
 ];
 
