@@ -29,6 +29,8 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-6">
+
+              {/* LOGO IDENTICO ALLA NAVBAR, SOLO PIÙ PICCOLO */}
               <img
                 src={logoImg}
                 alt="Logo Studio Costanzo-Pagano"
