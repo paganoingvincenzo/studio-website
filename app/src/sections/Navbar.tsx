@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Menu, X, Phone } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Menu, X } from 'lucide-react';
 import { scrollToSection } from '@/lib/scrollTo';
 import logoImg from '../assets/logo-new.png';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
