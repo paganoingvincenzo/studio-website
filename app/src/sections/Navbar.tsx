@@ -125,6 +125,7 @@ export default function Navbar() {
               })}
             </div>
 
+            {/*
             <div className="hidden md:flex items-center gap-4">
               <a href="tel:+390818113194">
                 <Button className="bg-[#1e3a5f] hover:bg-[#152d4a] text-white gap-2">
@@ -133,6 +134,7 @@ export default function Navbar() {
                 </Button>
               </a>
             </div>
+            */}
 
             <button
               className="md:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors"
@@ -179,12 +181,14 @@ export default function Navbar() {
                 );
               })}
 
+              {/*
               <a href="tel:+390818113194" className="block w-full">
                 <Button className="w-full bg-[#1e3a5f] hover:bg-[#152d4a] text-white gap-2 mt-2">
                   <Phone className="w-4 h-4" />
                   Chiamaci
                 </Button>
               </a>
+              */}
             </div>
           </div>
         )}
