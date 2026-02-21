@@ -28,12 +28,13 @@ export default function Footer() {
           
           {/* Brand */}
           <div className="lg:col-span-1">
-            <div className="flex items-center gap-3 mb-6 min-h-[130px]">
+            <div className="flex items-center gap-3 mb-6">
               <img
                 src={logoImg}
                 alt="Logo Studio Costanzo-Pagano"
-                className="w-auto h-24 md:h-28 rounded-lg object-contain"
+                className="w-auto h-[112px] md:h-[130px] rounded-lg object-contain"
               />
+
             </div>
 
             <p className="text-blue-100 text-sm leading-relaxed mb-6">
