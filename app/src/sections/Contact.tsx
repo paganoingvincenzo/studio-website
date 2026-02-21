@@ -35,11 +35,11 @@ export default function Contact() {
   ];
 
   return (
-    <section id="contatti" className="py-20 bg-white">
+    <section id="contatti" className="py-12 bg-white">
       <div className="container mx-auto px-6 lg:px-12">
 
         {/* LAYOUT A COLONNA UNICA */}
-        <div className="max-w-3xl mx-auto space-y-12">
+        <div className="max-w-3xl mx-auto space-y-6">
 
           <div>
             <h2 className="text-3xl font-bold text-gray-900">Contatti</h2>
@@ -49,13 +49,13 @@ export default function Contact() {
           </div>
 
           {/* BLOCCO CONTATTI */}
-          <div className="space-y-6">
+          <div className="space-y-3">
             {contactInfo.map((item, index) => (
               <div
                 key={index}
-                className="flex items-start gap-4 p-5 bg-gray-50 rounded-xl hover:bg-gray-100 transition-colors"
+                className="flex items-start gap-3 p-3 bg-gray-50 rounded-xl hover:bg-gray-100 transition-colors"
               >
-                <div className="w-12 h-12 bg-gradient-to-br from-[#1e3a5f] to-[#2d5a8a] rounded-xl flex items-center justify-center flex-shrink-0">
+                <div className="w-10 h-10 bg-gradient-to-br from-[#1e3a5f] to-[#2d5a8a] rounded-xl flex items-center justify-center flex-shrink-0">
                   <item.icon className="w-6 h-6 text-white" aria-hidden="true" />
                 </div>
                 <div>
@@ -84,9 +84,9 @@ export default function Contact() {
               href="https://chat.whatsapp.com/BSFyvZPGS3I4ox0RXNmWK9?mode=gi_t"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-3 p-5 bg-green-50 rounded-xl hover:bg-green-100 transition-colors group"
+              className="flex items-center gap-3 p-3 bg-green-50 rounded-xl hover:bg-green-100 transition-colors group"
             >
-              <div className="w-12 h-12 bg-green-500 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform">
+              <div className="w-10 h-10 bg-green-500 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform">
                 <MessageCircle className="w-6 h-6 text-white" aria-hidden="true" />
               </div>
               <div>
@@ -98,7 +98,7 @@ export default function Contact() {
             </a>
 
             {/* MAPPA */}
-            <div className="mt-8 rounded-2xl overflow-hidden shadow-lg border border-gray-200">
+            <div className="mt-4 rounded-2xl overflow-hidden shadow-lg border border-gray-200">
               <iframe
                 title="Posizione Studio Costanzo-Pagano su Google Maps"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.978564632836!2d14.175514676550796!3d40.93809697136052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b083c7069733d%3A0x1d0b006c642289c0!2sVia%20IV%20Novembre%2C%20137%2C%2081038%20Trentola-Ducenta%20CE!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit"
