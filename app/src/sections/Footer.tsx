@@ -29,11 +29,11 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-12 h-12 rounded-xl overflow-hidden flex items-center justify-center bg-white/10">
+              <div className="rounded-xl overflow-hidden flex items-center justify-center bg-white/10">
                 <img
                   src={logoImg}
                   alt="Logo Studio Costanzo-Pagano"
-                  className="w-full h-full object-contain p-1"
+                  className="w-auto h-24 md:h-28 object-contain p-1"
                 />
               </div>
 
