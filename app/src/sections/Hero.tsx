@@ -169,13 +169,7 @@ export default function Hero() {
                 </div>
               </div>
 
-              {/* Floating Badge */}
-              <div className="absolute -bottom-16 -left-6 bg-gradient-to-br from-[#1e3a5f] to-[#2d5a8a] text-white p-4 rounded-xl shadow-xl">
-                <p className="text-3xl font-bold">15+</p>
-                <p className="text-sm text-blue-100">Anni di Esperienza</p>
-              </div>
-
-              {/* Floating Badge 2 */}
+              {/* Floating Badge 2 (rimane) */}
               <div className="absolute -top-4 -right-4 bg-white p-4 rounded-xl shadow-xl border border-gray-100">
                 <div className="flex items-center gap-2">
                   <div className="flex -space-x-2">
@@ -190,6 +184,7 @@ export default function Hero() {
                   </div>
                 </div>
               </div>
+
             </div>
           </div>
         </div>
