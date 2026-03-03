@@ -1,16 +1,15 @@
 {
-        "buildCommand": "npm install && npm run build",
-        "outputDirectory": "dist",
-        "redirects": [
-                    {
+          "buildCommand": "npm install && npm run build",
+          "outputDirectory": "dist",
+          "redirects": [
+                      {
                                     "source": "/:path*",
                                     "has": [{ "type": "host", "value": "studiocostanzopagano.it" }],
                                     "destination": "https://www.studiocostanzopagano.it/:path*",
                                     "permanent": true
-                    }
-        ],
-        "rewrites": [
-                    { "source": "/api/(.*)", "destination": "/api/$1" },
-                    { "source": "/((?!api)/.*)", "destination": "/index.html" }
-        ]
+                      }
+          ],
+          "rewrites": [
+                      { "source": "/(.*)", "destination": "/index.html" }
+          ]
 }
