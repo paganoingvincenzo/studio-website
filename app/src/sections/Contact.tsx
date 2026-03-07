@@ -4,7 +4,10 @@ import {
   Mail,
   Clock,
   MessageCircle,
+  Send,
 } from 'lucide-react';
+
+import { ContactForm } from '@/components/ContactForm';
 
 export default function Contact() {
   const contactInfo = [
@@ -96,6 +99,23 @@ export default function Contact() {
                 </p>
               </div>
             </a>
+
+            {/* INVIA EMAIL */}
+            <ContactForm
+              trigger={
+                <button className="w-full flex items-center gap-3 p-3 bg-blue-50 rounded-xl hover:bg-blue-100 transition-colors group cursor-pointer">
+                  <div className="w-10 h-10 bg-[#1e3a5f] rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform">
+                    <Send className="w-6 h-6 text-white" aria-hidden="true" />
+                  </div>
+                  <div className="text-left">
+                    <h4 className="font-semibold text-gray-900 mb-0.5">Invia Email</h4>
+                    <p className="text-sm text-gray-500">
+                      Compila il form per inviarci un'email
+                    </p>
+                  </div>
+                </button>
+              }
+            />
 
             {/* MAPPA */}
             <div className="mt-4 rounded-2xl overflow-hidden shadow-lg border border-gray-200">
