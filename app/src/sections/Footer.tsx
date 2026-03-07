@@ -1,5 +1,6 @@
 import { Phone, Mail, MapPin, ExternalLink } from 'lucide-react';
 import { scrollToSection } from '@/lib/scrollTo';
+import { Link } from 'react-router-dom';
 import logoImg from '../assets/logo-new.png';
 
 const quickLinks = [
@@ -158,12 +159,12 @@ export default function Footer() {
             </p>
 
             <div className="flex items-center gap-4 text-sm text-blue-200">
-              <button
-                onClick={() => scrollToSection('#contatti')}
+              <Link
+                to="/privacy"
                 className="hover:text-white transition-colors"
               >
                 Privacy Policy
-              </button>
+              </Link>
               <span aria-hidden="true">·</span>
               <button
                 onClick={() => scrollToSection('#contatti')}
