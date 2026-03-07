@@ -9,7 +9,6 @@ import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
 import Certifications from "./sections/Certifications";
 import Projects from "./sections/Projects";
-import Privacy from "./Privacy";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function CookieBanner() {
@@ -137,14 +136,6 @@ function CertificationsPage() {
   );
 }
 
-function PrivacyPage() {
-  return (
-    <main id="main-content" className="pt-16">
-      <Privacy />
-    </main>
-  );
-}
-
 function App() {
   return (
     <BrowserRouter>
@@ -155,7 +146,6 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/lavori" element={<ProjectsPage />} />
           <Route path="/attestati" element={<CertificationsPage />} />
-          <Route path="/privacy" element={<PrivacyPage />} />
         </Routes>
 
         <Footer />
