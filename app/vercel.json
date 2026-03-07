@@ -1,8 +1,6 @@
 {
           "buildCommand": "npm install && npm run build",
           "outputDirectory": "dist",
-          "installCommand": "npm install",
-          "framework": "vite",
           "redirects": [
                       {
                                     "source": "/:path*",
@@ -12,7 +10,6 @@
                       }
           ],
           "rewrites": [
-                      { "source": "/api/send-email", "destination": "/src/routes/send-email.ts" },
                       { "source": "/(.*)", "destination": "/index.html" }
           ]
 }
