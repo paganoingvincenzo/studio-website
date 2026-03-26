@@ -78,6 +78,7 @@ const services = [
       'Pratiche GSE',
       'Registrazione GAUDÌ - Terna',
       'Autorizzazioni urbanistiche',
+      'Pratiche doganali',
     ],
     color: 'from-purple-400 to-purple-600',
     bgColor: 'bg-purple-50',
